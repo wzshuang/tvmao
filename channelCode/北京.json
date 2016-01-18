@@ -1,0 +1,64 @@
+[{
+    "channelName": "北京卫视",
+    "channelCode": "BTV-BTV1"
+}, {
+    "channelName": "BTV纪实",
+    "channelCode": "BTV-BTV12"
+}, {
+    "channelName": "北京文艺频道",
+    "channelCode": "BTV-BTV2"
+}, {
+    "channelName": "北京科教频道",
+    "channelCode": "BTV-BTV3"
+}, {
+    "channelName": "北京影视频道",
+    "channelCode": "BTV-BTV4"
+}, {
+    "channelName": "北京财经频道",
+    "channelCode": "BTV-BTV5"
+}, {
+    "channelName": "北京体育频道",
+    "channelCode": "BTV-BTV6"
+}, {
+    "channelName": "北京生活频道",
+    "channelCode": "BTV-BTV7"
+}, {
+    "channelName": "北京青年频道",
+    "channelCode": "BTV-BTV8"
+}, {
+    "channelName": "北京新闻频道",
+    "channelCode": "BTV-BTV9"
+}, {
+    "channelName": "BTV卡酷少儿",
+    "channelCode": "BTV-BTV10"
+}, {
+    "channelName": "BTV国际(亚洲)",
+    "channelCode": "BTV-BTV11"
+}, {
+    "channelName": "BTV国际(美洲)",
+    "channelCode": "BTV-BTVGJMZ"
+}, {
+    "channelName": "BTV国际(欧洲)",
+    "channelCode": "BTV-BTVGJOZ"
+}, {
+    "channelName": "中央远教四套",
+    "channelCode": "CCTVYJ-ZYYJTV-4"
+}, {
+    "channelName": "CNTV城市剧场",
+    "channelCode": "CNTV-CNTVCITY"
+}, {
+    "channelName": "CNTV古装剧场",
+    "channelCode": "CNTV-CNTVGZJC"
+}, {
+    "channelName": "CNTV武侠剧场",
+    "channelCode": "CNTV-CNTVWXJC"
+}, {
+    "channelName": "CNTV家庭影院",
+    "channelCode": "CNTV-CNTVJTYY"
+}, {
+    "channelName": "CNTV喜剧影院",
+    "channelCode": "CNTV-CNTVXJYY"
+}, {
+    "channelName": "CNTV动作影院",
+    "channelCode": "CNTV-CNTVDZYY"
+}]

@@ -1,0 +1,259 @@
+[{
+    "channelName": "南方卫视",
+    "channelCode": "NANFANG-NANFANG2"
+}, {
+    "channelName": "TVS-1经济频道",
+    "channelCode": "NANFANG-NANFANG1"
+}, {
+    "channelName": "TVS-3综艺频道",
+    "channelCode": "NANFANG-NANFANG3"
+}, {
+    "channelName": "TVS-4影视频道",
+    "channelCode": "NANFANG-NANFANG4"
+}, {
+    "channelName": "TVS-5少儿频道",
+    "channelCode": "NANFANG-NANFANG5"
+}, {
+    "channelName": "TVS-2南方卫视",
+    "channelCode": "NANFANG-NANFANG6"
+}, {
+    "channelName": "深圳卫视",
+    "channelCode": "SZTV-SZTV1"
+}, {
+    "channelName": "深圳卫视",
+    "channelCode": "SZTV-SZTV1-HK"
+}, {
+    "channelName": "深视都市频道",
+    "channelCode": "SZTV-SZTV2"
+}, {
+    "channelName": "深视电视剧频道",
+    "channelCode": "SZTV-SZTV3"
+}, {
+    "channelName": "深视财经生活频道",
+    "channelCode": "SZTV-SZTV4"
+}, {
+    "channelName": "深圳娱乐频道",
+    "channelCode": "SZTV-SZTV5"
+}, {
+    "channelName": "深视体育健康频道",
+    "channelCode": "SZTV-SZTV6"
+}, {
+    "channelName": "深视少儿频道",
+    "channelCode": "SZTV-SZTV7"
+}, {
+    "channelName": "深视公共频道",
+    "channelCode": "SZTV-SZTV8"
+}, {
+    "channelName": "深圳移动电视频道",
+    "channelCode": "SZTV-SZTV9"
+}, {
+    "channelName": "深圳卫视(亚洲)",
+    "channelCode": "SZTV-SZTV10"
+}, {
+    "channelName": "DV生活频道",
+    "channelCode": "SZTV-SZTV11"
+}, {
+    "channelName": "深圳国际频道(美洲)",
+    "channelCode": "SZTV-SZTV12"
+}, {
+    "channelName": "法治沙头角频道",
+    "channelCode": "SZTV-FZSTJ"
+}, {
+    "channelName": "广州综合频道",
+    "channelCode": "GZTV-GZTV1"
+}, {
+    "channelName": "广州新闻频道",
+    "channelCode": "GZTV-GZTV2"
+}, {
+    "channelName": "广州竞赛频道",
+    "channelCode": "GZTV-GZTV3"
+}, {
+    "channelName": "广州影视频道",
+    "channelCode": "GZTV-GZTV4"
+}, {
+    "channelName": "广州生活频道",
+    "channelCode": "GZTV-GZTV5"
+}, {
+    "channelName": "广州经济频道",
+    "channelCode": "GZTV-GZTV6"
+}, {
+    "channelName": "广州少儿频道",
+    "channelCode": "GZTV-GZTV7"
+}, {
+    "channelName": "珠海新闻综合频道",
+    "channelCode": "ZHTV-ZHTV1"
+}, {
+    "channelName": "珠海生活服务频道",
+    "channelCode": "ZHTV-ZHTV2"
+}, {
+    "channelName": "珠海导视",
+    "channelCode": "ZHTV-ZHDS"
+}, {
+    "channelName": "传奇导视",
+    "channelCode": "ZHTV-ZHTV5"
+}, {
+    "channelName": "导视珠海",
+    "channelCode": "ZHTV-ZHTV4"
+}, {
+    "channelName": "佛山新闻综合频道",
+    "channelCode": "GDFS-GDFS1"
+}, {
+    "channelName": "佛山影视频道",
+    "channelCode": "GDFS-GDFS2"
+}, {
+    "channelName": "佛山公共频道",
+    "channelCode": "GDFS-GDFS3"
+}, {
+    "channelName": "佛山南海频道",
+    "channelCode": "GDFS-GDFS4"
+}, {
+    "channelName": "佛山顺德频道",
+    "channelCode": "GDFS-GDFS5"
+}, {
+    "channelName": "中山台综合频道",
+    "channelCode": "GDZS-GDZS1"
+}, {
+    "channelName": "中山公共频道",
+    "channelCode": "GDZS-GDZS2"
+}, {
+    "channelName": "中山导视频道",
+    "channelCode": "GDZS-GDZS4"
+}, {
+    "channelName": "中山教育频道",
+    "channelCode": "GDZS-GDZS3"
+}, {
+    "channelName": "湛江综合频道",
+    "channelCode": "GDZJ-GDZJ1"
+}, {
+    "channelName": "湛江公共频道",
+    "channelCode": "GDZJ-GDZJ2"
+}, {
+    "channelName": "潮州新闻综合",
+    "channelCode": "CZBTV-CZBTV1"
+}, {
+    "channelName": "潮州台公共频道",
+    "channelCode": "CZBTV-CZBTV2"
+}, {
+    "channelName": "肇庆新闻综合",
+    "channelCode": "GDZQ-GDZQ1"
+}, {
+    "channelName": "肇庆公共频道",
+    "channelCode": "GDZQ-GDZQ2"
+}, {
+    "channelName": "东莞新闻综合",
+    "channelCode": "GDDG-GDDG1"
+}, {
+    "channelName": "东莞公共频道",
+    "channelCode": "GDDG-GDDG2"
+}, {
+    "channelName": "江门综合频道",
+    "channelCode": "JMTV-JMTV2"
+}, {
+    "channelName": "江门教育频道",
+    "channelCode": "JMTV-JMTV3"
+}, {
+    "channelName": "江门公共频道",
+    "channelCode": "JMTV-JMTV1"
+}, {
+    "channelName": "茂名公共频道",
+    "channelCode": "MMTV-MMTV1"
+}, {
+    "channelName": "汕头新闻综合",
+    "channelCode": "SRTTV-SRTTV1"
+}, {
+    "channelName": "汕头经济生活",
+    "channelCode": "SRTTV-SRTTV2"
+}, {
+    "channelName": "汕头影视文艺",
+    "channelCode": "SRTTV-SRTTV3"
+}, {
+    "channelName": "高尔夫频道",
+    "channelCode": "GDSMD-GOLF"
+}, {
+    "channelName": "英语辅导频道",
+    "channelCode": "GDSMD-ENGLISH-TEACHING"
+}, {
+    "channelName": "欧洲足球",
+    "channelCode": "GDSMD-EUROPEFOOTBALL"
+}, {
+    "channelName": "房产频道",
+    "channelCode": "GDSMD-FANGCHAN"
+}, {
+    "channelName": "岭南戏曲",
+    "channelCode": "GDSMD-LNXQ"
+}, {
+    "channelName": "会展频道",
+    "channelCode": "GDSMD-HUIZAHN"
+}, {
+    "channelName": "现代教育频道",
+    "channelCode": "GDSMD-FUN-TV"
+}, {
+    "channelName": "快乐宠物",
+    "channelCode": "GDSMD-PETS-TV"
+}, {
+    "channelName": "惠州一套",
+    "channelCode": "GDHZTV-GDHZTV1"
+}, {
+    "channelName": "惠州二套",
+    "channelCode": "GDHZTV-GDHZTV2"
+}, {
+    "channelName": "惠州三套",
+    "channelCode": "GDHZTV-GDHZTV3"
+}, {
+    "channelName": "揭阳综合频道",
+    "channelCode": "GDJYTV-GDJYTV1"
+}, {
+    "channelName": "揭阳公共频道",
+    "channelCode": "GDJYTV-GDJYTV2"
+}, {
+    "channelName": "梅县综合频道",
+    "channelCode": "GDMXTV-GDMXTV1"
+}, {
+    "channelName": "梅县影视频道",
+    "channelCode": "GDMXTV-GDMXTV2"
+}, {
+    "channelName": "梅州时政综合频道",
+    "channelCode": "GDMZTV-GDMZTV1"
+}, {
+    "channelName": "梅州客家公共频道",
+    "channelCode": "GDMZTV-GDMZTV2"
+}, {
+    "channelName": "梅州影视文艺频道",
+    "channelCode": "GDMZTV-GDMZTV3"
+}, {
+    "channelName": "韶关新闻综合频道",
+    "channelCode": "GDSGTV-GDSGTV1"
+}, {
+    "channelName": "清远综合频道",
+    "channelCode": "GDQYTV-GDQYTV1"
+}, {
+    "channelName": "清远公共频道",
+    "channelCode": "GDQYTV-GDQYTV2"
+}, {
+    "channelName": "河源综合频道",
+    "channelCode": "HYTV-HYRTV-1"
+}, {
+    "channelName": "河源公共频道",
+    "channelCode": "HYTV-HYRTV2"
+}, {
+    "channelName": "潮安综合频道",
+    "channelCode": "CHAANTV-CHAANTV1"
+}, {
+    "channelName": "潮安传承频道",
+    "channelCode": "CHAANTV-CHAANTV2"
+}, {
+    "channelName": "汕尾综合频道",
+    "channelCode": "SWTV-SWTV1"
+}, {
+    "channelName": "汕尾公共频道",
+    "channelCode": "SWTV-SWTV2"
+}, {
+    "channelName": "蛇口综合频道",
+    "channelCode": "SKTV-SKTV1"
+}, {
+    "channelName": "阳江综合频道",
+    "channelCode": "YANGJTV-YANGJTV"
+}, {
+    "channelName": "阳江公共频道",
+    "channelCode": "YANGJTV-YANGJTV2"
+}]

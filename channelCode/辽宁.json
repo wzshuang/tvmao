@@ -1,0 +1,172 @@
+[{
+    "channelName": "辽宁卫视",
+    "channelCode": "LNTV-LNTV1"
+}, {
+    "channelName": "辽宁都市频道",
+    "channelCode": "LNTV-LNTV2"
+}, {
+    "channelName": "辽宁影视剧频道",
+    "channelCode": "LNTV-LNTV3"
+}, {
+    "channelName": "辽宁宜佳频道",
+    "channelCode": "LNTV-LNTV4"
+}, {
+    "channelName": "辽宁教育青少频道",
+    "channelCode": "LNTV-LNTV5"
+}, {
+    "channelName": "辽宁生活频道",
+    "channelCode": "LNTV-LNTV6"
+}, {
+    "channelName": "辽宁公共频道",
+    "channelCode": "LNTV-LNTV7"
+}, {
+    "channelName": "辽宁北方频道",
+    "channelCode": "LNTV-LNTV8"
+}, {
+    "channelName": "辽宁体育频道",
+    "channelCode": "LNTV-LNTV-SPORT"
+}, {
+    "channelName": "辽宁经济频道",
+    "channelCode": "LNTV-LNTV-FINANCE"
+}, {
+    "channelName": "沈阳新闻频道",
+    "channelCode": "LNSY-LNSY1"
+}, {
+    "channelName": "大连新闻综合频道",
+    "channelCode": "DALIAN-DALIAN1"
+}, {
+    "channelName": "大连生活频道",
+    "channelCode": "DALIAN-DALIAN2"
+}, {
+    "channelName": "大连公共频道",
+    "channelCode": "DALIAN-DALIAN3"
+}, {
+    "channelName": "大连文体频道",
+    "channelCode": "DALIAN-DALIAN4"
+}, {
+    "channelName": "大连影视频道",
+    "channelCode": "DALIAN-DALIAN5"
+}, {
+    "channelName": "大连少儿频道",
+    "channelCode": "DALIAN-DALIAN6"
+}, {
+    "channelName": "大连财经频道",
+    "channelCode": "DALIAN-DALIAN7"
+}, {
+    "channelName": "大连乐天购物频道",
+    "channelCode": "DALIAN-DLLTGW"
+}, {
+    "channelName": "抚顺新闻频道",
+    "channelCode": "LNFS-LNFS1"
+}, {
+    "channelName": "抚顺公用频道",
+    "channelCode": "LNFS-LNFS2"
+}, {
+    "channelName": "抚顺综合频道",
+    "channelCode": "LNFS-LNFS3"
+}, {
+    "channelName": "丹东新闻频道",
+    "channelCode": "DDTV-DDTV1"
+}, {
+    "channelName": "丹东公共频道",
+    "channelCode": "DDTV-DDTV2"
+}, {
+    "channelName": "丹东影视频道",
+    "channelCode": "DDTV-DDTV3"
+}, {
+    "channelName": "铁岭新闻综合频道",
+    "channelCode": "TIELING-TIELING1"
+}, {
+    "channelName": "铁岭生活频道",
+    "channelCode": "TIELING-TIELING2"
+}, {
+    "channelName": "铁岭快乐三频道",
+    "channelCode": "TIELING-TIELING3"
+}, {
+    "channelName": "鞍山新闻综合频道",
+    "channelCode": "AHSHANTV-AHSHANTV1"
+}, {
+    "channelName": "鞍山公共频道",
+    "channelCode": "AHSHANTV-AHSHANTV2"
+}, {
+    "channelName": "鞍山娱乐频道",
+    "channelCode": "AHSHANTV-AHSHANTV3"
+}, {
+    "channelName": "鞍山时尚频道",
+    "channelCode": "AHSHANTV-AHSHANTV4"
+}, {
+    "channelName": "鞍山导视频道",
+    "channelCode": "AHSHANTV-AHSHANTV5"
+}, {
+    "channelName": "鞍山新闻集锦频道",
+    "channelCode": "AHSHANTV-AHSHANTV6"
+}, {
+    "channelName": "鞍山图文频道",
+    "channelCode": "AHSHANTV-AHSHANTUWEN"
+}, {
+    "channelName": "本溪一套",
+    "channelCode": "BXTV-BXTV1"
+}, {
+    "channelName": "本溪二套",
+    "channelCode": "BXTV-BXTV2"
+}, {
+    "channelName": "本溪三套",
+    "channelCode": "BXTV-BXTV3"
+}, {
+    "channelName": "盘锦一套",
+    "channelCode": "PJTV-PJTV11"
+}, {
+    "channelName": "盘锦二套",
+    "channelCode": "PJTV-PJTV12"
+}, {
+    "channelName": "盘锦三套",
+    "channelCode": "PJTV-PJTV13"
+}, {
+    "channelName": "锦州一套",
+    "channelCode": "JINZHOUTV-JINZHOUTV1"
+}, {
+    "channelName": "锦州二套",
+    "channelCode": "JINZHOUTV-JINZHOUTV2"
+}, {
+    "channelName": "锦州三套",
+    "channelCode": "JINZHOUTV-JINZHOUTV3"
+}, {
+    "channelName": "葫芦岛新闻综合",
+    "channelCode": "HLDTV-HLDTV1"
+}, {
+    "channelName": "葫芦岛社会生活",
+    "channelCode": "HLDTV-HLDTV2"
+}, {
+    "channelName": "阜新社会生活频道",
+    "channelCode": "FXTV-FXTV1"
+}, {
+    "channelName": "辽河一套",
+    "channelCode": "SHLHTV-SHLHTV1"
+}, {
+    "channelName": "辽河二套",
+    "channelCode": "SHLHTV-SYLHTV2"
+}, {
+    "channelName": "辽阳新闻综合",
+    "channelCode": "LAYATV-LAYATV1"
+}, {
+    "channelName": "辽阳都市频道",
+    "channelCode": "LAYATV-LAYATV2"
+}, {
+    "channelName": "辽阳教育科技",
+    "channelCode": "LAYATV-LAYATV3"
+}, {
+    "channelName": "朝阳公共生活频道",
+    "channelCode": "CHYTV-CHYTV1"
+}, {
+    "channelName": "朝阳新闻综合频道",
+    "channelCode": "CHYTV-CHYTV3"
+}, {
+    "channelName": "营口新闻综合频道",
+    "channelCode": "YKOTV-YKOTV1"
+}, {
+    "channelName": "营口社会生活频道",
+    "channelCode": "YKOTV-YKOTV2"
+}, {
+    "channelName": "营口文艺影视频道",
+    "channelCode": "YKOTV-YKOTV3"
+}]

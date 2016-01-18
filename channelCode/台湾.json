@@ -1,0 +1,421 @@
+[{
+    "channelName": "星空卫视",
+    "channelCode": "STARTV-XINGKONG1-HK"
+}, {
+    "channelName": "星空卫视",
+    "channelCode": "STARTV-XINGKONG1-SG"
+}, {
+    "channelName": "星空卫视",
+    "channelCode": "STARTV-XINGKONG1"
+}, {
+    "channelName": "卫视音乐",
+    "channelCode": "STARTV-CHANNEL-V-CN"
+}, {
+    "channelName": "STAR MOVIES",
+    "channelCode": "STARTV-STAR-MOVIES"
+}, {
+    "channelName": "STAR MOVIES",
+    "channelCode": "STARTV-STAR-MOVIES-CN"
+}, {
+    "channelName": "Star Gold",
+    "channelCode": "STARTV-STAR-GOLD"
+}, {
+    "channelName": "STAR Cricket",
+    "channelCode": "STARTV-STAR-CRICKET"
+}, {
+    "channelName": "星卫HD电影台",
+    "channelCode": "STARTV-STAR-HD-MOVIES"
+}, {
+    "channelName": "Channel [V] India",
+    "channelCode": "STARTV-CHANNEL-V-INDIA"
+}, {
+    "channelName": "卫视体育台",
+    "channelCode": "STARTV-STARSPORT"
+}, {
+    "channelName": "卫视体育台2",
+    "channelCode": "STARTV-STARSPORT2"
+}, {
+    "channelName": "卫视中文台",
+    "channelCode": "STARTV-STAR-CHINESE-CHANNEL"
+}, {
+    "channelName": "卫视中文台",
+    "channelCode": "STARTV-STAR-CHINESE-CHANNEL-SG"
+}, {
+    "channelName": "卫视合家欢",
+    "channelCode": "STARTV-STAR-WORLD-HK"
+}, {
+    "channelName": "卫视合家欢",
+    "channelCode": "STARTV-STAR-WORLD-TW"
+}, {
+    "channelName": "卫视合家欢",
+    "channelCode": "STARTV-STAR-WORLD-SG"
+}, {
+    "channelName": "卫视电影台",
+    "channelCode": "STARTV-STAR-CHINESE-MOVIES-HK"
+}, {
+    "channelName": "卫视电影台",
+    "channelCode": "STARTV-STAR-CHINESE-MOVIES-TW"
+}, {
+    "channelName": "卫视电影台",
+    "channelCode": "STARTV-STAR-CHINESE-MOVIES-SG"
+}, {
+    "channelName": "卫视卡式台",
+    "channelCode": "STARTV-STAR-CHINESE-MOVIES-LEGEND"
+}, {
+    "channelName": "CHANNEL [V]国际频道",
+    "channelCode": "STARTV-CHANNEL-V-INTERNATIONAL"
+}, {
+    "channelName": "Star Plus",
+    "channelCode": "STARTV-STAR-PLUS"
+}, {
+    "channelName": "ABP News",
+    "channelCode": "STARTV-STAR-NEWS"
+}, {
+    "channelName": "Life OK",
+    "channelCode": "STARTV-LIFE-OK"
+}, {
+    "channelName": "Vijay",
+    "channelCode": "STARTV-STAR-VIJAY"
+}, {
+    "channelName": "东风卫视",
+    "channelCode": "ERACOM-AZIOTV"
+}, {
+    "channelName": "JETTV",
+    "channelCode": "ERACOM-JETTV-HK"
+}, {
+    "channelName": "JETTV",
+    "channelCode": "ERACOM-JETTV"
+}, {
+    "channelName": "吉本东风",
+    "channelCode": "ERACOM-AZIO-ASIA"
+}, {
+    "channelName": "年代NEWS",
+    "channelCode": "ERACOM-ERA-NEWS"
+}, {
+    "channelName": "MUCH TV",
+    "channelCode": "ERACOM-MUCHTV"
+}, {
+    "channelName": "东森电影台",
+    "channelCode": "ETTV-ETTV1"
+}, {
+    "channelName": "东森综合台",
+    "channelCode": "ETTV-ETTV2"
+}, {
+    "channelName": "东森戏剧台",
+    "channelCode": "ETTV-ETTV3"
+}, {
+    "channelName": "东森新闻台",
+    "channelCode": "ETTV-ETTV4"
+}, {
+    "channelName": "YOYO TV",
+    "channelCode": "ETTV-ETTV5"
+}, {
+    "channelName": "东森财经新闻",
+    "channelCode": "ETTV-ETTV6"
+}, {
+    "channelName": "东森洋片台",
+    "channelCode": "ETTV-ETTV7"
+}, {
+    "channelName": "东森亚洲新闻台",
+    "channelCode": "ETTV-ETTV-ASIA-NEWS"
+}, {
+    "channelName": "东森超视",
+    "channelCode": "ETTV-SUPERTV"
+}, {
+    "channelName": "东森亚洲卫视",
+    "channelCode": "ETTV-ETTV-ASIA"
+}, {
+    "channelName": "中天新闻台",
+    "channelCode": "CTITV-CTITV1"
+}, {
+    "channelName": "中天综合台",
+    "channelCode": "CTITV-CTITV2"
+}, {
+    "channelName": "中天娱乐台",
+    "channelCode": "CTITV-CTITV3"
+}, {
+    "channelName": "中天亚洲台",
+    "channelCode": "CTITV-CTITV-ASIA"
+}, {
+    "channelName": "纬来日本台",
+    "channelCode": "WEILAI-WEILAI1"
+}, {
+    "channelName": "纬来综合台",
+    "channelCode": "WEILAI-WEILAI2"
+}, {
+    "channelName": "纬来体育台",
+    "channelCode": "WEILAI-WEILAI3"
+}, {
+    "channelName": "纬来戏剧台",
+    "channelCode": "WEILAI-WEILAI4"
+}, {
+    "channelName": "纬来育乐台",
+    "channelCode": "WEILAI-WEILAI5"
+}, {
+    "channelName": "纬来电影台",
+    "channelCode": "WEILAI-WEILAI7"
+}, {
+    "channelName": "緯來精彩台",
+    "channelCode": "WEILAI-VLHD"
+}, {
+    "channelName": "TVBS",
+    "channelCode": "TVBS-TVBS1"
+}, {
+    "channelName": "TVBS新闻台",
+    "channelCode": "TVBS-TVBS-NEWS"
+}, {
+    "channelName": "TVBS欢乐台",
+    "channelCode": "TVBS-TVBS3"
+}, {
+    "channelName": "台视",
+    "channelCode": "TWTV-TWTV1"
+}, {
+    "channelName": "台视综合台",
+    "channelCode": "TWTV-TWTV2"
+}, {
+    "channelName": "台视财经台",
+    "channelCode": "TWTV-TWTV3"
+}, {
+    "channelName": "台视新闻台",
+    "channelCode": "TWTV-TWTVHD1"
+}, {
+    "channelName": "台湾公视",
+    "channelCode": "TWPTS-TWPTS1"
+}, {
+    "channelName": "台湾公视DIMO",
+    "channelCode": "TWPTS-TWPTS2"
+}, {
+    "channelName": "公视HD",
+    "channelCode": "TWPTS-TWPTSHD"
+}, {
+    "channelName": "原视",
+    "channelCode": "TWPTS-ITV"
+}, {
+    "channelName": "客语频道",
+    "channelCode": "TWPTS-HAKKATV"
+}, {
+    "channelName": "台湾中视主频道",
+    "channelCode": "TWCHINATV-TWCHINATV1"
+}, {
+    "channelName": "台湾中视综艺台",
+    "channelCode": "TWCHINATV-TWCHINATV2"
+}, {
+    "channelName": "台湾中视新闻台",
+    "channelCode": "TWCHINATV-TWCHINATV3"
+}, {
+    "channelName": "中视HD",
+    "channelCode": "TWCHINATV-CTVHD"
+}, {
+    "channelName": "台湾华视主频道",
+    "channelCode": "TWCTS-TWCTS1"
+}, {
+    "channelName": "台湾华视教育文化频道",
+    "channelCode": "TWCTS-TWCTS2"
+}, {
+    "channelName": "华视新闻资讯台",
+    "channelCode": "TWCTS-TWCTS3"
+}, {
+    "channelName": "华视综合娱乐 ",
+    "channelCode": "TWCTS-TWCTS5"
+}, {
+    "channelName": "民视无线台",
+    "channelCode": "TWFTV-TWFTV1"
+}, {
+    "channelName": "民视新闻台",
+    "channelCode": "TWFTV-TWFTV2"
+}, {
+    "channelName": "民视四季台",
+    "channelCode": "TWFTV-TWSJT1"
+}, {
+    "channelName": "民视交通台",
+    "channelCode": "TWFTV-TWFTV3"
+}, {
+    "channelName": "好消息一台",
+    "channelCode": "GOODTV-GOODTV1"
+}, {
+    "channelName": "好消息二台",
+    "channelCode": "GOODTV-GOODTV2"
+}, {
+    "channelName": "三立台湾台",
+    "channelCode": "SETTV-SETTV1"
+}, {
+    "channelName": "三立都会台",
+    "channelCode": "SETTV-SETTV2"
+}, {
+    "channelName": "三立新闻台",
+    "channelCode": "SETTV-SETTV3"
+}, {
+    "channelName": "三立财经台",
+    "channelCode": "SETTV-SET-FINANCE"
+}, {
+    "channelName": "三立戏剧台",
+    "channelCode": "SETTV-SET-DRAMA"
+}, {
+    "channelName": "八大第一台",
+    "channelCode": "GTV-GTV1"
+}, {
+    "channelName": "八大综合台",
+    "channelCode": "GTV-GTV2"
+}, {
+    "channelName": "八大戏剧台",
+    "channelCode": "GTV-GTV3"
+}, {
+    "channelName": "八大娱乐台",
+    "channelCode": "GTV-GTV4"
+}, {
+    "channelName": "LS TIME电影台",
+    "channelCode": "LSMOVIE-LSMOVIE1"
+}, {
+    "channelName": "Z CHANNEL",
+    "channelCode": "ZCHANNEL-ZCHANNEL"
+}, {
+    "channelName": "霹雳台湾台",
+    "channelCode": "PILI-PILI"
+}, {
+    "channelName": "创世电视",
+    "channelCode": "CREATION-CREATION1"
+}, {
+    "channelName": "高点台",
+    "channelCode": "TOPTV-TOPTV1"
+}, {
+    "channelName": "高点育乐台",
+    "channelCode": "TOPTV-TOPTV2"
+}, {
+    "channelName": "国兴卫视",
+    "channelCode": "GOLDSUNTV-GOLDSUNTV1"
+}, {
+    "channelName": "MOMO亲子台",
+    "channelCode": "MOMO-MOMO"
+}, {
+    "channelName": "非凡新闻台",
+    "channelCode": "USTV-USTV-NEWS"
+}, {
+    "channelName": "非凡商业台",
+    "channelCode": "USTV-USTV-BUSINESS"
+}, {
+    "channelName": "大爱一台",
+    "channelCode": "DAAI-DAAI1"
+}, {
+    "channelName": "大爱二台HD",
+    "channelCode": "DAAI-DAAI2"
+}, {
+    "channelName": "大爱海外频道",
+    "channelCode": "DAAI-DAAIHW"
+}, {
+    "channelName": "DAAI TV",
+    "channelCode": "DAAI-DAAITV"
+}, {
+    "channelName": "人间台",
+    "channelCode": "BLTV-BLTV1"
+}, {
+    "channelName": "Nice Bingo",
+    "channelCode": "GOLDENTV-NICE-BINGO"
+}, {
+    "channelName": "靖天育乐台",
+    "channelCode": "GOLDENTV-GTCTV-ENT"
+}, {
+    "channelName": "靖天日本台",
+    "channelCode": "GOLDENTV-GTCTV-JAPAN"
+}, {
+    "channelName": "靖天资讯台",
+    "channelCode": "GOLDENTV-GTCTV-INFO"
+}, {
+    "channelName": "靖天卡通台",
+    "channelCode": "GOLDENTV-GTCTV-CARTOON"
+}, {
+    "channelName": "靖天电影台",
+    "channelCode": "GOLDENTV-GTCTV-MOVIE"
+}, {
+    "channelName": "靖天综合台",
+    "channelCode": "GOLDENTV-GTCTV-INT"
+}, {
+    "channelName": "靖天戏剧台",
+    "channelCode": "GOLDENTV-GTCTV-DRAMA"
+}, {
+    "channelName": "NICE TV",
+    "channelCode": "GOLDENTV-NICE-TV"
+}, {
+    "channelName": "靖洋戏剧台",
+    "channelCode": "GOLDENTV-GOLDEN-DRAMA"
+}, {
+    "channelName": "靖天映畫",
+    "channelCode": "GOLDENTV-GOLDEN-MOVIE"
+}, {
+    "channelName": "家娱国际台",
+    "channelCode": "GOLDENTV-GTCTV-WORLD"
+}, {
+    "channelName": "ELTA综合台",
+    "channelCode": "ELTA-ELTA-INT"
+}, {
+    "channelName": "ELTA影剧台",
+    "channelCode": "ELTA-ELTA-MOVIE"
+}, {
+    "channelName": "ELTA体育台",
+    "channelCode": "ELTA-ELTA-SPORTS"
+}, {
+    "channelName": "亚洲旅游台",
+    "channelCode": "HITRAVEL-HITRAVEL1"
+}, {
+    "channelName": "亚洲旅游台",
+    "channelCode": "HITRAVEL-HITRAVEL1-SG"
+}, {
+    "channelName": "寰宇新闻台",
+    "channelCode": "HITRAVEL-HITRAVEL2"
+}, {
+    "channelName": "寰宇新闻二台",
+    "channelCode": "HITRAVEL-HITRAVEL3"
+}, {
+    "channelName": "美食星球台",
+    "channelCode": "HITRAVEL-HITRAVEL4"
+}, {
+    "channelName": "SMART知识台",
+    "channelCode": "HITRAVEL-HITRAVEL5"
+}, {
+    "channelName": "亚洲综合台",
+    "channelCode": "HITRAVEL-HITRAVEL6"
+}, {
+    "channelName": "Eye TV戏剧台",
+    "channelCode": "EYETV-EYE-TV-DRAMA"
+}, {
+    "channelName": "Eye TV旅游台",
+    "channelCode": "EYETV-EYE-TV-TRAVEL"
+}, {
+    "channelName": "壹电视新闻台",
+    "channelCode": "NEXTTV-NEXTTV-NEWS"
+}, {
+    "channelName": "壹电视综合台",
+    "channelCode": "NEXTTV-NEXTTV-INT"
+}, {
+    "channelName": "壹电视电影台",
+    "channelCode": "NEXTTV-NEXTTV-MOVIE"
+}, {
+    "channelName": "博斯高球一台",
+    "channelCode": "CSKY-CSKY-GOLF1"
+}, {
+    "channelName": "博斯高球二台",
+    "channelCode": "CSKY-CSKY-GOLF2"
+}, {
+    "channelName": "博斯无限台",
+    "channelCode": "CSKY-CSKY-FOOTBALL"
+}, {
+    "channelName": "博斯运动网",
+    "channelCode": "CSKY-CSKY-SPORTS"
+}, {
+    "channelName": "博斯网球台",
+    "channelCode": "CSKY-CSKY-TENNIS"
+}, {
+    "channelName": "博斯魅力",
+    "channelCode": "CSKY-CSKY-WOMAN"
+}, {
+    "channelName": "博斯足球台",
+    "channelCode": "CSKY-CSKY-FOOTBALL2"
+}, {
+    "channelName": "生命电视台",
+    "channelCode": "LIFETV-LIFETV"
+}, {
+    "channelName": "新眼光电视台",
+    "channelCode": "NETV-NETV"
+}, {
+    "channelName": "寰宇财经台",
+    "channelCode": "CSTV-CSTV"
+}]

@@ -1,0 +1,43 @@
+[{
+    "channelName": "宜春一套",
+    "channelCode": "JXYCTV-JXYCTV1"
+}, {
+    "channelName": "宜春二套",
+    "channelCode": "JXYCTV-JXYCTV2"
+}, {
+    "channelName": "宜春三套",
+    "channelCode": "JXYCTV-JXYCTV3"
+}, {
+    "channelName": "南昌数字频道",
+    "channelCode": "NANCHANG-NANCHANG-DIGITAL"
+}, {
+    "channelName": "南昌新闻综合频道",
+    "channelCode": "NANCHANG-NANCHANG1"
+}, {
+    "channelName": "南昌公共频道",
+    "channelCode": "NANCHANG-NANCHANG2"
+}, {
+    "channelName": "南昌资讯频道",
+    "channelCode": "NANCHANG-NANCHANG3"
+}, {
+    "channelName": "南昌都市频道",
+    "channelCode": "NANCHANG-NANCHANG4"
+}, {
+    "channelName": "南昌精品房产",
+    "channelCode": "NANCHANG-NCJPFC"
+}, {
+    "channelName": "九江一套",
+    "channelCode": "JXJJTV-JXJJTV1"
+}, {
+    "channelName": "九江二套",
+    "channelCode": "JXJJTV-JXJJTV2"
+}, {
+    "channelName": "九江三套",
+    "channelCode": "JXJJTV-JXJJTV3"
+}, {
+    "channelName": "吉安一套",
+    "channelCode": "JXJATV-JXJATV1"
+}, {
+    "channelName": "吉安三套",
+    "channelCode": "JXJATV-JXJATV3"
+}]

@@ -1,0 +1,148 @@
+[{
+    "channelName": "安徽卫视",
+    "channelCode": "AHTV-AHTV1"
+}, {
+    "channelName": "安徽经济生活频道",
+    "channelCode": "AHTV-AHTV2"
+}, {
+    "channelName": "安徽影视频道",
+    "channelCode": "AHTV-AHTV3"
+}, {
+    "channelName": "安徽公共频道",
+    "channelCode": "AHTV-AHTV5"
+}, {
+    "channelName": "安徽科教频道",
+    "channelCode": "AHTV-AHTV6"
+}, {
+    "channelName": "安徽国际频道",
+    "channelCode": "AHTV-AHTV8"
+}, {
+    "channelName": "安徽导视频道",
+    "channelCode": "AHTV-AHDS"
+}, {
+    "channelName": "合肥电视剧频道",
+    "channelCode": "HEFEITV-HFDIANSHIJU"
+}, {
+    "channelName": "合肥都市频道",
+    "channelCode": "HEFEITV-HFDUSHI"
+}, {
+    "channelName": "合肥欢乐频道",
+    "channelCode": "HEFEITV-HFHUANLE"
+}, {
+    "channelName": "皖江购物频道",
+    "channelCode": "HEFEITV-WANJIANGSHOP"
+}, {
+    "channelName": "合肥新闻频道",
+    "channelCode": "HEFEITV-HEFEITV1"
+}, {
+    "channelName": "合肥生活频道",
+    "channelCode": "HEFEITV-HEFEITV2"
+}, {
+    "channelName": "合肥教育法制",
+    "channelCode": "HEFEITV-HEFEITV3"
+}, {
+    "channelName": "合肥财经频道",
+    "channelCode": "HEFEITV-HEFEITV4"
+}, {
+    "channelName": "合肥影院频道",
+    "channelCode": "HEFEITV-HEFEITV5"
+}, {
+    "channelName": "合肥故事休闲频道",
+    "channelCode": "HEFEITV-HFSTORY"
+}, {
+    "channelName": "安庆综合频道",
+    "channelCode": "AQBTV-AQXW"
+}, {
+    "channelName": "安庆经视频道",
+    "channelCode": "AQBTV-AQJS"
+}, {
+    "channelName": "安庆图文频道",
+    "channelCode": "AQBTV-AQTW"
+}, {
+    "channelName": "安庆公共频道",
+    "channelCode": "AQBTV-AQGG"
+}, {
+    "channelName": "安庆黄梅戏频道",
+    "channelCode": "AQBTV-AQHM"
+}, {
+    "channelName": "天长综合频道",
+    "channelCode": "AHTCTV-AHTCTV1"
+}, {
+    "channelName": "天长影视频道",
+    "channelCode": "AHTCTV-AHTCTV2"
+}, {
+    "channelName": "蚌埠新闻频道",
+    "channelCode": "AHBBTV-AHBBTV1"
+}, {
+    "channelName": "蚌埠生活频道",
+    "channelCode": "AHBBTV-AHBBTV2"
+}, {
+    "channelName": "蚌埠公共频道",
+    "channelCode": "AHBBTV-AHBBTV3"
+}, {
+    "channelName": "淮南新闻综合",
+    "channelCode": "HUAINANTV-HUAINANTV1"
+}, {
+    "channelName": "淮南经济生活",
+    "channelCode": "HUAINANTV-HUAINANTV2"
+}, {
+    "channelName": "淮南时尚娱乐",
+    "channelCode": "HUAINANTV-HUAINANTV3"
+}, {
+    "channelName": "芜湖新闻综合",
+    "channelCode": "WUHUTV-WUHUTV1"
+}, {
+    "channelName": "芜湖生活频道",
+    "channelCode": "WUHUTV-WUHUTV2"
+}, {
+    "channelName": "芜湖徽商频道",
+    "channelCode": "WUHUTV-WUHUTV3"
+}, {
+    "channelName": "芜湖教育频道",
+    "channelCode": "WUHUTV-WUHUTV4"
+}, {
+    "channelName": "黄山一套",
+    "channelCode": "HSTV-HSTV1"
+}, {
+    "channelName": "淮北新闻综合频道",
+    "channelCode": "AHHBTV-AHHBTV1"
+}, {
+    "channelName": "淮北公共频道",
+    "channelCode": "AHHBTV-AHHBTV2"
+}, {
+    "channelName": "淮北教育频道",
+    "channelCode": "AHHBTV-AHHBTV3"
+}, {
+    "channelName": "淮北影视频道",
+    "channelCode": "AHHBTV-AHHBTV-3"
+}, {
+    "channelName": "宿州一套",
+    "channelCode": "SUZHTV-SUZHTV1"
+}, {
+    "channelName": "宿州二套",
+    "channelCode": "SUZHTV-SUZHTV2"
+}, {
+    "channelName": "宿州三套",
+    "channelCode": "SUZHTV-SUZHTV3"
+}, {
+    "channelName": "宿州四套",
+    "channelCode": "SUZHTV-SUZHTV4"
+}, {
+    "channelName": "六安都市生活频道",
+    "channelCode": "LIUANTV-LIUANTV1"
+}, {
+    "channelName": "六安公共频道",
+    "channelCode": "LIUANTV-LIUANTV2"
+}, {
+    "channelName": "六安少儿频道",
+    "channelCode": "LIUANTV-LIUANTV3"
+}, {
+    "channelName": "六安新闻频道",
+    "channelCode": "LIUANTV-LIUANTV4"
+}, {
+    "channelName": "亳州新闻频道",
+    "channelCode": "HAOZHOUTV-HAOZHOUTV1"
+}, {
+    "channelName": "亳州农村频道",
+    "channelCode": "HAOZHOUTV-HAOZHOUTV2"
+}]

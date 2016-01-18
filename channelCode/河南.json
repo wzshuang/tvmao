@@ -1,0 +1,205 @@
+[{
+    "channelName": "河南卫视",
+    "channelCode": "HNTV-HNTV1"
+}, {
+    "channelName": "河南都市频道",
+    "channelCode": "HNTV-HNTV2"
+}, {
+    "channelName": "河南民生频道",
+    "channelCode": "HNTV-HNTV3"
+}, {
+    "channelName": "河南政法频道",
+    "channelCode": "HNTV-HNTV4"
+}, {
+    "channelName": "河南电视剧频道",
+    "channelCode": "HNTV-HNTV5"
+}, {
+    "channelName": "河南新闻频道",
+    "channelCode": "HNTV-HNTV6"
+}, {
+    "channelName": "河南欢腾购物频道",
+    "channelCode": "HNTV-HNTV7"
+}, {
+    "channelName": "河南公共频道",
+    "channelCode": "HNTV-HNTV8"
+}, {
+    "channelName": "河南新农村频道",
+    "channelCode": "HNTV-HNTV9"
+}, {
+    "channelName": "河南国际频道",
+    "channelCode": "HNTV-HNGJ"
+}, {
+    "channelName": "郑州教育",
+    "channelCode": "ZHENGZHOUTV-ZETV"
+}, {
+    "channelName": "郑州时政频道",
+    "channelCode": "ZHENGZHOUTV-ZHENGZHOUTV1"
+}, {
+    "channelName": "郑州商都频道",
+    "channelCode": "ZHENGZHOUTV-ZHENGZHOUTV2"
+}, {
+    "channelName": "郑州文体频道",
+    "channelCode": "ZHENGZHOUTV-ZHENGZHOUTV3"
+}, {
+    "channelName": "郑州都市生活频道",
+    "channelCode": "ZHENGZHOUTV-ZHENGZHOUTV4"
+}, {
+    "channelName": "郑州妇女儿童频道",
+    "channelCode": "ZHENGZHOUTV-ZHENGZHOUTV5"
+}, {
+    "channelName": "郑州影视戏曲频道",
+    "channelCode": "ZHENGZHOUTV-ZHENGZHOUTV6"
+}, {
+    "channelName": "洛阳综合频道",
+    "channelCode": "LYTV-LYTV1"
+}, {
+    "channelName": "洛阳公共频道",
+    "channelCode": "LYTV-LYTV2"
+}, {
+    "channelName": "洛阳科教频道",
+    "channelCode": "LYTV-LYTV3"
+}, {
+    "channelName": "洛阳文娱频道",
+    "channelCode": "LYTV-LYTV4"
+}, {
+    "channelName": "南阳新闻综合频道",
+    "channelCode": "NYTV-NYTV1"
+}, {
+    "channelName": "南阳公共频道",
+    "channelCode": "NYTV-NYTV2"
+}, {
+    "channelName": "南阳科教频道",
+    "channelCode": "NYTV-NYTV3"
+}, {
+    "channelName": "开封新闻综合频道",
+    "channelCode": "KFTV-KFTV1"
+}, {
+    "channelName": "开封城区生活频道",
+    "channelCode": "KFTV-KFTV2"
+}, {
+    "channelName": "开封公共频道",
+    "channelCode": "KFTV-KFTV3"
+}, {
+    "channelName": "济源电视台",
+    "channelCode": "JYTV-JYTV1"
+}, {
+    "channelName": "新乡新闻综合频道",
+    "channelCode": "HNXXTV-HNXXTV1"
+}, {
+    "channelName": "新乡法制频道",
+    "channelCode": "HNXXTV-HNXXTV2"
+}, {
+    "channelName": "新乡影视娱乐频道",
+    "channelCode": "HNXXTV-HNXXTV3"
+}, {
+    "channelName": "新乡生活频道",
+    "channelCode": "HNXXTV-HNXXTV4"
+}, {
+    "channelName": "新乡教育频道",
+    "channelCode": "HNXXTV-XXJY"
+}, {
+    "channelName": "信阳台综合频道",
+    "channelCode": "XINYANG-XINYANG1"
+}, {
+    "channelName": "信阳台平桥频道",
+    "channelCode": "XINYANG-XINYANG2"
+}, {
+    "channelName": "信阳台公共频道",
+    "channelCode": "XINYANG-XINYANG3"
+}, {
+    "channelName": "三门峡电视台1套",
+    "channelCode": "SANMENGXIA-SANMENGXIA1"
+}, {
+    "channelName": "三门峡公共频道",
+    "channelCode": "SANMENGXIA-SANMENGXIA2"
+}, {
+    "channelName": "安阳新闻综合频道",
+    "channelCode": "AYTV-AYTV1"
+}, {
+    "channelName": "安阳法制频道",
+    "channelCode": "AYTV-AYTV2"
+}, {
+    "channelName": "安阳科教频道",
+    "channelCode": "AYTV-AYTV3"
+}, {
+    "channelName": "安阳图文生活频道",
+    "channelCode": "AYTV-AYTV4"
+}, {
+    "channelName": "鹤壁新闻综合频道",
+    "channelCode": "HEBITV-HEBITV1"
+}, {
+    "channelName": "鹤壁生活频道",
+    "channelCode": "HEBITV-HEBITV2"
+}, {
+    "channelName": "周口新闻综合频道",
+    "channelCode": "HNZKTV-HNZKTV1"
+}, {
+    "channelName": "周口公共频道",
+    "channelCode": "HNZKTV-HNZKTV2"
+}, {
+    "channelName": "周口图文频道",
+    "channelCode": "HNZKTV-HNZKTV3"
+}, {
+    "channelName": "周口教育频道",
+    "channelCode": "HNZKTV-HNZKTV4"
+}, {
+    "channelName": "许昌综合频道",
+    "channelCode": "HNXCTV-HNXCTV1"
+}, {
+    "channelName": "许昌公共频道",
+    "channelCode": "HNXCTV-HNXCTV2"
+}, {
+    "channelName": "焦作新闻综合频道",
+    "channelCode": "HNJZTV-HNJZTV1"
+}, {
+    "channelName": "焦作生活频道",
+    "channelCode": "HNJZTV-HNJZTV2"
+}, {
+    "channelName": "焦作娱乐频道",
+    "channelCode": "HNJZTV-HNJZTV3"
+}, {
+    "channelName": "濮阳新闻综合频道",
+    "channelCode": "HNPYTV-HNPYTV1"
+}, {
+    "channelName": "濮阳公共频道",
+    "channelCode": "HNPYTV-HNPYTV2"
+}, {
+    "channelName": "濮阳科教频道",
+    "channelCode": "HNPYTV-HNPYTV3"
+}, {
+    "channelName": "驻马店新闻综合",
+    "channelCode": "ZMDTV-ZMDTV1"
+}, {
+    "channelName": "驻马店科学教育",
+    "channelCode": "ZMDTV-ZMDTV2"
+}, {
+    "channelName": "商丘综合频道",
+    "channelCode": "SQTVCA-SQTVCA1"
+}, {
+    "channelName": "商丘公共频道",
+    "channelCode": "SQTVCA-SQTVCA2"
+}, {
+    "channelName": "商丘文体科教频道",
+    "channelCode": "SQTVCA-SQTVCA3"
+}, {
+    "channelName": "商丘教育频道",
+    "channelCode": "SQTVCA-SQJYTV"
+}, {
+    "channelName": "漯河都市频道",
+    "channelCode": "LHTV-LHTV1"
+}, {
+    "channelName": "漯河影视频道",
+    "channelCode": "LHTV-LHTV2"
+}, {
+    "channelName": "漯河教育台",
+    "channelCode": "LHTV-LHJYTV4"
+}, {
+    "channelName": "平顶山新闻综合",
+    "channelCode": "PTSTV-PDSTV1"
+}, {
+    "channelName": "平顶山城市频道",
+    "channelCode": "PTSTV-PDSTV2"
+}, {
+    "channelName": "平顶山公共频道",
+    "channelCode": "PTSTV-PDSTV3"
+}]

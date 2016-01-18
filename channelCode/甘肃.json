@@ -1,0 +1,79 @@
+[{
+    "channelName": "甘肃卫视",
+    "channelCode": "GSTV-GSTV1"
+}, {
+    "channelName": "甘肃经济频道",
+    "channelCode": "GSTV-GSTV2"
+}, {
+    "channelName": "甘肃少儿频道",
+    "channelCode": "GSTV-GSTV3"
+}, {
+    "channelName": "甘肃公共频道",
+    "channelCode": "GSTV-GSTV4"
+}, {
+    "channelName": "甘肃都市频道",
+    "channelCode": "GSTV-GSTV5"
+}, {
+    "channelName": "甘肃文化影视频道",
+    "channelCode": "GSTV-GSTV6"
+}, {
+    "channelName": "天水新闻综合频道",
+    "channelCode": "TSTV-TSTV1"
+}, {
+    "channelName": "天水公共频道",
+    "channelCode": "TSTV-TSTV2"
+}, {
+    "channelName": "天水旅游资讯频道",
+    "channelCode": "TSTV-TSLYZX"
+}, {
+    "channelName": "天水导视",
+    "channelCode": "TSTV-TSDAOSHI"
+}, {
+    "channelName": "兰州新闻综合频道",
+    "channelCode": "LANZHOUTV-LANZHOUTV1"
+}, {
+    "channelName": "兰州综艺体育频道",
+    "channelCode": "LANZHOUTV-LANZHOUTV2"
+}, {
+    "channelName": "兰州生活经济频道",
+    "channelCode": "LANZHOUTV-LANZHOUTV3"
+}, {
+    "channelName": "兰州公共频道",
+    "channelCode": "LANZHOUTV-LANZHOUTV4"
+}, {
+    "channelName": "睛彩兰州频道",
+    "channelCode": "LANZHOUTV-JCLZ"
+}, {
+    "channelName": "金昌综合频道",
+    "channelCode": "GSJCTV-GSJCTV1"
+}, {
+    "channelName": "金昌公共频道",
+    "channelCode": "GSJCTV-GSJCTV2"
+}, {
+    "channelName": "武威新闻综合频道",
+    "channelCode": "WWTV-WWXWZH"
+}, {
+    "channelName": "武威凉州频道",
+    "channelCode": "WWTV-WWLZ"
+}, {
+    "channelName": "武威公共频道",
+    "channelCode": "WWTV-WWGG"
+}, {
+    "channelName": "临夏综合频道",
+    "channelCode": "LINXIATV-LINXIATV1"
+}, {
+    "channelName": "临夏公共频道",
+    "channelCode": "LINXIATV-LINXIATV2"
+}, {
+    "channelName": "白银综合频道",
+    "channelCode": "BAIYINTV-BAIYINTV1"
+}, {
+    "channelName": "白银公共频道",
+    "channelCode": "BAIYINTV-BAIYINTV2"
+}, {
+    "channelName": "酒泉综合频道",
+    "channelCode": "JIUQUNTV-JIUQUANTV1"
+}, {
+    "channelName": "酒泉公共频道",
+    "channelCode": "JIUQUNTV-JIUQUANTV2"
+}]

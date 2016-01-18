@@ -1,0 +1,31 @@
+[{
+    "channelName": "宁夏卫视",
+    "channelCode": "NXTV-NXTV2"
+}, {
+    "channelName": "宁夏台公共频道",
+    "channelCode": "NXTV-NXTV1"
+}, {
+    "channelName": "宁夏台经济频道",
+    "channelCode": "NXTV-NXTV3"
+}, {
+    "channelName": "宁夏台影视频道",
+    "channelCode": "NXTV-NXTV4"
+}, {
+    "channelName": "宁夏台少儿频道",
+    "channelCode": "NXTV-NXTV5"
+}, {
+    "channelName": "宁夏家庭影院",
+    "channelCode": "NXTV-NXTV6"
+}, {
+    "channelName": "宁夏精品点播回放",
+    "channelCode": "NXTV-NXTV7"
+}, {
+    "channelName": "银川台文体频道",
+    "channelCode": "YINCHUANG-YINCHUANG1"
+}, {
+    "channelName": "银川台生活频道",
+    "channelCode": "YINCHUANG-YINCHUANG2"
+}, {
+    "channelName": "银川台公共频道",
+    "channelCode": "YINCHUANG-YINCHUANG3"
+}]

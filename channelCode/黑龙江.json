@@ -1,0 +1,130 @@
+[{
+    "channelName": "黑龙江卫视",
+    "channelCode": "HLJTV-HLJTV1"
+}, {
+    "channelName": "黑龙江影视",
+    "channelCode": "HLJTV-HLJTV2"
+}, {
+    "channelName": "黑龙江文艺",
+    "channelCode": "HLJTV-HLJTV3"
+}, {
+    "channelName": "黑龙江都市",
+    "channelCode": "HLJTV-HLJTV4"
+}, {
+    "channelName": "黑龙江新闻",
+    "channelCode": "HLJTV-HLJTV5"
+}, {
+    "channelName": "黑龙江公共",
+    "channelCode": "HLJTV-HLJTV6"
+}, {
+    "channelName": "黑龙江第七频道",
+    "channelCode": "HLJTV-HLJTV7"
+}, {
+    "channelName": "黑龙江考试",
+    "channelCode": "HLJTV-HLJEXAM"
+}, {
+    "channelName": "黑龙江导视",
+    "channelCode": "HLJTV-HLJDAOSHI"
+}, {
+    "channelName": "黑龙江手机电视",
+    "channelCode": "HLJTV-HLJSJTV"
+}, {
+    "channelName": "精彩导视",
+    "channelCode": "HLJTV-JCDAOSHI"
+}, {
+    "channelName": "骄阳剧场",
+    "channelCode": "HLJTV-HLJJYJC"
+}, {
+    "channelName": "哈尔滨新闻综合",
+    "channelCode": "HRBTV-HRBTV1"
+}, {
+    "channelName": "哈尔滨资讯频道",
+    "channelCode": "HRBTV-HRBTV2"
+}, {
+    "channelName": "哈尔滨生活频道",
+    "channelCode": "HRBTV-HRBTV3"
+}, {
+    "channelName": "哈尔滨娱乐频道",
+    "channelCode": "HRBTV-HRBTV4"
+}, {
+    "channelName": "哈尔滨影视频道",
+    "channelCode": "HRBTV-HRBTV5"
+}, {
+    "channelName": "大庆新闻综合频道",
+    "channelCode": "DAQINGTV-DAQINGTV1"
+}, {
+    "channelName": "大庆百湖频道",
+    "channelCode": "DAQINGTV-DAQINGTV2"
+}, {
+    "channelName": "大庆影视频道",
+    "channelCode": "DAQINGTV-DAQINGTV3"
+}, {
+    "channelName": "油田综合",
+    "channelCode": "DAQINGTV-DQYT"
+}, {
+    "channelName": "大庆科教频道",
+    "channelCode": "DAQINGTV-DQKJTV"
+}, {
+    "channelName": "伊春新闻综合频道",
+    "channelCode": "YICHUNTV-YICHUNTV1"
+}, {
+    "channelName": "伊春公共频道",
+    "channelCode": "YICHUNTV-YICHUNTV2"
+}, {
+    "channelName": "牡丹江新闻综合频道",
+    "channelCode": "MOUDANJIAN-MOUDANJIAN1"
+}, {
+    "channelName": "牡丹江公共频道",
+    "channelCode": "MOUDANJIAN-MOUDANJIAN2"
+}, {
+    "channelName": "牡丹江教育频道",
+    "channelCode": "MOUDANJIAN-MOUDANJIAN3"
+}, {
+    "channelName": "牡丹江金融频道",
+    "channelCode": "MOUDANJIAN-MOUDANJIAN4"
+}, {
+    "channelName": "牡丹江地产频道",
+    "channelCode": "MOUDANJIAN-MOUDANJIAN5"
+}, {
+    "channelName": "牡丹江图文频道",
+    "channelCode": "MOUDANJIAN-MOUDANJIAN6"
+}, {
+    "channelName": "北大荒公共频道",
+    "channelCode": "BDHTV-BDHGG"
+}, {
+    "channelName": "北大荒农业频道",
+    "channelCode": "BDHTV-BDHNY"
+}, {
+    "channelName": "北大荒资讯频道",
+    "channelCode": "BDHTV-BDHZX"
+}, {
+    "channelName": "齐齐哈尔新闻综合",
+    "channelCode": "QQHRTV-QQHRTV1"
+}, {
+    "channelName": "齐齐哈尔公共",
+    "channelCode": "QQHRTV-QQHRTV2"
+}, {
+    "channelName": "齐齐哈尔影视文艺",
+    "channelCode": "QQHRTV-QQHRTV3"
+}, {
+    "channelName": "齐齐哈尔经济",
+    "channelCode": "QQHRTV-QQHRTV4"
+}, {
+    "channelName": "鹤岗综合频道",
+    "channelCode": "HGTV-HGTV1"
+}, {
+    "channelName": "鹤岗公共频道",
+    "channelCode": "HGTV-HGTV2"
+}, {
+    "channelName": "鹤岗矿区频道",
+    "channelCode": "HGTV-HGTV3"
+}, {
+    "channelName": "佳木斯新闻综合",
+    "channelCode": "JMSTV-JMSTV1"
+}, {
+    "channelName": "佳木斯公共频道",
+    "channelCode": "JMSTV-JMSTV2"
+}, {
+    "channelName": "佳木斯影视频道",
+    "channelCode": "JMSTV-JMSTV3"
+}]

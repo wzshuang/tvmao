@@ -1,0 +1,337 @@
+[{
+    "channelName": "山东卫视",
+    "channelCode": "SDTV-SDTV1"
+}, {
+    "channelName": "山东齐鲁频道",
+    "channelCode": "SDTV-SDTV2"
+}, {
+    "channelName": "山东体育频道",
+    "channelCode": "SDTV-SDTV3"
+}, {
+    "channelName": "山东农科频道",
+    "channelCode": "SDTV-SDTV4"
+}, {
+    "channelName": "山东公共频道",
+    "channelCode": "SDTV-SDTV5"
+}, {
+    "channelName": "山东少儿频道",
+    "channelCode": "SDTV-SDTV6"
+}, {
+    "channelName": "山东影视频道",
+    "channelCode": "SDTV-SDTV7"
+}, {
+    "channelName": "山东综艺频道",
+    "channelCode": "SDTV-SDTV8"
+}, {
+    "channelName": "山东生活频道",
+    "channelCode": "SDTV-SDTV9"
+}, {
+    "channelName": "动漫视界",
+    "channelCode": "SDCATV-DMSJ"
+}, {
+    "channelName": "悬疑电影",
+    "channelCode": "SDCATV-JDDY"
+}, {
+    "channelName": "尚TV",
+    "channelCode": "SDCATV-SHANGTV"
+}, {
+    "channelName": "亚洲电影",
+    "channelCode": "SDCATV-YZDY"
+}, {
+    "channelName": "音乐电视",
+    "channelCode": "SDCATV-MUSICTV"
+}, {
+    "channelName": "山东有线海外频道",
+    "channelCode": "SDCATV-SDCATV4"
+}, {
+    "channelName": "居家购物频道",
+    "channelCode": "SDCATV-SDCATV5"
+}, {
+    "channelName": "欧美电影",
+    "channelCode": "SDCATV-OMDY"
+}, {
+    "channelName": "山东有线导视服务",
+    "channelCode": "SDCATV-DSFW"
+}, {
+    "channelName": "下周导视",
+    "channelCode": "SDCATV-GXDS"
+}, {
+    "channelName": "紫荆剧场",
+    "channelCode": "SDCATV-HQJC"
+}, {
+    "channelName": "探索发现",
+    "channelCode": "SDCATV-TSFX"
+}, {
+    "channelName": "音乐会",
+    "channelCode": "SDCATV-YYH"
+}, {
+    "channelName": "美食之旅",
+    "channelCode": "SDCATV-MSZL"
+}, {
+    "channelName": "山东教育台",
+    "channelCode": "SDETV-SDETV1"
+}, {
+    "channelName": "青岛新闻综合频道",
+    "channelCode": "SDQD-SDQD1"
+}, {
+    "channelName": "青岛生活服务频道",
+    "channelCode": "SDQD-SDQD2"
+}, {
+    "channelName": "青岛影视频道",
+    "channelCode": "SDQD-SDQD3"
+}, {
+    "channelName": "青岛财经资讯频道",
+    "channelCode": "SDQD-SDQD4"
+}, {
+    "channelName": "青岛都市频道",
+    "channelCode": "SDQD-SDQD5"
+}, {
+    "channelName": "青岛青少旅游频道",
+    "channelCode": "SDQD-SDQD6"
+}, {
+    "channelName": "济南新闻综合",
+    "channelCode": "JNTV-JNTV1"
+}, {
+    "channelName": "济南都市频道",
+    "channelCode": "JNTV-JNTV2"
+}, {
+    "channelName": "济南影视频道",
+    "channelCode": "JNTV-JNTV3"
+}, {
+    "channelName": "济南娱乐频道",
+    "channelCode": "JNTV-JNTV4"
+}, {
+    "channelName": "济南生活频道",
+    "channelCode": "JNTV-JNTV5"
+}, {
+    "channelName": "济南商务频道",
+    "channelCode": "JNTV-JNTV6"
+}, {
+    "channelName": "济南少儿频道",
+    "channelCode": "JNTV-JNTV7"
+}, {
+    "channelName": "济南教育频道",
+    "channelCode": "JNTV-JNETV"
+}, {
+    "channelName": "历城新闻综合",
+    "channelCode": "JNTV-LCXW"
+}, {
+    "channelName": "历城影视频道",
+    "channelCode": "JNTV-LCYS"
+}, {
+    "channelName": "历城导视频道",
+    "channelCode": "JNTV-LCDS"
+}, {
+    "channelName": "淄博新闻综合",
+    "channelCode": "ZBRT-ZBRT1"
+}, {
+    "channelName": "淄博公共频道",
+    "channelCode": "ZBRT-ZBRT2"
+}, {
+    "channelName": "淄博生活法治频道",
+    "channelCode": "ZBRT-ZBRT3"
+}, {
+    "channelName": "淄博都市频道",
+    "channelCode": "ZBRT-ZBRT4"
+}, {
+    "channelName": "淄博科教频道",
+    "channelCode": "ZBRT-ZBRT5"
+}, {
+    "channelName": "潍坊潍城频道",
+    "channelCode": "SDWF-WFWC"
+}, {
+    "channelName": "潍坊新闻综合频道",
+    "channelCode": "SDWF-SDWF1"
+}, {
+    "channelName": "潍坊公共频道",
+    "channelCode": "SDWF-SDWF2"
+}, {
+    "channelName": "潍坊经济生活频道",
+    "channelCode": "SDWF-SDWF3"
+}, {
+    "channelName": "潍坊科教频道",
+    "channelCode": "SDWF-SDWF4"
+}, {
+    "channelName": "日照台综合频道",
+    "channelCode": "RIZHAO-RIZHAO1"
+}, {
+    "channelName": "日照台科教频道",
+    "channelCode": "RIZHAO-RIZHAO2"
+}, {
+    "channelName": "日照台公共频道",
+    "channelCode": "RIZHAO-RIZHAO3"
+}, {
+    "channelName": "日照台影视频道",
+    "channelCode": "RIZHAO-RIZHAO4"
+}, {
+    "channelName": "泰安教科",
+    "channelCode": "TATV-TATV3"
+}, {
+    "channelName": "泰安图文",
+    "channelCode": "TATV-TATV4"
+}, {
+    "channelName": "泰安新闻",
+    "channelCode": "TATV-TATV1"
+}, {
+    "channelName": "泰安公共",
+    "channelCode": "TATV-TATV2"
+}, {
+    "channelName": "莱阳电视台",
+    "channelCode": "SDLY-SDLY1"
+}, {
+    "channelName": "枣庄教育频道",
+    "channelCode": "ZAOZHUANG-ZAOZHUANG1"
+}, {
+    "channelName": "枣庄公共频道",
+    "channelCode": "ZAOZHUANG-ZAOZHUANG2"
+}, {
+    "channelName": "枣庄新闻频道",
+    "channelCode": "ZAOZHUANG-ZAOZHUANG3"
+}, {
+    "channelName": "环翠台",
+    "channelCode": "WEIHAI-WHHCTV"
+}, {
+    "channelName": "威海电视台1套",
+    "channelCode": "WEIHAI-WEIHAI1"
+}, {
+    "channelName": "威海电视台2套",
+    "channelCode": "WEIHAI-WEIHAI2"
+}, {
+    "channelName": "威海电视台3套",
+    "channelCode": "WEIHAI-WEIHAI3"
+}, {
+    "channelName": "威海综艺频道",
+    "channelCode": "WEIHAI-WHZY"
+}, {
+    "channelName": "烟台新闻综合",
+    "channelCode": "YANTAI-YANTAI1"
+}, {
+    "channelName": "烟台经济生活",
+    "channelCode": "YANTAI-YANTAI2"
+}, {
+    "channelName": "烟台电视剧",
+    "channelCode": "YANTAI-YANTAI3"
+}, {
+    "channelName": "烟台都市文体",
+    "channelCode": "YANTAI-YANTAI4"
+}, {
+    "channelName": "烟台电影",
+    "channelCode": "YANTAI-YANTAI5"
+}, {
+    "channelName": "聊城新闻综合频道",
+    "channelCode": "LCTV-LCTV1"
+}, {
+    "channelName": "聊城公共服务频道",
+    "channelCode": "LCTV-LCTV2"
+}, {
+    "channelName": "聊城影视频道",
+    "channelCode": "LCTV-LCTV3"
+}, {
+    "channelName": "聊城图文频道",
+    "channelCode": "LCTV-LCTV4"
+}, {
+    "channelName": "德州综合频道",
+    "channelCode": "DZTV-DZTV1"
+}, {
+    "channelName": "德州娱乐频道",
+    "channelCode": "DZTV-DZTV2"
+}, {
+    "channelName": "德州生活频道",
+    "channelCode": "DZTV-DZTV3"
+}, {
+    "channelName": "临沂新闻综合频道",
+    "channelCode": "LINYITV-LINYITV1"
+}, {
+    "channelName": "临沂财经频道",
+    "channelCode": "LINYITV-LINYITV2"
+}, {
+    "channelName": "临沂影视频道",
+    "channelCode": "LINYITV-LINYITV3"
+}, {
+    "channelName": "临沂公共频道",
+    "channelCode": "LINYITV-LINYITV4"
+}, {
+    "channelName": "济宁新闻综合频道",
+    "channelCode": "SDJNTV-SDJNTV1"
+}, {
+    "channelName": "济宁生活频道",
+    "channelCode": "SDJNTV-SDJNTV2"
+}, {
+    "channelName": "济宁影视频道",
+    "channelCode": "SDJNTV-SDJNTV3"
+}, {
+    "channelName": "济宁都市频道",
+    "channelCode": "SDJNTV-SDJNTV4"
+}, {
+    "channelName": "济宁党建频道",
+    "channelCode": "SDJNTV-SDJNDJ"
+}, {
+    "channelName": "济宁中区电视剧",
+    "channelCode": "SDJNTV-SDJNZQ1"
+}, {
+    "channelName": "济宁中区电影娱乐",
+    "channelCode": "SDJNTV-SDJNZQ2"
+}, {
+    "channelName": "任城1台",
+    "channelCode": "SDJNTV-SDJNRC1"
+}, {
+    "channelName": "任城2台",
+    "channelCode": "SDJNTV-SDJNRC2"
+}, {
+    "channelName": "任城3台",
+    "channelCode": "SDJNTV-SDJNRC3"
+}, {
+    "channelName": "滨州新闻综合频道",
+    "channelCode": "BINZHOUTV-BINZHOUTV1"
+}, {
+    "channelName": "滨州公共电视剧",
+    "channelCode": "BINZHOUTV-BINZHOUTV2"
+}, {
+    "channelName": "菏泽新闻综合频道",
+    "channelCode": "HZTV-HZTV1"
+}, {
+    "channelName": "菏泽公共频道",
+    "channelCode": "HZTV-HZTV2"
+}, {
+    "channelName": "菏泽综艺频道",
+    "channelCode": "HZTV-HZTV3"
+}, {
+    "channelName": "莱芜一套",
+    "channelCode": "LWTV-LTV1"
+}, {
+    "channelName": "莱芜二套",
+    "channelCode": "LWTV-LTV2"
+}, {
+    "channelName": "莱芜三套",
+    "channelCode": "LWTV-LTV3"
+}, {
+    "channelName": "邹城一套",
+    "channelCode": "ZCTVS-ZCYT"
+}, {
+    "channelName": "邹城二套",
+    "channelCode": "ZCTVS-ZCET"
+}, {
+    "channelName": "邹城三套",
+    "channelCode": "ZCTVS-ZCST"
+}, {
+    "channelName": "胜利综合频道",
+    "channelCode": "SLYTTV-SLYTTV1"
+}, {
+    "channelName": "胜利影视频道",
+    "channelCode": "SLYTTV-SLYTTV2"
+}, {
+    "channelName": "胜利图文频道",
+    "channelCode": "SLYTTV-SLYTTV3"
+}, {
+    "channelName": "东营新闻综合频道",
+    "channelCode": "DYTVCA-DYTVCA1"
+}, {
+    "channelName": "东营公共频道",
+    "channelCode": "DYTVCA-DYTVCA2"
+}, {
+    "channelName": "东营经济频道",
+    "channelCode": "DYTVCA-DYTVCA3"
+}, {
+    "channelName": "东营农民教育频道",
+    "channelCode": "DYTVCA-DYTVCA4"
+}]

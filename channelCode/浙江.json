@@ -1,0 +1,238 @@
+[{
+    "channelName": "浙江卫视",
+    "channelCode": "ZJTV-ZJTV1"
+}, {
+    "channelName": "浙江卫视",
+    "channelCode": "ZJTV-ZJTV1-HK"
+}, {
+    "channelName": "浙江钱江都市",
+    "channelCode": "ZJTV-ZJTV2"
+}, {
+    "channelName": "浙江经视频道",
+    "channelCode": "ZJTV-ZJTV3"
+}, {
+    "channelName": "浙江教育科技",
+    "channelCode": "ZJTV-ZJTV4"
+}, {
+    "channelName": "浙江影视娱乐",
+    "channelCode": "ZJTV-ZJTV5"
+}, {
+    "channelName": "浙江民生休闲",
+    "channelCode": "ZJTV-ZJTV6"
+}, {
+    "channelName": "浙江公共新农村",
+    "channelCode": "ZJTV-ZJTV7"
+}, {
+    "channelName": "浙江少儿频道",
+    "channelCode": "ZJTV-ZJTV8"
+}, {
+    "channelName": "浙江卫视（亚洲）",
+    "channelCode": "ZJTV-ZJTV9"
+}, {
+    "channelName": "浙江卫视(美洲)",
+    "channelCode": "ZJTV-ZJTV12"
+}, {
+    "channelName": "浙江卫视(欧洲)",
+    "channelCode": "ZJTV-ZJTV13"
+}, {
+    "channelName": "好易购频道",
+    "channelCode": "ZJTV-HYG"
+}, {
+    "channelName": "杭州综合频道",
+    "channelCode": "HTV-HTV1"
+}, {
+    "channelName": "杭州西湖明珠",
+    "channelCode": "HTV-HTV2"
+}, {
+    "channelName": "杭州生活频道",
+    "channelCode": "HTV-HTV3"
+}, {
+    "channelName": "杭州影视频道",
+    "channelCode": "HTV-HTV4"
+}, {
+    "channelName": "杭州少儿频道",
+    "channelCode": "HTV-HTV5"
+}, {
+    "channelName": "杭州导视纪录",
+    "channelCode": "HTV-HTV6"
+}, {
+    "channelName": "杭州精品剧场",
+    "channelCode": "HTV-HTV8"
+}, {
+    "channelName": "宁波新闻综合",
+    "channelCode": "NBTV-NBTV1"
+}, {
+    "channelName": "宁波社会生活",
+    "channelCode": "NBTV-NBTV2"
+}, {
+    "channelName": "宁波都市文体",
+    "channelCode": "NBTV-NBTV3"
+}, {
+    "channelName": "宁波影视频道",
+    "channelCode": "NBTV-NBTV4"
+}, {
+    "channelName": "宁波少儿频道",
+    "channelCode": "NBTV-NBTV5"
+}, {
+    "channelName": "温州新闻综合",
+    "channelCode": "WZTV-WZTV1"
+}, {
+    "channelName": "温州经济科教",
+    "channelCode": "WZTV-WZTV2"
+}, {
+    "channelName": "温州都市生活",
+    "channelCode": "WZTV-WZTV3"
+}, {
+    "channelName": "温州公共民生",
+    "channelCode": "WZTV-WZTV4"
+}, {
+    "channelName": "瓯江先锋频道",
+    "channelCode": "WZTV-WZTV5"
+}, {
+    "channelName": "湖州新闻综合",
+    "channelCode": "HUZHOUTV-HUZHOUTV1"
+}, {
+    "channelName": "湖州文化娱乐",
+    "channelCode": "HUZHOUTV-HUZHOUTV2"
+}, {
+    "channelName": "湖州公共民生",
+    "channelCode": "HUZHOUTV-HUZHOUTV3"
+}, {
+    "channelName": "湖州新起点频道",
+    "channelCode": "HUZHOUTV-HUZHOUTV4"
+}, {
+    "channelName": "湖州服务导视",
+    "channelCode": "HUZHOUTV-HUZHOUTV5"
+}, {
+    "channelName": "嘉兴新闻综合",
+    "channelCode": "JIAXINTV-JIAXINTV1"
+}, {
+    "channelName": "嘉兴文化影视",
+    "channelCode": "JIAXINTV-JIAXINTV2"
+}, {
+    "channelName": "嘉兴公共频道",
+    "channelCode": "JIAXINTV-JIAXINTV3"
+}, {
+    "channelName": "金华新闻综合",
+    "channelCode": "JINHUATV-JINHUATV1"
+}, {
+    "channelName": "金华教育科技",
+    "channelCode": "JINHUATV-JINHUATV2"
+}, {
+    "channelName": "金华经济生活",
+    "channelCode": "JINHUATV-JINHUATV3"
+}, {
+    "channelName": "义乌新闻频道",
+    "channelCode": "ZJYIWU-ZJYIWU1"
+}, {
+    "channelName": "义乌商贸频道",
+    "channelCode": "ZJYIWU-ZJYIWU2"
+}, {
+    "channelName": "义乌公共文艺",
+    "channelCode": "ZJYIWU-ZJYIWU3"
+}, {
+    "channelName": "绍兴文化影视频道",
+    "channelCode": "SHAOXIN-SHAOXIN1"
+}, {
+    "channelName": "绍兴公共频道",
+    "channelCode": "SHAOXIN-SHAOXIN2"
+}, {
+    "channelName": "绍兴新闻综合",
+    "channelCode": "SHAOXIN-SHAOXIN3"
+}, {
+    "channelName": "中国轻纺城频道",
+    "channelCode": "SHAOXIN-SHAOXIN4"
+}, {
+    "channelName": "舟山新闻综合频道",
+    "channelCode": "ZJZS-ZJZS-ZH"
+}, {
+    "channelName": "舟山公共频道",
+    "channelCode": "ZJZS-ZJZS-LIFE"
+}, {
+    "channelName": "舟山就业服务台",
+    "channelCode": "ZJZS-ZJZS-MOVIE"
+}, {
+    "channelName": "永嘉新闻综合频道",
+    "channelCode": "YJTV-YJXW"
+}, {
+    "channelName": "永嘉影视娱乐频道",
+    "channelCode": "YJTV-YJYS"
+}, {
+    "channelName": "台州新闻综合频道",
+    "channelCode": "TAIZHOUTV-TAIZHOU1"
+}, {
+    "channelName": "台州影视文化频道",
+    "channelCode": "TAIZHOUTV-TAIZHOU2"
+}, {
+    "channelName": "台州公共财富频道",
+    "channelCode": "TAIZHOUTV-TAIZHOU3"
+}, {
+    "channelName": "台州城市生活频道",
+    "channelCode": "TAIZHOUTV-TAIZHOU4"
+}, {
+    "channelName": "丽水新闻综合频道",
+    "channelCode": "LSTV-LSXW"
+}, {
+    "channelName": "丽水公共频道",
+    "channelCode": "LSTV-LSGG"
+}, {
+    "channelName": "丽水文化休闲频道",
+    "channelCode": "LSTV-LSWHXX"
+}, {
+    "channelName": "衢州新闻综合",
+    "channelCode": "ZJQZTV-QZTV-1"
+}, {
+    "channelName": "衢州生活娱乐",
+    "channelCode": "ZJQZTV-QZTV-2"
+}, {
+    "channelName": "衢州经济信息",
+    "channelCode": "ZJQZTV-QZTV-3"
+}, {
+    "channelName": "普陀一套",
+    "channelCode": "ZSPTTV-ZSPTTV1"
+}, {
+    "channelName": "诸暨新闻频道",
+    "channelCode": "ZHUJITV-ZHUJITV1"
+}, {
+    "channelName": "诸暨娱乐频道",
+    "channelCode": "ZHUJITV-ZHUJITV2"
+}, {
+    "channelName": "长兴新闻频道",
+    "channelCode": "CHANGXTV-CHANGXTV1"
+}, {
+    "channelName": "长兴快乐2",
+    "channelCode": "CHANGXTV-CHANGXTV2"
+}, {
+    "channelName": "绍兴县轻纺城",
+    "channelCode": "SHAOXTV-SHAOXTV1"
+}, {
+    "channelName": "绍兴县新闻综合",
+    "channelCode": "SHAOXTV-SHAOXTV2"
+}, {
+    "channelName": "绍兴县娱乐新干线",
+    "channelCode": "SHAOXTV-SHAOXTV3"
+}, {
+    "channelName": "瑞安新闻综合",
+    "channelCode": "RUIANTV-RUIANTV"
+}, {
+    "channelName": "瑞安文化经济",
+    "channelCode": "RUIANTV-RUIANTV2"
+}, {
+    "channelName": "慈溪点歌台",
+    "channelCode": "ZJCXTV-CXDGT"
+}, {
+    "channelName": "潮流购物",
+    "channelCode": "ZJCXTV-CXCLGW"
+}, {
+    "channelName": "北仑新闻综合频道",
+    "channelCode": "NBBLTV-BLXWZH"
+}, {
+    "channelName": "北仑生活娱乐频道",
+    "channelCode": "NBBLTV-BLSHYL"
+}, {
+    "channelName": "富阳新闻综合",
+    "channelCode": "FYTV-FYXWZH"
+}, {
+    "channelName": "富阳生活文化",
+    "channelCode": "FYTV-FYWHSH"
+}]

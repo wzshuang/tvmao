@@ -1,0 +1,82 @@
+[{
+    "channelName": "内蒙卫视",
+    "channelCode": "NMGTV-NMGTV1"
+}, {
+    "channelName": "内蒙蒙语卫视",
+    "channelCode": "NMGTV-NMGTV7"
+}, {
+    "channelName": "内蒙新闻综合频道",
+    "channelCode": "NMGTV-NMGTV2"
+}, {
+    "channelName": "内蒙经济生活频道",
+    "channelCode": "NMGTV-NMGTV3"
+}, {
+    "channelName": "内蒙文体频道",
+    "channelCode": "NMGTV-NMGTV4"
+}, {
+    "channelName": "内蒙古影视剧频道",
+    "channelCode": "NMGTV-NMGTV5"
+}, {
+    "channelName": "内蒙少儿频道",
+    "channelCode": "NMGTV-NMGTV6"
+}, {
+    "channelName": "蒙古语文化频道",
+    "channelCode": "NMGTV-NMGWH"
+}, {
+    "channelName": "内蒙古宣传频道",
+    "channelCode": "NMGTV-NMGXC"
+}, {
+    "channelName": "呼和浩特新闻综合",
+    "channelCode": "HHHTTV-HHHTTV1"
+}, {
+    "channelName": "呼和浩特都市生活",
+    "channelCode": "HHHTTV-HHHTTV2"
+}, {
+    "channelName": "呼和浩特影视娱乐",
+    "channelCode": "HHHTTV-HHHTTV3"
+}, {
+    "channelName": "包头新闻综合频道",
+    "channelCode": "BTTV-BTTV-1"
+}, {
+    "channelName": "包头文体娱乐频道",
+    "channelCode": "BTTV-BTTV-2"
+}, {
+    "channelName": "包头经济生活频道",
+    "channelCode": "BTTV-BTTV-3"
+}, {
+    "channelName": "乌海新闻综合频道",
+    "channelCode": "WUHAITV-WUHAITV1"
+}, {
+    "channelName": "乌海都市生活频道",
+    "channelCode": "WUHAITV-WUHAITV2"
+}, {
+    "channelName": "呼伦贝尔新闻综合",
+    "channelCode": "HLBRTV-HLBRTV1"
+}, {
+    "channelName": "呼伦贝尔生活资讯",
+    "channelCode": "HLBRTV-HLBRTV3"
+}, {
+    "channelName": "呼伦贝尔影视娱乐",
+    "channelCode": "HLBRTV-HLBRTV2"
+}, {
+    "channelName": "呼伦贝尔手机电视",
+    "channelCode": "HLBRTV-HLBRTV4"
+}, {
+    "channelName": "乌兰察布新闻综合",
+    "channelCode": "WLCBTV-WLCBTV1"
+}, {
+    "channelName": "乌兰察布经济生活",
+    "channelCode": "WLCBTV-WLCBTV2"
+}, {
+    "channelName": "鄂尔多斯新闻综合",
+    "channelCode": "EEDSTV-EEDSTV1"
+}, {
+    "channelName": "鄂尔多斯蒙语综合",
+    "channelCode": "EEDSTV-EEDSTV2"
+}, {
+    "channelName": "鄂尔多斯经济服务",
+    "channelCode": "EEDSTV-EEDSTV3"
+}, {
+    "channelName": "鄂尔多斯城市生活",
+    "channelCode": "EEDSTV-EEDSTV4"
+}]

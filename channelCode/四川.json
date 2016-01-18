@@ -1,0 +1,169 @@
+[{
+    "channelName": "四川卫视",
+    "channelCode": "SCTV-SCTV1"
+}, {
+    "channelName": "四川文化旅游频道",
+    "channelCode": "SCTV-SCTV2"
+}, {
+    "channelName": "四川经济频道",
+    "channelCode": "SCTV-SCTV3"
+}, {
+    "channelName": "四川新闻资讯频道",
+    "channelCode": "SCTV-SCTV4"
+}, {
+    "channelName": "四川影视文艺频道",
+    "channelCode": "SCTV-SCTV5"
+}, {
+    "channelName": "四川星空购物频道",
+    "channelCode": "SCTV-SCTV6"
+}, {
+    "channelName": "四川妇女儿童频道",
+    "channelCode": "SCTV-SCTV7"
+}, {
+    "channelName": "峨嵋电影频道",
+    "channelCode": "SCTV-SCTV8"
+}, {
+    "channelName": "四川公共频道",
+    "channelCode": "SCTV-SCTV9"
+}, {
+    "channelName": "四川科教频道",
+    "channelCode": "SCTV-SCTV-8"
+}, {
+    "channelName": "康巴卫视",
+    "channelCode": "SCTV-KAMBA-TV"
+}, {
+    "channelName": "四川国际频道",
+    "channelCode": "SCTV-SCGUOJI"
+}, {
+    "channelName": "SCCN农教资讯",
+    "channelCode": "SCTV-SCCNNJZX"
+}, {
+    "channelName": "成都新闻综合频道",
+    "channelCode": "CHENGDU-CHENGDU1"
+}, {
+    "channelName": "成都经济资讯频道",
+    "channelCode": "CHENGDU-CHENGDU2"
+}, {
+    "channelName": "成都都市生活频道",
+    "channelCode": "CHENGDU-CHENGDU3"
+}, {
+    "channelName": "成都影视文艺频道",
+    "channelCode": "CHENGDU-CHENGDU4"
+}, {
+    "channelName": "成都公共频道",
+    "channelCode": "CHENGDU-CHENGDU5"
+}, {
+    "channelName": "成都少儿频道",
+    "channelCode": "CHENGDU-CDTV-6"
+}, {
+    "channelName": "成都美食天府",
+    "channelCode": "CHENGDU-CDTV-7"
+}, {
+    "channelName": "成都每日购物频道",
+    "channelCode": "CHENGDU-CDTV-8"
+}, {
+    "channelName": "宜宾新闻综合频道",
+    "channelCode": "SCYBTV-SCYBTV1"
+}, {
+    "channelName": "宜宾公共生活频道",
+    "channelCode": "SCYBTV-SCYBTV2"
+}, {
+    "channelName": "自贡综合频道",
+    "channelCode": "SCZGTV-SCZGTV1"
+}, {
+    "channelName": "自贡公共频道",
+    "channelCode": "SCZGTV-SCZGTV2"
+}, {
+    "channelName": "广安新闻综合频道",
+    "channelCode": "SCGATV-SCGATV1"
+}, {
+    "channelName": "南充综合频道",
+    "channelCode": "SCNCTV-SCNCTV1"
+}, {
+    "channelName": "南充公共频道",
+    "channelCode": "SCNCTV-SCNCTV2"
+}, {
+    "channelName": "南充文娱频道",
+    "channelCode": "SCNCTV-SCNCTV4"
+}, {
+    "channelName": "德阳新闻综合频道",
+    "channelCode": "SCDYTV-SCDYTV1"
+}, {
+    "channelName": "德阳公共频道",
+    "channelCode": "SCDYTV-SCDYTV2"
+}, {
+    "channelName": "德阳都市频道",
+    "channelCode": "SCDYTV-SCDYTV3"
+}, {
+    "channelName": "德阳财富频道",
+    "channelCode": "SCDYTV-SCDYTV6"
+}, {
+    "channelName": "绵阳新闻综合频道",
+    "channelCode": "SCMYTV-SCMYTV1"
+}, {
+    "channelName": "绵阳都市生活频道",
+    "channelCode": "SCMYTV-SCMYTV2"
+}, {
+    "channelName": "绵阳影视科技频道",
+    "channelCode": "SCMYTV-SCMYTV3"
+}, {
+    "channelName": "绵阳教育资讯频道",
+    "channelCode": "SCMYTV-SCMYTV4"
+}, {
+    "channelName": "广元综合频道",
+    "channelCode": "SCGYTV-SCGYTV1"
+}, {
+    "channelName": "广元公共频道",
+    "channelCode": "SCGYTV-SCGYTV2"
+}, {
+    "channelName": "乐山新闻综合",
+    "channelCode": "LESHANTV-LESHANTV1"
+}, {
+    "channelName": "乐山公共新农村",
+    "channelCode": "LESHANTV-LESHANTV2"
+}, {
+    "channelName": "遂宁综合频道",
+    "channelCode": "SUININGTV-UININGTV1"
+}, {
+    "channelName": "遂宁公共频道",
+    "channelCode": "SUININGTV-UININGTV2"
+}, {
+    "channelName": "遂宁互动频道",
+    "channelCode": "SUININGTV-UININGTV3"
+}, {
+    "channelName": "资阳新闻综合频道",
+    "channelCode": "ZIYANGTV-SUIYTV"
+}, {
+    "channelName": "眉山新闻综合频道",
+    "channelCode": "MSTV-MSTV1"
+}, {
+    "channelName": "眉山影视剧频道",
+    "channelCode": "MSTV-MSTV2"
+}, {
+    "channelName": "眉山公共频道",
+    "channelCode": "MSTV-MSTV3"
+}, {
+    "channelName": "雅安新闻综合频道",
+    "channelCode": "YAANTV-YAANTV1"
+}, {
+    "channelName": "雅安经视频道",
+    "channelCode": "YAANTV-YAANTV2"
+}, {
+    "channelName": "雅安公共频道",
+    "channelCode": "YAANTV-YAANTV3"
+}, {
+    "channelName": "内江城市公共频道",
+    "channelCode": "NEIJTV-NEIJTV1"
+}, {
+    "channelName": "内江影视文艺频道",
+    "channelCode": "NEIJTV-NEIJTV2"
+}, {
+    "channelName": "凉山新闻频道",
+    "channelCode": "LIANGSTV-LIANGSTV1"
+}, {
+    "channelName": "凉山公共频道",
+    "channelCode": "LIANGSTV-LIANGSTV2"
+}, {
+    "channelName": "泸州新闻综合频道",
+    "channelCode": "LUZHOUTV-KUZHOUTV1"
+}]

@@ -1,0 +1,61 @@
+[{
+    "channelName": "云南卫视",
+    "channelCode": "YNTV-YNTV1"
+}, {
+    "channelName": "云南都市频道",
+    "channelCode": "YNTV-YNTV2"
+}, {
+    "channelName": "云南娱乐频道",
+    "channelCode": "YNTV-YNTV3"
+}, {
+    "channelName": "云南生活频道",
+    "channelCode": "YNTV-YNTV4"
+}, {
+    "channelName": "云南影视频道",
+    "channelCode": "YNTV-YNTV5"
+}, {
+    "channelName": "云南公共频道",
+    "channelCode": "YNTV-YNTV6"
+}, {
+    "channelName": "云南少儿频道",
+    "channelCode": "YNTV-YNTV8"
+}, {
+    "channelName": "云南国际频道",
+    "channelCode": "YNTV-YNTV9"
+}, {
+    "channelName": "昆明新闻频道",
+    "channelCode": "KMTV-KMTV1"
+}, {
+    "channelName": "昆明阳光频道",
+    "channelCode": "KMTV-KMTV2"
+}, {
+    "channelName": "昆明健康频道",
+    "channelCode": "KMTV-KMTV3"
+}, {
+    "channelName": "昆明财富频道",
+    "channelCode": "KMTV-KMTV4"
+}, {
+    "channelName": "昆明影视频道",
+    "channelCode": "KMTV-KMTV5"
+}, {
+    "channelName": "昆明春城频道",
+    "channelCode": "KMTV-KMTV6"
+}, {
+    "channelName": "昆明教育",
+    "channelCode": "KMEDU-KETV"
+}, {
+    "channelName": "玉溪新闻综合频道",
+    "channelCode": "YNYXTV-YNYXTV1"
+}, {
+    "channelName": "丽江综合频道",
+    "channelCode": "LIJIANGTV-LIJIANGTV1"
+}, {
+    "channelName": "丽江公共频道",
+    "channelCode": "LIJIANGTV-LIJIANGTV2"
+}, {
+    "channelName": "西双版纳一套",
+    "channelCode": "XSBNTV-XSBNTV1"
+}, {
+    "channelName": "西双版纳二套",
+    "channelCode": "XSBNTV-XSBNTV2"
+}]

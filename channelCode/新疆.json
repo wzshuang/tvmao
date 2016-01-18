@@ -1,0 +1,37 @@
+[{
+    "channelName": "兵团卫视",
+    "channelCode": "BINGTUAN-BINGTUAN"
+}, {
+    "channelName": "兵团新闻频道",
+    "channelCode": "BINGTUAN-BTXW"
+}, {
+    "channelName": "乌鲁木齐新闻综合",
+    "channelCode": "UTV-UTV1"
+}, {
+    "channelName": "乌鲁木齐维语频道",
+    "channelCode": "UTV-UTV2"
+}, {
+    "channelName": "乌鲁木齐影视频道",
+    "channelCode": "UTV-UTV3"
+}, {
+    "channelName": "乌鲁木齐生活服务",
+    "channelCode": "UTV-UTV4"
+}, {
+    "channelName": "乌鲁木齐文体娱乐",
+    "channelCode": "UTV-UTV5"
+}, {
+    "channelName": "乌鲁木齐妇女儿童",
+    "channelCode": "UTV-UTV6"
+}, {
+    "channelName": "昌吉综合频道",
+    "channelCode": "CJTV-CJTV1"
+}, {
+    "channelName": "塔城一套",
+    "channelCode": "TCTV-TCTV1"
+}, {
+    "channelName": "塔城二套",
+    "channelCode": "TCTV-TCTV2"
+}, {
+    "channelName": "塔城三套",
+    "channelCode": "TCTV-TCTV3"
+}]

@@ -1,0 +1,1168 @@
+[{
+    "channelName": "翡翠台",
+    "channelCode": "TVB-TVB1"
+}, {
+    "channelName": "明珠台",
+    "channelCode": "TVB-TVB2"
+}, {
+    "channelName": "日剧台",
+    "channelCode": "TVB-TVB3"
+}, {
+    "channelName": "TVB经典台",
+    "channelCode": "TVB-TVB4-SG"
+}, {
+    "channelName": "TVB经典台",
+    "channelCode": "TVB-TVB4"
+}, {
+    "channelName": "TVB新闻台",
+    "channelCode": "TVB-TVB6"
+}, {
+    "channelName": "TVB8",
+    "channelCode": "TVB-TVB8"
+}, {
+    "channelName": "TVB8",
+    "channelCode": "TVB-TVB8-TW"
+}, {
+    "channelName": "TVB星河频道",
+    "channelCode": "TVB-TVB9"
+}, {
+    "channelName": "J2",
+    "channelCode": "TVB-TVB11"
+}, {
+    "channelName": "高清翡翠台",
+    "channelCode": "TVB-TVB12"
+}, {
+    "channelName": "互动新闻台",
+    "channelCode": "TVB-TVB13"
+}, {
+    "channelName": "直播新闻台 ",
+    "channelCode": "TVB-TVB14"
+}, {
+    "channelName": "无线卫星亚洲台",
+    "channelCode": "TVB-TVB16"
+}, {
+    "channelName": "神州新闻台",
+    "channelCode": "TVB-TVB17"
+}, {
+    "channelName": "娱乐新闻台",
+    "channelCode": "TVB-TVB19"
+}, {
+    "channelName": "韩剧台",
+    "channelCode": "TVB-TVB21"
+}, {
+    "channelName": "为食台",
+    "channelCode": "TVB-TVB-FOOD"
+}, {
+    "channelName": "综艺台 ",
+    "channelCode": "TVB-TVB-WINDOW"
+}, {
+    "channelName": "体育台",
+    "channelCode": "TVB-TVB-SPORTS"
+}, {
+    "channelName": "华娱卫视",
+    "channelCode": "HUAYU-HUAYU1"
+}, {
+    "channelName": "凤凰卫视",
+    "channelCode": "PHOENIX-PHOENIX1"
+}, {
+    "channelName": "凤凰卫视资讯台",
+    "channelCode": "PHOENIX-PHOENIX-INFONEWS"
+}, {
+    "channelName": "凤凰卫视欧洲台",
+    "channelCode": "PHOENIX-PHOENIX3"
+}, {
+    "channelName": "凤凰卫视美州台",
+    "channelCode": "PHOENIX-PHOENIX4"
+}, {
+    "channelName": "凤凰卫视电影台",
+    "channelCode": "PHOENIX-PHOENIX5"
+}, {
+    "channelName": "凤凰卫视澳洲台",
+    "channelCode": "PHOENIX-PHOENIX6"
+}, {
+    "channelName": "凤凰卫视香港台",
+    "channelCode": "PHOENIX-PHOENIXHK"
+}, {
+    "channelName": "亚洲电视本港台",
+    "channelCode": "HKATV-HKATV1"
+}, {
+    "channelName": "亚洲电视国际台",
+    "channelCode": "HKATV-HKATV2"
+}, {
+    "channelName": "亚洲电视美洲版东岸",
+    "channelCode": "HKATV-HKATV3"
+}, {
+    "channelName": "亚洲电视美洲版西岸",
+    "channelCode": "HKATV-HKATV4"
+}, {
+    "channelName": "亚洲电视亚洲台",
+    "channelCode": "HKATV-HKATV-ASIA"
+}, {
+    "channelName": "岁月留声",
+    "channelCode": "HKATV-ATV-CLASSIC"
+}, {
+    "channelName": "阳光卫视",
+    "channelCode": "CHINASUN-CHINASUN1"
+}, {
+    "channelName": "美亚高清电影台",
+    "channelCode": "MATV-MATV-MOVIE-TW"
+}, {
+    "channelName": "美亚高清电影台",
+    "channelCode": "MATV-MATV-MOVIE-HK"
+}, {
+    "channelName": "天映电影",
+    "channelCode": "CELETV-CELETV1-SG"
+}, {
+    "channelName": "天映电影",
+    "channelCode": "CELETV-CELETV1-HK"
+}, {
+    "channelName": "天映经典频道",
+    "channelCode": "CELETV-CMC-CLASSIC"
+}, {
+    "channelName": "Thrill",
+    "channelCode": "CELETV-THRILL"
+}, {
+    "channelName": "Thrill",
+    "channelCode": "CELETV-THRILL-SG"
+}, {
+    "channelName": "KIX",
+    "channelCode": "CELETV-KIX"
+}, {
+    "channelName": "KIX",
+    "channelCode": "CELETV-KIX-SG"
+}, {
+    "channelName": "天映频道HD",
+    "channelCode": "CELETV-CELESTIAL-MOVIES-HD"
+}, {
+    "channelName": "安徽卫视",
+    "channelCode": "ICABLEENT-AHTV1"
+}, {
+    "channelName": "北京卫视",
+    "channelCode": "ICABLEENT-BTV1"
+}, {
+    "channelName": "CCTV-4国际",
+    "channelCode": "ICABLEENT-CCTV4"
+}, {
+    "channelName": "CCTV-11戏曲",
+    "channelCode": "ICABLEENT-CCTV11"
+}, {
+    "channelName": "CCTV-13新闻",
+    "channelCode": "ICABLEENT-CCTV13"
+}, {
+    "channelName": "CCTV NEWS",
+    "channelCode": "ICABLEENT-CCTV19-HK"
+}, {
+    "channelName": "Discovery",
+    "channelCode": "ICABLEENT-DISCOVERY"
+}, {
+    "channelName": "DISCOVERY科学频道",
+    "channelCode": "ICABLEENT-DISCOVERY-SICENCE"
+}, {
+    "channelName": "TLC旅游生活",
+    "channelCode": "ICABLEENT-DISCOVERY-TLC-HK"
+}, {
+    "channelName": "动物星球频道",
+    "channelCode": "ICABLEENT-DISCOVERY-ANIMAL-PLANET-HK"
+}, {
+    "channelName": "AXN",
+    "channelCode": "ICABLEENT-AXN-HK"
+}, {
+    "channelName": "CNN",
+    "channelCode": "ICABLEENT-CNN1"
+}, {
+    "channelName": "BBC World News",
+    "channelCode": "ICABLEENT-BBC-WORLD-NEWS-ASIA"
+}, {
+    "channelName": "MTV",
+    "channelCode": "ICABLEENT-MTV-HK"
+}, {
+    "channelName": "CN卡通频道",
+    "channelCode": "ICABLEENT-CARTOON-HK"
+}, {
+    "channelName": "迪斯尼",
+    "channelCode": "ICABLEENT-DISNEY-HK"
+}, {
+    "channelName": "珠江频道海外版",
+    "channelCode": "ICABLEENT-GDTV5"
+}, {
+    "channelName": "深圳卫视(亚洲)",
+    "channelCode": "ICABLEENT-SZTV10"
+}, {
+    "channelName": "国家地理频道",
+    "channelCode": "ICABLEENT-NGC-HK"
+}, {
+    "channelName": "国家地理野生频道",
+    "channelCode": "ICABLEENT-NGW"
+}, {
+    "channelName": "国家地理悠人频道",
+    "channelCode": "ICABLEENT-NGA"
+}, {
+    "channelName": "凤凰卫视",
+    "channelCode": "ICABLEENT-PHOENIX1"
+}, {
+    "channelName": "凤凰卫视资讯台",
+    "channelCode": "ICABLEENT-PHOENIX-INFONEWS"
+}, {
+    "channelName": "湖北卫视",
+    "channelCode": "ICABLEENT-HUBEI1-HK"
+}, {
+    "channelName": "JETTV",
+    "channelCode": "ICABLEENT-JETTV-HK"
+}, {
+    "channelName": "创世电视",
+    "channelCode": "ICABLEENT-CREATION1"
+}, {
+    "channelName": "天津卫视",
+    "channelCode": "ICABLEENT-TJTV1"
+}, {
+    "channelName": "浙江卫视",
+    "channelCode": "ICABLEENT-ZJTV1-HK"
+}, {
+    "channelName": "儿童台",
+    "channelCode": "ICABLEENT-ICABLEENT1"
+}, {
+    "channelName": "奇妙台",
+    "channelCode": "ICABLEENT-ICABLEENT2"
+}, {
+    "channelName": "奇宝台",
+    "channelCode": "ICABLEENT-ICABLEENT3"
+}, {
+    "channelName": "有线第1台",
+    "channelCode": "ICABLEENT-ICABLEENT4"
+}, {
+    "channelName": "有线18台",
+    "channelCode": "ICABLEENT-ICABLEENT8"
+}, {
+    "channelName": "澳门博览台",
+    "channelCode": "ICABLEENT-ICABLEENT9"
+}, {
+    "channelName": "中国旅游与经济台",
+    "channelCode": "ICABLEENT-ICABLEENT10"
+}, {
+    "channelName": "电影一台",
+    "channelCode": "ICABLEENT-ICABLE-MOVIE1"
+}, {
+    "channelName": "电影二台",
+    "channelCode": "ICABLEENT-ICABLE-MOVIE2"
+}, {
+    "channelName": "HMC",
+    "channelCode": "ICABLEENT-HMC1"
+}, {
+    "channelName": "私人影院Cine P.",
+    "channelCode": "ICABLEENT-CINE-P"
+}, {
+    "channelName": "天气台",
+    "channelCode": "ICABLEENT-ICABLE-WEATHER"
+}, {
+    "channelName": "BBC娱乐台",
+    "channelCode": "ICABLEENT-BBC-ENTERTAINMENT-ASIA"
+}, {
+    "channelName": "BBC生活台",
+    "channelCode": "ICABLEENT-BBC-LIFESTYLE-ASIA"
+}, {
+    "channelName": "BBC Earth",
+    "channelCode": "ICABLEENT-BBC-KNOWLEDGE-ASIA"
+}, {
+    "channelName": "重点新闻台",
+    "channelCode": "ICABLEENT-ICABLE-TOP-NEWS"
+}, {
+    "channelName": "财经资讯台",
+    "channelCode": "ICABLEENT-ICABLE-FINANCE-INFO"
+}, {
+    "channelName": "新闻台",
+    "channelCode": "ICABLEENT-ICABLE-NEWS"
+}, {
+    "channelName": "吉本东风",
+    "channelCode": "ICABLEENT-AZIO-ASIA"
+}, {
+    "channelName": "CNBC亚太财经",
+    "channelCode": "ICABLEENT-CNBC-ASIA"
+}, {
+    "channelName": "卫视中文台",
+    "channelCode": "ICABLEENT-STAR-CHINESE-CHANNEL-SG"
+}, {
+    "channelName": "NHK",
+    "channelCode": "ICABLEENT-NHK-WORLD-PREMIUM"
+}, {
+    "channelName": "ANIMAX",
+    "channelCode": "ICABLEENT-ANIMAX-HK"
+}, {
+    "channelName": "EVE",
+    "channelCode": "ICABLEENT-DISCOVERY-HOME-AND-HEALTH"
+}, {
+    "channelName": "DISCOVERY HD",
+    "channelCode": "ICABLEENT-DISCOVERY-HD-HK"
+}, {
+    "channelName": "阿里郎电视台",
+    "channelCode": "ICABLEENT-ARIRANG"
+}, {
+    "channelName": "Fashion TV",
+    "channelCode": "ICABLEENT-FASHION-TV"
+}, {
+    "channelName": "BBC儿童台",
+    "channelCode": "ICABLEENT-BBC-CBEEBIES-ASIA"
+}, {
+    "channelName": "东森亚洲卫视",
+    "channelCode": "ICABLEENT-ETTV-ASIA"
+}, {
+    "channelName": "Disney Junior",
+    "channelCode": "ICABLEENT-DISNEY-JUNIOR-HK"
+}, {
+    "channelName": "Nick",
+    "channelCode": "ICABLEENT-NICKELODEON"
+}, {
+    "channelName": "TCM",
+    "channelCode": "ICABLEENT-TCM"
+}, {
+    "channelName": "直播新闻台",
+    "channelCode": "ICABLEENT-ICABLE-LIVE-NEWS"
+}, {
+    "channelName": "足球台",
+    "channelCode": "ICABLEENT-ICABLE-SUPER-SOCCER"
+}, {
+    "channelName": "有线体育台",
+    "channelCode": "ICABLEENT-ICABLE-SPORTS"
+}, {
+    "channelName": "球彩台",
+    "channelCode": "ICABLEENT-ICABLE-SOCCER-BETTING"
+}, {
+    "channelName": "Zee TV",
+    "channelCode": "ICABLEENT-ZEETV"
+}, {
+    "channelName": "Zee News",
+    "channelCode": "ICABLEENT-ZEE-NEWS"
+}, {
+    "channelName": "Zee Cinema",
+    "channelCode": "ICABLEENT-ZEE-CINEMA"
+}, {
+    "channelName": "Zing",
+    "channelCode": "ICABLEENT-ZING"
+}, {
+    "channelName": "彭博财经台",
+    "channelCode": "ICABLEENT-BLOOMBERG-TV"
+}, {
+    "channelName": "今日俄罗斯",
+    "channelCode": "ICABLEENT-RUSSIA-TODAY"
+}, {
+    "channelName": "半岛电视台英语频道",
+    "channelCode": "ICABLEENT-ALJAZEERA-ENGLISH"
+}, {
+    "channelName": "CNN HLN News",
+    "channelCode": "ICABLEENT-CNN-HLN"
+}, {
+    "channelName": "Australia Plus",
+    "channelCode": "ICABLEENT-AUSTRALIANETWORK"
+}, {
+    "channelName": "ASN",
+    "channelCode": "ICABLEENT-ASN"
+}, {
+    "channelName": "东森亚洲新闻台",
+    "channelCode": "ICABLEENT-ETTV-ASIA-NEWS"
+}, {
+    "channelName": "亚洲新闻台",
+    "channelCode": "ICABLEENT-CNA-HK"
+}, {
+    "channelName": "凤凰卫视香港台",
+    "channelCode": "ICABLEENT-PHOENIXHK"
+}, {
+    "channelName": "NHK World TV",
+    "channelCode": "ICABLEENT-NHK-WORLD-TV"
+}, {
+    "channelName": "DW-TV Asia",
+    "channelCode": "ICABLEENT-DW-TV-ASIA"
+}, {
+    "channelName": "RTPi",
+    "channelCode": "ICABLEENT-RTP-I"
+}, {
+    "channelName": "TEN Cricket",
+    "channelCode": "ICABLEENT-TEN-CRICKET"
+}, {
+    "channelName": "Thrill",
+    "channelCode": "ICABLEENT-THRILL"
+}, {
+    "channelName": "Channel M高清频道",
+    "channelCode": "ICABLEENT-MNET-HK"
+}, {
+    "channelName": "Comedy Central Asia",
+    "channelCode": "ICABLEENT-COMEDY-CENTRAL-ASIA"
+}, {
+    "channelName": "欢乐台",
+    "channelCode": "ICABLEENT-EAT181"
+}, {
+    "channelName": "百厌妹",
+    "channelCode": "ICABLEENT-EAT182"
+}, {
+    "channelName": "千娇台",
+    "channelCode": "ICABLEENT-EAT183"
+}, {
+    "channelName": "宇宙台",
+    "channelCode": "ICABLEENT-EAT184"
+}, {
+    "channelName": "TOONAMI",
+    "channelCode": "ICABLEENT-TOONAMI"
+}, {
+    "channelName": "东方卫视海外版",
+    "channelCode": "ICABLEENT-DRAGONTV"
+}, {
+    "channelName": "hd201",
+    "channelCode": "ICABLEENT-ICABLE-HD201"
+}, {
+    "channelName": "hd202",
+    "channelCode": "ICABLEENT-ICABLE-HD202"
+}, {
+    "channelName": "hd203",
+    "channelCode": "ICABLEENT-ICABLE-HD203"
+}, {
+    "channelName": "hd241",
+    "channelCode": "ICABLEENT-ICABLE-HD241"
+}, {
+    "channelName": "hd243",
+    "channelCode": "ICABLEENT-HMC-HD"
+}, {
+    "channelName": "hd245",
+    "channelCode": "ICABLEENT-ICABLE-HD245"
+}, {
+    "channelName": "Ch63",
+    "channelCode": "ICABLEENT-ICCS"
+}, {
+    "channelName": "DMAX",
+    "channelCode": "ICABLEENT-DMAX-HK"
+}, {
+    "channelName": "索尼台",
+    "channelCode": "ICABLEENT-SNCATV-HK"
+}, {
+    "channelName": "AMC (Asia)",
+    "channelCode": "ICABLEENT-AMC-MOVIE"
+}, {
+    "channelName": "点心卫视",
+    "channelCode": "DIMSUM-DIMSUMTV"
+}, {
+    "channelName": "北京卫视",
+    "channelCode": "NOWTV-BTV1"
+}, {
+    "channelName": "CCTV-1综合",
+    "channelCode": "NOWTV-CCTV1"
+}, {
+    "channelName": "CCTV-4国际",
+    "channelCode": "NOWTV-CCTV4"
+}, {
+    "channelName": "FOX Sports",
+    "channelCode": "NOWTV-ESPN-HK"
+}, {
+    "channelName": "FOX体育二台",
+    "channelCode": "NOWTV-STAR-SPORTS-HK"
+}, {
+    "channelName": "Discovery",
+    "channelCode": "NOWTV-DISCOVERY"
+}, {
+    "channelName": "DISCOVERY科学频道",
+    "channelCode": "NOWTV-DISCOVERY-SICENCE"
+}, {
+    "channelName": "TLC旅游生活",
+    "channelCode": "NOWTV-DISCOVERY-TLC-HK"
+}, {
+    "channelName": "动物星球频道",
+    "channelCode": "NOWTV-DISCOVERY-ANIMAL-PLANET-HK"
+}, {
+    "channelName": "HBO",
+    "channelCode": "NOWTV-HBO-HK"
+}, {
+    "channelName": "CINEMAX",
+    "channelCode": "NOWTV-CINEMAX-HK"
+}, {
+    "channelName": "AXN",
+    "channelCode": "NOWTV-AXN-HK"
+}, {
+    "channelName": "CNN",
+    "channelCode": "NOWTV-CNN1"
+}, {
+    "channelName": "BBC World News",
+    "channelCode": "NOWTV-BBC-WORLD-NEWS-ASIA"
+}, {
+    "channelName": "CN卡通频道",
+    "channelCode": "NOWTV-CARTOON-HK"
+}, {
+    "channelName": "迪斯尼",
+    "channelCode": "NOWTV-DISNEY-HK"
+}, {
+    "channelName": "珠江频道海外版",
+    "channelCode": "NOWTV-GDTV5"
+}, {
+    "channelName": "南方卫视",
+    "channelCode": "NOWTV-NANFANG2"
+}, {
+    "channelName": "日剧台",
+    "channelCode": "NOWTV-TVB3"
+}, {
+    "channelName": "TVB经典台",
+    "channelCode": "NOWTV-TVB4"
+}, {
+    "channelName": "TVB新闻台",
+    "channelCode": "NOWTV-TVB6"
+}, {
+    "channelName": "TVB8",
+    "channelCode": "NOWTV-TVB8"
+}, {
+    "channelName": "直播新闻台 ",
+    "channelCode": "NOWTV-TVB14"
+}, {
+    "channelName": "神州新闻台",
+    "channelCode": "NOWTV-TVB17"
+}, {
+    "channelName": "娱乐新闻台",
+    "channelCode": "NOWTV-TVB19"
+}, {
+    "channelName": "韩剧台",
+    "channelCode": "NOWTV-TVB21"
+}, {
+    "channelName": "星空卫视",
+    "channelCode": "NOWTV-XINGKONG1-HK"
+}, {
+    "channelName": "卫视音乐",
+    "channelCode": "NOWTV-CHANNEL-V-CN"
+}, {
+    "channelName": "国家地理频道",
+    "channelCode": "NOWTV-NGC-HK"
+}, {
+    "channelName": "国家地理野生频道",
+    "channelCode": "NOWTV-NGW"
+}, {
+    "channelName": "国家地理悠人频道",
+    "channelCode": "NOWTV-NGA"
+}, {
+    "channelName": "凤凰卫视",
+    "channelCode": "NOWTV-PHOENIX1"
+}, {
+    "channelName": "凤凰卫视资讯台",
+    "channelCode": "NOWTV-PHOENIX-INFONEWS"
+}, {
+    "channelName": "美亚高清电影台",
+    "channelCode": "NOWTV-MATV-MOVIE-HK"
+}, {
+    "channelName": "第一财经",
+    "channelCode": "NOWTV-SHHAI2"
+}, {
+    "channelName": "创世电视",
+    "channelCode": "NOWTV-CREATION1"
+}, {
+    "channelName": "BBC娱乐台",
+    "channelCode": "NOWTV-BBC-ENTERTAINMENT-ASIA"
+}, {
+    "channelName": "BBC生活台",
+    "channelCode": "NOWTV-BBC-LIFESTYLE-ASIA"
+}, {
+    "channelName": "BBC Earth",
+    "channelCode": "NOWTV-BBC-KNOWLEDGE-ASIA"
+}, {
+    "channelName": "CNBC亚太财经",
+    "channelCode": "NOWTV-CNBC-ASIA"
+}, {
+    "channelName": "FASHION ONE",
+    "channelCode": "NOWTV-FASHION-ONE-HK"
+}, {
+    "channelName": "卫视中文台",
+    "channelCode": "NOWTV-STAR-CHINESE-CHANNEL-SG"
+}, {
+    "channelName": "卫视合家欢",
+    "channelCode": "NOWTV-STAR-WORLD-HK"
+}, {
+    "channelName": "卫视电影台",
+    "channelCode": "NOWTV-STAR-CHINESE-MOVIES-HK"
+}, {
+    "channelName": "NHK",
+    "channelCode": "NOWTV-NHK-WORLD-PREMIUM"
+}, {
+    "channelName": "ANIMAX",
+    "channelCode": "NOWTV-ANIMAX-HK"
+}, {
+    "channelName": "EVE",
+    "channelCode": "NOWTV-DISCOVERY-HOME-AND-HEALTH"
+}, {
+    "channelName": "DISCOVERY HD",
+    "channelCode": "NOWTV-DISCOVERY-HD-HK"
+}, {
+    "channelName": "中天亚洲台",
+    "channelCode": "NOWTV-CTITV-ASIA"
+}, {
+    "channelName": "大爱一台",
+    "channelCode": "NOWTV-DAAI1"
+}, {
+    "channelName": "KBS",
+    "channelCode": "NOWTV-KBS-WORLD-HK"
+}, {
+    "channelName": "BBC儿童台",
+    "channelCode": "NOWTV-BBC-CBEEBIES-ASIA"
+}, {
+    "channelName": "点心卫视",
+    "channelCode": "NOWTV-DIMSUMTV"
+}, {
+    "channelName": "东森亚洲卫视",
+    "channelCode": "NOWTV-ETTV-ASIA"
+}, {
+    "channelName": "HBO温馨家庭",
+    "channelCode": "NOWTV-HBO-FAMILY"
+}, {
+    "channelName": "HBO强档巨献",
+    "channelCode": "NOWTV-HBO-HITS"
+}, {
+    "channelName": "HBO原创巨献",
+    "channelCode": "NOWTV-HBO-SIGNATURE"
+}, {
+    "channelName": "FOX HD",
+    "channelCode": "NOWTV-FOX"
+}, {
+    "channelName": "Fox News Channel",
+    "channelCode": "NOWTV-FOX-NEWS"
+}, {
+    "channelName": "Disney Junior",
+    "channelCode": "NOWTV-DISNEY-JUNIOR-HK"
+}, {
+    "channelName": "FOX Movies Premium",
+    "channelCode": "NOWTV-FOX-MOVIES-PREMIUM"
+}, {
+    "channelName": "卫视卡式台",
+    "channelCode": "NOWTV-STAR-CHINESE-MOVIES-LEGEND"
+}, {
+    "channelName": "Nick",
+    "channelCode": "NOWTV-NICKELODEON"
+}, {
+    "channelName": "TCM",
+    "channelCode": "NOWTV-TCM"
+}, {
+    "channelName": "Zee Cinema",
+    "channelCode": "NOWTV-ZEE-CINEMA"
+}, {
+    "channelName": "中国新华电视",
+    "channelCode": "NOWTV-CNC"
+}, {
+    "channelName": "彭博财经台",
+    "channelCode": "NOWTV-BLOOMBERG-TV"
+}, {
+    "channelName": "History Channel",
+    "channelCode": "NOWTV-HISTORY"
+}, {
+    "channelName": "Fyi",
+    "channelCode": "NOWTV-BIO"
+}, {
+    "channelName": "半岛电视台英语频道",
+    "channelCode": "NOWTV-ALJAZEERA-ENGLISH"
+}, {
+    "channelName": "CNN HLN News",
+    "channelCode": "NOWTV-CNN-HLN"
+}, {
+    "channelName": "CHANNEL [V]国际频道",
+    "channelCode": "NOWTV-CHANNEL-V-INTERNATIONAL"
+}, {
+    "channelName": "法国TV5Monde",
+    "channelCode": "NOWTV-TV5MONDE-ASIE"
+}, {
+    "channelName": "Australia Plus",
+    "channelCode": "NOWTV-AUSTRALIANETWORK"
+}, {
+    "channelName": "法国24台",
+    "channelCode": "NOWTV-FRANCE24"
+}, {
+    "channelName": "ASN",
+    "channelCode": "NOWTV-ASN"
+}, {
+    "channelName": "东森亚洲新闻台",
+    "channelCode": "NOWTV-ETTV-ASIA-NEWS"
+}, {
+    "channelName": "亚洲新闻台",
+    "channelCode": "NOWTV-CNA-HK"
+}, {
+    "channelName": "凤凰卫视香港台",
+    "channelCode": "NOWTV-PHOENIXHK"
+}, {
+    "channelName": "NHK World TV",
+    "channelCode": "NOWTV-NHK-WORLD-TV"
+}, {
+    "channelName": "DW-TV Asia",
+    "channelCode": "NOWTV-DW-TV-ASIA"
+}, {
+    "channelName": "Now香港",
+    "channelCode": "NOWTV-NOWHK"
+}, {
+    "channelName": "now观星台",
+    "channelCode": "NOWTV-NOW-ENTERTAINMENT"
+}, {
+    "channelName": "now jelli",
+    "channelCode": "NOWTV-NOW-MANGO"
+}, {
+    "channelName": "now海润台",
+    "channelCode": "NOWTV-NOW-HAIRUN"
+}, {
+    "channelName": "HBO HD",
+    "channelCode": "NOWTV-HBO-HD"
+}, {
+    "channelName": "DIVA Universal",
+    "channelCode": "NOWTV-DIVA-UNIVERSAL"
+}, {
+    "channelName": "Syfy频道",
+    "channelCode": "NOWTV-SYFY-UNIVERSAL"
+}, {
+    "channelName": "Thrill",
+    "channelCode": "NOWTV-THRILL"
+}, {
+    "channelName": "中国电影频道香港版",
+    "channelCode": "NOWTV-CHINA-MOVIE-CHANNEL"
+}, {
+    "channelName": "Baby TV",
+    "channelCode": "NOWTV-BABY-TV"
+}, {
+    "channelName": "NGC HD",
+    "channelCode": "NOWTV-NGC-HD"
+}, {
+    "channelName": "Sky News",
+    "channelCode": "NOWTV-SKY-NEWS"
+}, {
+    "channelName": "Euronews",
+    "channelCode": "NOWTV-EURONEWS"
+}, {
+    "channelName": "now直播台",
+    "channelCode": "NOWTV-NOW-DIRECT"
+}, {
+    "channelName": "now新闻台",
+    "channelCode": "NOWTV-NOW-NEWS"
+}, {
+    "channelName": "now财经台",
+    "channelCode": "NOWTV-NOW-BNC"
+}, {
+    "channelName": "now报价台",
+    "channelCode": "NOWTV-NOW-DATA"
+}, {
+    "channelName": "香港卫视",
+    "channelCode": "NOWTV-HKS"
+}, {
+    "channelName": "Fox Family Movies",
+    "channelCode": "NOWTV-FOX-FAMILY-MOVIES"
+}, {
+    "channelName": "FX HD",
+    "channelCode": "NOWTV-FX"
+}, {
+    "channelName": "FOXCRIME",
+    "channelCode": "NOWTV-FOX-CRIME"
+}, {
+    "channelName": "Universal",
+    "channelCode": "NOWTV-UNIVERSAL-CHANNEL"
+}, {
+    "channelName": "Star Gold",
+    "channelCode": "NOWTV-STAR-GOLD"
+}, {
+    "channelName": "罪案侦缉频道",
+    "channelCode": "NOWTV-CITV"
+}, {
+    "channelName": "亚洲美食台",
+    "channelCode": "NOWTV-ASIA-FOOD-CHANNEL-HK"
+}, {
+    "channelName": "华纳电视台",
+    "channelCode": "NOWTV-WARNER"
+}, {
+    "channelName": "E!频道",
+    "channelCode": "NOWTV-E-ENTERTAINMENT"
+}, {
+    "channelName": "now Sports Prime",
+    "channelCode": "NOWTV-NOW-SPORTS-PRIME"
+}, {
+    "channelName": "now Sports 1",
+    "channelCode": "NOWTV-NOW-SPORTS1"
+}, {
+    "channelName": "now Sports 2",
+    "channelCode": "NOWTV-NOW-SPORTS2"
+}, {
+    "channelName": "now Sports 3",
+    "channelCode": "NOWTV-NOW-SPORTS3"
+}, {
+    "channelName": "now Sports 4",
+    "channelCode": "NOWTV-NOW-SPORTS4"
+}, {
+    "channelName": "now Sports 5",
+    "channelCode": "NOWTV-NOW-SPORTS5"
+}, {
+    "channelName": "now Sports 6",
+    "channelCode": "NOWTV-NOW-SPORTS6"
+}, {
+    "channelName": "now Sports 7",
+    "channelCode": "NOWTV-NOW-SPORTS7"
+}, {
+    "channelName": "曼联电视频道",
+    "channelCode": "NOWTV-MUTV"
+}, {
+    "channelName": "Fox Sports 3",
+    "channelCode": "NOWTV-ESPN-HD"
+}, {
+    "channelName": "STAR Cricket",
+    "channelCode": "NOWTV-STAR-CRICKET"
+}, {
+    "channelName": "Eurosport",
+    "channelCode": "NOWTV-EUROSPORT"
+}, {
+    "channelName": "Eurosportnews",
+    "channelCode": "NOWTV-EUROSPORTNEWS"
+}, {
+    "channelName": "NBA电视台",
+    "channelCode": "NOWTV-NBA-TV"
+}, {
+    "channelName": "Setanta Sports",
+    "channelCode": "NOWTV-SETANTA-SPORTS"
+}, {
+    "channelName": "now Golf 1",
+    "channelCode": "NOWTV-NOW-GOLF1"
+}, {
+    "channelName": "now Golf 2",
+    "channelCode": "NOWTV-NOW-GOLF2"
+}, {
+    "channelName": "now Golf 3",
+    "channelCode": "NOWTV-NOW-GOLF3"
+}, {
+    "channelName": "GMA Pinoy TV",
+    "channelCode": "NOWTV-GMA-PINOY-TV"
+}, {
+    "channelName": "GMA Life TV",
+    "channelCode": "NOWTV-GMA-LIFE-TV"
+}, {
+    "channelName": "Colors",
+    "channelCode": "NOWTV-COLORS-TV-HK"
+}, {
+    "channelName": "Star Plus",
+    "channelCode": "NOWTV-STAR-PLUS"
+}, {
+    "channelName": "ABP News",
+    "channelCode": "NOWTV-STAR-NEWS"
+}, {
+    "channelName": "Life OK",
+    "channelCode": "NOWTV-LIFE-OK"
+}, {
+    "channelName": "为食台",
+    "channelCode": "NOWTV-TVB-FOOD"
+}, {
+    "channelName": "法国24台(法语频道)",
+    "channelCode": "NOWTV-FRANCE24-FRENCH"
+}, {
+    "channelName": "Nick JR",
+    "channelCode": "NOWTV-NICK-JR"
+}, {
+    "channelName": "TFC",
+    "channelCode": "NOWTV-THE-FILIPINO-CHANNEL"
+}, {
+    "channelName": "Food Network Asia",
+    "channelCode": "NOWTV-FOOD-NETWORK-ASIA-HK"
+}, {
+    "channelName": "MTV live HD",
+    "channelCode": "NOWTV-MTV-LIVE-HD"
+}, {
+    "channelName": "Li",
+    "channelCode": "NOWTV-LI-HK"
+}, {
+    "channelName": "Fox Sports News",
+    "channelCode": "NOWTV-ESPN-NEWS"
+}, {
+    "channelName": "Channel M高清频道",
+    "channelCode": "NOWTV-MNET-HK"
+}, {
+    "channelName": "FOX台湾频道",
+    "channelCode": "NOWTV-FOX-FEC"
+}, {
+    "channelName": "STAR Cricket Extra",
+    "channelCode": "NOWTV-STAR-CRICKET-PLUS"
+}, {
+    "channelName": "FOX Action Movies",
+    "channelCode": "NOWTV-FOX-ACTION-MOVIES-TW"
+}, {
+    "channelName": "Discovery Kids",
+    "channelCode": "NOWTV-DISCOVERY-KIDS-HK"
+}, {
+    "channelName": "Playboy TV",
+    "channelCode": "NOWTV-PLAYBOY-TV-TW"
+}, {
+    "channelName": "冰火影院",
+    "channelCode": "NOWTV-BH-CHANNEL"
+}, {
+    "channelName": "见摩之频道",
+    "channelCode": "NOWTV-JM-CHANNEL"
+}, {
+    "channelName": "成人极品台",
+    "channelCode": "NOWTV-CHENGRENJP"
+}, {
+    "channelName": "交通频道",
+    "channelCode": "NOWTV-TRAFFIC-CHANNEL"
+}, {
+    "channelName": "天气频道",
+    "channelCode": "NOWTV-WEATHER-CHANNEL"
+}, {
+    "channelName": "TOONAMI",
+    "channelCode": "NOWTV-TOONAMI"
+}, {
+    "channelName": "翡翠即日重温 ",
+    "channelCode": "NOWTV-TVB-ENCORE"
+}, {
+    "channelName": "TBN",
+    "channelCode": "NOWTV-TBN"
+}, {
+    "channelName": "Now爆谷台",
+    "channelCode": "NOWTV-BAOGU"
+}, {
+    "channelName": "MOViE MOViE",
+    "channelCode": "NOWTV-MOVIE-MOVIE"
+}, {
+    "channelName": "Channel [V] India",
+    "channelCode": "NOWTV-CHANNEL-V-INDIA"
+}, {
+    "channelName": "第一卫视亚洲台",
+    "channelCode": "NOWTV-ONETV"
+}, {
+    "channelName": "Lifetime",
+    "channelCode": "NOWTV-LIFETIME-TV-HK"
+}, {
+    "channelName": "GMA News TV Intl",
+    "channelCode": "NOWTV-GMA-NEWS-TV-INTERNATIONAL"
+}, {
+    "channelName": "综艺台 ",
+    "channelCode": "NOWTV-TVB-WINDOW"
+}, {
+    "channelName": "RTL CBS Entertainment",
+    "channelCode": "NOWTV-RTL-CBS-ENTERTAINMENT"
+}, {
+    "channelName": "体育台",
+    "channelCode": "NOWTV-TVB-SPORTS"
+}, {
+    "channelName": "Now Ch621",
+    "channelCode": "NOWTV-NOW-CH621"
+}, {
+    "channelName": "Now 668",
+    "channelCode": "NOWTV-NOWSSE"
+}, {
+    "channelName": "PLTV",
+    "channelCode": "NOWTV-NOWPLTV"
+}, {
+    "channelName": "DMAX",
+    "channelCode": "NOWTV-DMAX-HK"
+}, {
+    "channelName": "索尼台",
+    "channelCode": "NOWTV-SNCATV-HK"
+}, {
+    "channelName": "HITS",
+    "channelCode": "NOWTV-HITSATV-HK"
+}, {
+    "channelName": "华语剧台",
+    "channelCode": "NOWTV-CVBCD-HK"
+}, {
+    "channelName": "精选亚洲剧台",
+    "channelCode": "NOWTV-TVBDS-HK"
+}, {
+    "channelName": "粤语片台",
+    "channelCode": "NOWTV-TVBCM-HK"
+}, {
+    "channelName": "GEM",
+    "channelCode": "NOWTV-GEMTVASIA-HK"
+}, {
+    "channelName": "香港卫视",
+    "channelCode": "HKSTV-HKS"
+}, {
+    "channelName": "香港卫视精品台",
+    "channelCode": "HKSTV-HKJPTV"
+}, {
+    "channelName": "澳亚卫视",
+    "channelCode": "BBTV-MASTV1"
+}, {
+    "channelName": "CCTV-4国际",
+    "channelCode": "BBTV-CCTV4"
+}, {
+    "channelName": "CCTV-11戏曲",
+    "channelCode": "BBTV-CCTV11"
+}, {
+    "channelName": "CCTV-13新闻",
+    "channelCode": "BBTV-CCTV13"
+}, {
+    "channelName": "CCTV NEWS",
+    "channelCode": "BBTV-CCTV19-HK"
+}, {
+    "channelName": "CCTV-F法语",
+    "channelCode": "BBTV-CCTVF"
+}, {
+    "channelName": "MTV",
+    "channelCode": "BBTV-MTV-HK"
+}, {
+    "channelName": "深圳卫视",
+    "channelCode": "BBTV-SZTV1-HK"
+}, {
+    "channelName": "南方卫视",
+    "channelCode": "BBTV-NANFANG2"
+}, {
+    "channelName": "广西卫视",
+    "channelCode": "BBTV-GUANXI1"
+}, {
+    "channelName": "黑龙江卫视",
+    "channelCode": "BBTV-HLJTV1"
+}, {
+    "channelName": "河南卫视",
+    "channelCode": "BBTV-HNTV1"
+}, {
+    "channelName": "凤凰卫视",
+    "channelCode": "BBTV-PHOENIX1"
+}, {
+    "channelName": "凤凰卫视资讯台",
+    "channelCode": "BBTV-PHOENIX-INFONEWS"
+}, {
+    "channelName": "江苏卫视",
+    "channelCode": "BBTV-JSTV1-HK"
+}, {
+    "channelName": "东方卫视",
+    "channelCode": "BBTV-DONGFANG1"
+}, {
+    "channelName": "陕西卫视",
+    "channelCode": "BBTV-SHXITV1"
+}, {
+    "channelName": "好消息二台",
+    "channelCode": "BBTV-GOODTV2"
+}, {
+    "channelName": "创世电视",
+    "channelCode": "BBTV-CREATION1"
+}, {
+    "channelName": "云南卫视",
+    "channelCode": "BBTV-YNTV1"
+}, {
+    "channelName": "大爱一台",
+    "channelCode": "BBTV-DAAI1"
+}, {
+    "channelName": "人间台",
+    "channelCode": "BBTV-BLTV1"
+}, {
+    "channelName": "东森亚洲卫视",
+    "channelCode": "BBTV-ETTV-ASIA"
+}, {
+    "channelName": "Nick",
+    "channelCode": "BBTV-NICKELODEON"
+}, {
+    "channelName": "彭博财经台",
+    "channelCode": "BBTV-BLOOMBERG-TV"
+}, {
+    "channelName": "半岛电视台英语频道",
+    "channelCode": "BBTV-ALJAZEERA-ENGLISH"
+}, {
+    "channelName": "Australia Plus",
+    "channelCode": "BBTV-AUSTRALIANETWORK"
+}, {
+    "channelName": "东森亚洲新闻台",
+    "channelCode": "BBTV-ETTV-ASIA-NEWS"
+}, {
+    "channelName": "亚洲新闻台",
+    "channelCode": "BBTV-CNA-HK"
+}, {
+    "channelName": "凤凰卫视香港台",
+    "channelCode": "BBTV-PHOENIXHK"
+}, {
+    "channelName": "DW-TV Asia",
+    "channelCode": "BBTV-DW-TV-ASIA"
+}, {
+    "channelName": "DIVA Universal",
+    "channelCode": "BBTV-DIVA-UNIVERSAL"
+}, {
+    "channelName": "Syfy频道",
+    "channelCode": "BBTV-SYFY-UNIVERSAL"
+}, {
+    "channelName": "天映经典频道",
+    "channelCode": "BBTV-CMC-CLASSIC"
+}, {
+    "channelName": "Thrill",
+    "channelCode": "BBTV-THRILL"
+}, {
+    "channelName": "中国电影频道香港版",
+    "channelCode": "BBTV-CHINA-MOVIE-CHANNEL"
+}, {
+    "channelName": "Universal",
+    "channelCode": "BBTV-UNIVERSAL-CHANNEL"
+}, {
+    "channelName": "KIX",
+    "channelCode": "BBTV-KIX"
+}, {
+    "channelName": "法国24台(法语频道)",
+    "channelCode": "BBTV-FRANCE24-FRENCH"
+}, {
+    "channelName": "球影院1台",
+    "channelCode": "BBTV-HKHQ-MOVIE1"
+}, {
+    "channelName": "球影院2台",
+    "channelCode": "BBTV-HKHQ-MOVIE2"
+}, {
+    "channelName": "Trace Sports",
+    "channelCode": "BBTV-TRACE-SPORTS-HK"
+}, {
+    "channelName": "bbMV",
+    "channelCode": "BBTV-BBMV"
+}, {
+    "channelName": "优质生活台",
+    "channelCode": "BBTV-APLUS"
+}, {
+    "channelName": "luxe.tv HD",
+    "channelCode": "BBTV-LUXETV-HK"
+}, {
+    "channelName": "Comedy Central Asia",
+    "channelCode": "BBTV-COMEDY-CENTRAL-ASIA"
+}, {
+    "channelName": "AMC (Asia)",
+    "channelCode": "BBTV-AMC-MOVIE"
+}, {
+    "channelName": "CCTV-1综合",
+    "channelCode": "HKFTA-CCTV1"
+}, {
+    "channelName": "深圳卫视",
+    "channelCode": "HKFTA-SZTV1-HK"
+}, {
+    "channelName": "翡翠台",
+    "channelCode": "HKFTA-TVB1"
+}, {
+    "channelName": "明珠台",
+    "channelCode": "HKFTA-TVB2"
+}, {
+    "channelName": "J2",
+    "channelCode": "HKFTA-TVB11"
+}, {
+    "channelName": "高清翡翠台",
+    "channelCode": "HKFTA-TVB12"
+}, {
+    "channelName": "互动新闻台",
+    "channelCode": "HKFTA-TVB13"
+}, {
+    "channelName": "亚洲电视本港台",
+    "channelCode": "HKFTA-HKATV1"
+}, {
+    "channelName": "亚洲电视国际台",
+    "channelCode": "HKFTA-HKATV2"
+}, {
+    "channelName": "亚洲电视亚洲台",
+    "channelCode": "HKFTA-HKATV-ASIA"
+}, {
+    "channelName": "岁月留声",
+    "channelCode": "HKFTA-ATV-CLASSIC"
+}, {
+    "channelName": "TCB潮视",
+    "channelCode": "ECSTV-ECSTV"
+}, {
+    "channelName": "健康卫视",
+    "channelCode": "JKWSHK-JKWSHK"
+}, {
+    "channelName": "CN卡通频道",
+    "channelCode": "UTVHK-CARTOON-HK"
+}, {
+    "channelName": "互动新闻台",
+    "channelCode": "UTVHK-TVB13"
+}, {
+    "channelName": "国家地理野生频道",
+    "channelCode": "UTVHK-NGW"
+}, {
+    "channelName": "美亚高清电影台",
+    "channelCode": "UTVHK-MATV-MOVIE-HK"
+}, {
+    "channelName": "卫视中文台",
+    "channelCode": "UTVHK-STAR-CHINESE-CHANNEL-SG"
+}, {
+    "channelName": "MNC International",
+    "channelCode": "UTVHK-MNC-INTERNATIONAL"
+}, {
+    "channelName": "Channel M高清频道",
+    "channelCode": "UTVHK-MNET-HK"
+}, {
+    "channelName": "UOne",
+    "channelCode": "UTVHK-UONE"
+}]

@@ -1,0 +1,673 @@
+[{
+    "channelName": "风云足球",
+    "channelCode": "CCTVPAYFEE-CCTVPAYFEE1"
+}, {
+    "channelName": "风云音乐",
+    "channelCode": "CCTVPAYFEE-CCTVPAYFEE2"
+}, {
+    "channelName": "第一剧场",
+    "channelCode": "CCTVPAYFEE-CCTVPAYFEE3"
+}, {
+    "channelName": "风云剧场",
+    "channelCode": "CCTVPAYFEE-CCTVPAYFEE4"
+}, {
+    "channelName": "世界地理",
+    "channelCode": "CCTVPAYFEE-CCTVPAYFEE5"
+}, {
+    "channelName": "电视指南",
+    "channelCode": "CCTVPAYFEE-CCTVPAYFEE6"
+}, {
+    "channelName": "怀旧剧场",
+    "channelCode": "CCTVPAYFEE-CCTVPAYFEE7"
+}, {
+    "channelName": "国防军事",
+    "channelCode": "CCTVPAYFEE-CCTVPAYFEE8"
+}, {
+    "channelName": "女性时尚",
+    "channelCode": "CCTVPAYFEE-CCTVPAYFEE9"
+}, {
+    "channelName": "CCTV-娱乐",
+    "channelCode": "CCTVPAYFEE-CCTVPAYFEE10"
+}, {
+    "channelName": "CCTV-戏曲",
+    "channelCode": "CCTVPAYFEE-CCTVPAYFEE11"
+}, {
+    "channelName": "CCTV-电影",
+    "channelCode": "CCTVPAYFEE-CCTVPAYFEE12"
+}, {
+    "channelName": "高尔夫网球",
+    "channelCode": "CCTVPAYFEE-CCTVPAYFEE13"
+}, {
+    "channelName": "央视精品",
+    "channelCode": "CCTVPAYFEE-CCTVPAYFEE14"
+}, {
+    "channelName": "中视购物",
+    "channelCode": "CCTVPAYFEE-CCTVPAYFEE15"
+}, {
+    "channelName": "彩民在线",
+    "channelCode": "CCTVPAYFEE-CCTVPAYFEE16"
+}, {
+    "channelName": "法律服务",
+    "channelCode": "CCTVPAYFEE-CCTVPAYFEE17"
+}, {
+    "channelName": "梨园",
+    "channelCode": "CCTVPAYFEE-CCTVPAYFEE20"
+}, {
+    "channelName": "汽摩",
+    "channelCode": "CCTVPAYFEE-CCTVPAYFEE22"
+}, {
+    "channelName": "老年福",
+    "channelCode": "CCTVPAYFEE-CCTVPAYFEE23"
+}, {
+    "channelName": "留学世界",
+    "channelCode": "CCTVPAYFEE-CCTVPAYFEE24"
+}, {
+    "channelName": "青年学苑",
+    "channelCode": "CCTVPAYFEE-CCTVPAYFEE25"
+}, {
+    "channelName": "摄影频道",
+    "channelCode": "CCTVPAYFEE-PHOTOGRAPHY-CHANNEL"
+}, {
+    "channelName": "天元围棋",
+    "channelCode": "CCTVPAYFEE-TIANYUANWEIQI"
+}, {
+    "channelName": "现代女性",
+    "channelCode": "CCTVPAYFEE-CCTVPAYFEE29"
+}, {
+    "channelName": "早期教育",
+    "channelCode": "CCTVPAYFEE-CCTVPAYFEE33"
+}, {
+    "channelName": "CCTV证券资讯",
+    "channelCode": "CCTVPAYFEE-CCTVCJ"
+}, {
+    "channelName": "CCTV中学生频道",
+    "channelCode": "CCTVPAYFEE-CCTVPAYFEE35"
+}, {
+    "channelName": "CCTV央视台球",
+    "channelCode": "CCTVPAYFEE-CCTVPAYFEE36"
+}, {
+    "channelName": "茶频道",
+    "channelCode": "CCTVPAYFEE-DOCUMENTARY-CHANNEL"
+}, {
+    "channelName": "武术世界",
+    "channelCode": "CCTVPAYFEE-WUSHUSHIJIE"
+}, {
+    "channelName": "3D电视试验频道",
+    "channelCode": "CCTVPAYFEE-CCTV3D"
+}, {
+    "channelName": "宝贝家",
+    "channelCode": "CCTVPAYFEE-UBABYTV"
+}, {
+    "channelName": "发现之旅",
+    "channelCode": "CCTVPAYFEE-CCTVFXZL"
+}, {
+    "channelName": "环球奇观",
+    "channelCode": "CCTVPAYFEE-HUANQIUQIGUAN"
+}, {
+    "channelName": "国学",
+    "channelCode": "CCTVPAYFEE-SHUOWENJIEZI"
+}, {
+    "channelName": "文物宝库",
+    "channelCode": "CCTVPAYFEE-WENWUBAOKU"
+}, {
+    "channelName": "新科动漫",
+    "channelCode": "CCTVPAYFEE-XINKEDONGMAN"
+}, {
+    "channelName": "幼儿教育",
+    "channelCode": "CCTVPAYFEE-YOUERJIAOYU"
+}, {
+    "channelName": "CCTV老故事",
+    "channelCode": "CCTVPAYFEE-CCTVLAOGUSHI"
+}, {
+    "channelName": "快乐垂钓",
+    "channelCode": "CCTVPAYFEE-KUAILECHUIDIAO"
+}, {
+    "channelName": "书画频道",
+    "channelCode": "CCTVPAYFEE-CCTVPAYFEE37"
+}, {
+    "channelName": "中华美食",
+    "channelCode": "CCTVPAYFEE-CHINA-FOODTV"
+}, {
+    "channelName": "全国党教",
+    "channelCode": "CCTVPAYFEE-DANGJIAO"
+}, {
+    "channelName": "城市建设",
+    "channelCode": "CCTVPAYFEE-CCCDTV"
+}, {
+    "channelName": "东方物流",
+    "channelCode": "CCTVPAYFEE-DFWL"
+}, {
+    "channelName": "教育1台",
+    "channelCode": "CETV-CETV1"
+}, {
+    "channelName": "教育2台",
+    "channelCode": "CETV-CETV2"
+}, {
+    "channelName": "教育3台",
+    "channelCode": "CETV-CETV3"
+}, {
+    "channelName": "空中课堂",
+    "channelCode": "CETV-CETV4"
+}, {
+    "channelName": "快乐购",
+    "channelCode": "HUNANTV-HAPPIGO"
+}, {
+    "channelName": "江苏靓妆频道",
+    "channelCode": "JSTV-JSTV5"
+}, {
+    "channelName": "动漫视界",
+    "channelCode": "SDCATV-DMSJ"
+}, {
+    "channelName": "悬疑电影",
+    "channelCode": "SDCATV-JDDY"
+}, {
+    "channelName": "亚洲电影",
+    "channelCode": "SDCATV-YZDY"
+}, {
+    "channelName": "音乐电视",
+    "channelCode": "SDCATV-MUSICTV"
+}, {
+    "channelName": "欧美电影",
+    "channelCode": "SDCATV-OMDY"
+}, {
+    "channelName": "紫荆剧场",
+    "channelCode": "SDCATV-HQJC"
+}, {
+    "channelName": "探索发现",
+    "channelCode": "SDCATV-TSFX"
+}, {
+    "channelName": "音乐会",
+    "channelCode": "SDCATV-YYH"
+}, {
+    "channelName": "美食之旅",
+    "channelCode": "SDCATV-MSZL"
+}, {
+    "channelName": "动漫秀场",
+    "channelCode": "SITV-SITV1"
+}, {
+    "channelName": "游戏风云",
+    "channelCode": "SITV-SITV2"
+}, {
+    "channelName": "法治天地",
+    "channelCode": "SITV-SITV3"
+}, {
+    "channelName": "劲爆体育",
+    "channelCode": "SITV-SITV4"
+}, {
+    "channelName": "魅力音乐",
+    "channelCode": "SITV-SITV5"
+}, {
+    "channelName": "金色频道",
+    "channelCode": "SITV-SITV6"
+}, {
+    "channelName": "欢笑剧场",
+    "channelCode": "SITV-SITV7"
+}, {
+    "channelName": "七彩戏剧",
+    "channelCode": "SITV-SITV8"
+}, {
+    "channelName": "极速汽车",
+    "channelCode": "SITV-SITV9"
+}, {
+    "channelName": "生活时尚",
+    "channelCode": "SITV-SITV10"
+}, {
+    "channelName": "全纪实",
+    "channelCode": "SITV-SITV11"
+}, {
+    "channelName": "都市剧场",
+    "channelCode": "SITV-SITV12"
+}, {
+    "channelName": "卫生健康",
+    "channelCode": "SITV-SITV13"
+}, {
+    "channelName": "东方财经·浦东",
+    "channelCode": "SITV-SITV14"
+}, {
+    "channelName": "SITV经典剧场",
+    "channelCode": "SITV-SITV15"
+}, {
+    "channelName": "海外影院",
+    "channelCode": "SITV-SITV16"
+}, {
+    "channelName": "首映剧场",
+    "channelCode": "SITV-SITV18"
+}, {
+    "channelName": "学习考试",
+    "channelCode": "SITV-SITV20"
+}, {
+    "channelName": "动作影院",
+    "channelCode": "SITV-SITV21"
+}, {
+    "channelName": "英语教室",
+    "channelCode": "SITV-SITV22"
+}, {
+    "channelName": "玩具益智",
+    "channelCode": "SITV-SITV26"
+}, {
+    "channelName": "幸福彩",
+    "channelCode": "SITV-SITV29"
+}, {
+    "channelName": "新视觉",
+    "channelCode": "SITV-SITV30"
+}, {
+    "channelName": "劲爆体育HD",
+    "channelCode": "SITV-SITV-SPORTS"
+}, {
+    "channelName": "全纪实HD",
+    "channelCode": "SITV-SITV-DOCUMENTARY"
+}, {
+    "channelName": "欢笑剧场HD",
+    "channelCode": "SITV-SITV-MOVIES"
+}, {
+    "channelName": "魅力音乐HD",
+    "channelCode": "SITV-SITV-YULE"
+}, {
+    "channelName": "情感影院",
+    "channelCode": "SITV-QINGGANYINGYUAN"
+}, {
+    "channelName": "外汇理财",
+    "channelCode": "SITV-IPTVEFEL"
+}, {
+    "channelName": "资讯气象",
+    "channelCode": "SITV-SITV-ZXQX"
+}, {
+    "channelName": "动漫秀场HD",
+    "channelCode": "SITV-SITV-CHILDREN"
+}, {
+    "channelName": "幸福彩HD",
+    "channelCode": "SITV-SITV-TRAVEL"
+}, {
+    "channelName": "生活时尚HD",
+    "channelCode": "SITV-SITV-FASHION"
+}, {
+    "channelName": "都市剧场HD",
+    "channelCode": "SITV-SITV-MOVIE"
+}, {
+    "channelName": "游戏风云HD",
+    "channelCode": "SITV-SITV-GAME"
+}, {
+    "channelName": "DOX英伦",
+    "channelCode": "SITV-DOXYL"
+}, {
+    "channelName": "DOX怡家",
+    "channelCode": "SITV-DOXYJ"
+}, {
+    "channelName": "DOX院线",
+    "channelCode": "SITV-DOX-CINEMA"
+}, {
+    "channelName": "DOX韩流",
+    "channelCode": "SITV-DOX-K-DRAMA"
+}, {
+    "channelName": "DOX热播剧场",
+    "channelCode": "SITV-DOX-C-DRAMA"
+}, {
+    "channelName": "DOX新知",
+    "channelCode": "SITV-DOXXZ"
+}, {
+    "channelName": "DOX新艺",
+    "channelCode": "SITV-DOXXY"
+}, {
+    "channelName": "互动导视",
+    "channelCode": "SITV-HUDONG"
+}, {
+    "channelName": "DOX映画",
+    "channelCode": "SITV-DOXYH"
+}, {
+    "channelName": "DOX剧场",
+    "channelCode": "SITV-DOXJC"
+}, {
+    "channelName": "东方购物二套",
+    "channelCode": "SITV-DONGFANGGW2"
+}, {
+    "channelName": "点播影院",
+    "channelCode": "SITV-DIANBOYINGYUAN"
+}, {
+    "channelName": "天津搏击频道",
+    "channelCode": "TJTV-BOJI"
+}, {
+    "channelName": "CHC动作电影",
+    "channelCode": "CHC-CHC1"
+}, {
+    "channelName": "CHC家庭影院",
+    "channelCode": "CHC-CHC2"
+}, {
+    "channelName": "CHC高清电影",
+    "channelCode": "CHC-CHC3"
+}, {
+    "channelName": "先锋乒羽",
+    "channelCode": "CHC-XFBY"
+}, {
+    "channelName": "DOXTV",
+    "channelCode": "CHC-DOXTV"
+}, {
+    "channelName": "车迷频道",
+    "channelCode": "BAMC-BAMC1"
+}, {
+    "channelName": "考试在线",
+    "channelCode": "BAMC-BAMC2"
+}, {
+    "channelName": "优优宝贝",
+    "channelCode": "BAMC-BAMC3"
+}, {
+    "channelName": "四海钓鱼",
+    "channelCode": "BAMC-BAMC4"
+}, {
+    "channelName": "动感音乐",
+    "channelCode": "BAMC-BAMC5"
+}, {
+    "channelName": "环球旅游",
+    "channelCode": "BAMC-BAMC6"
+}, {
+    "channelName": "新娱乐",
+    "channelCode": "BAMC-BAMC7"
+}, {
+    "channelName": "京视剧场",
+    "channelCode": "BAMC-BAMC8"
+}, {
+    "channelName": "爱家购物",
+    "channelCode": "BAMC-BAMC9"
+}, {
+    "channelName": "弈坛春秋",
+    "channelCode": "BAMC-BAMC10"
+}, {
+    "channelName": "置业频道",
+    "channelCode": "BAMC-BAMC11"
+}, {
+    "channelName": "央广健康",
+    "channelCode": "BAMC-BAMC14"
+}, {
+    "channelName": "收藏天下",
+    "channelCode": "BAMC-SHOUCANGTIAXIA"
+}, {
+    "channelName": "职业指南",
+    "channelCode": "BAMC-BAMC16"
+}, {
+    "channelName": "时代家居",
+    "channelCode": "BAMC-BAMC17"
+}, {
+    "channelName": "时代出行",
+    "channelCode": "BAMC-BAMC18"
+}, {
+    "channelName": "时代风尚",
+    "channelCode": "BAMC-BAMC19"
+}, {
+    "channelName": "时代美食",
+    "channelCode": "BAMC-BAMC20"
+}, {
+    "channelName": "碟市频道",
+    "channelCode": "BAMC-DIESHI"
+}, {
+    "channelName": "财富天下",
+    "channelCode": "BAMC-CAIFUTIANXIA"
+}, {
+    "channelName": "中国气象频道",
+    "channelCode": "BAMC-CHINA-WEATHER-TV"
+}, {
+    "channelName": "人物频道",
+    "channelCode": "BAMC-RENWU"
+}, {
+    "channelName": "家政频道",
+    "channelCode": "BAMC-FAMILY-CHANNEL"
+}, {
+    "channelName": "百姓健康",
+    "channelCode": "BAMC-CHTV"
+}, {
+    "channelName": "环球购物",
+    "channelCode": "BAMC-GLOBALGO"
+}, {
+    "channelName": "大众影视",
+    "channelCode": "NNMCHINA-DZYS"
+}, {
+    "channelName": "交通·旅游",
+    "channelCode": "NNMCHINA-JTLY"
+}, {
+    "channelName": "智趣频道",
+    "channelCode": "NNMCHINA-ZHIQU"
+}, {
+    "channelName": "GTV游戏竞技",
+    "channelCode": "NNMCHINA-GTV-YOUXI"
+}, {
+    "channelName": "电子体育",
+    "channelCode": "NNMCHINA-ESPORTS"
+}, {
+    "channelName": "家庭理财",
+    "channelCode": "NNMCHINA-JIATINGLICAI"
+}, {
+    "channelName": "网络棋牌",
+    "channelCode": "NNMCHINA-GTV-QIPAI"
+}, {
+    "channelName": "新动漫",
+    "channelCode": "NNMCHINA-DONGMAN"
+}, {
+    "channelName": "家庭剧场1套",
+    "channelCode": "NNMCHINA-JTJC1"
+}, {
+    "channelName": "家庭剧场2套",
+    "channelCode": "NNMCHINA-JTJC2"
+}, {
+    "channelName": "家庭剧场3套",
+    "channelCode": "NNMCHINA-JTJC3"
+}, {
+    "channelName": "家庭影院1套",
+    "channelCode": "NNMCHINA-JTYY1"
+}, {
+    "channelName": "家庭影院2套",
+    "channelCode": "NNMCHINA-JTYY2"
+}, {
+    "channelName": "家庭影院3套",
+    "channelCode": "NNMCHINA-JTYY3"
+}, {
+    "channelName": "家庭影院4套",
+    "channelCode": "NNMCHINA-JTYY4"
+}, {
+    "channelName": "海外剧场",
+    "channelCode": "NNMCHINA-HWJC"
+}, {
+    "channelName": "刑侦剧场",
+    "channelCode": "NNMCHINA-XZJC"
+}, {
+    "channelName": "老电影",
+    "channelCode": "NNMCHINA-OLD-MOVIES"
+}, {
+    "channelName": "纪录片",
+    "channelCode": "NNMCHINA-DOCUMENTARY"
+}, {
+    "channelName": "探索集锦",
+    "channelCode": "NNMCHINA-EXPLORE-COLLECTION"
+}, {
+    "channelName": "地理杂志",
+    "channelCode": "NNMCHINA-GEOGRAPHIC-MAGAZINE"
+}, {
+    "channelName": "卡通剧场",
+    "channelCode": "NNMCHINA-CARTOON-THEATRE"
+}, {
+    "channelName": "家庭生活",
+    "channelCode": "NNMCHINA-FAMILY-LIFE"
+}, {
+    "channelName": "高尔夫频道",
+    "channelCode": "GDSMD-GOLF"
+}, {
+    "channelName": "英语辅导频道",
+    "channelCode": "GDSMD-ENGLISH-TEACHING"
+}, {
+    "channelName": "欧洲足球",
+    "channelCode": "GDSMD-EUROPEFOOTBALL"
+}, {
+    "channelName": "房产频道",
+    "channelCode": "GDSMD-FANGCHAN"
+}, {
+    "channelName": "岭南戏曲",
+    "channelCode": "GDSMD-LNXQ"
+}, {
+    "channelName": "会展频道",
+    "channelCode": "GDSMD-HUIZAHN"
+}, {
+    "channelName": "现代教育频道",
+    "channelCode": "GDSMD-FUN-TV"
+}, {
+    "channelName": "快乐宠物",
+    "channelCode": "GDSMD-PETS-TV"
+}, {
+    "channelName": "高清影视频道",
+    "channelCode": "SZTHM-SZTHM-MOVIES"
+}, {
+    "channelName": "高清探索频道",
+    "channelCode": "SZTHM-SZTHM-DISCOVERY"
+}, {
+    "channelName": "高清综艺频道",
+    "channelCode": "SZTHM-SZTHM-YULE"
+}, {
+    "channelName": "高清综合频道",
+    "channelCode": "SZTHM-SZTHM-SPORTS"
+}, {
+    "channelName": "央广购物",
+    "channelCode": "TJCATV-CNRMALL"
+}, {
+    "channelName": "优购物",
+    "channelCode": "TJCATV-UGO"
+}, {
+    "channelName": "家家购物",
+    "channelCode": "TJCATV-JIAJIAMALL"
+}, {
+    "channelName": "三佳购物",
+    "channelCode": "TJCATV-TTCJMALL"
+}, {
+    "channelName": "天天购物",
+    "channelCode": "TJCATV-TTGW"
+}, {
+    "channelName": "数码时代",
+    "channelCode": "BGCTV-DIGITAL-ERA"
+}, {
+    "channelName": "邮轮旅游",
+    "channelCode": "GZCATV1-GDYLLY"
+}, {
+    "channelName": "家有购物",
+    "channelCode": "SHENYANGCATV1-JIAYOUGO"
+}, {
+    "channelName": "晴彩辽宁",
+    "channelCode": "SHENYANGCATV1-JINGCAILIAONING"
+}, {
+    "channelName": "城市电视",
+    "channelCode": "SHENYANGCATV1-LNCITY"
+}, {
+    "channelName": "音乐天地",
+    "channelCode": "SHENYANGCATV1-YYTD"
+}, {
+    "channelName": "高清NBA",
+    "channelCode": "CQCATV-CQNBA"
+}, {
+    "channelName": "高清时尚",
+    "channelCode": "DALIANCATV-TTGQSS"
+}, {
+    "channelName": "骄阳剧场",
+    "channelCode": "JXCN-JYJC"
+}, {
+    "channelName": "NVOD视尚影院",
+    "channelCode": "SXBCTV-SSYY"
+}, {
+    "channelName": "NVOD动感影院",
+    "channelCode": "SXBCTV-DGYY"
+}, {
+    "channelName": "NVOD环球影院",
+    "channelCode": "SXBCTV-HQYY"
+}, {
+    "channelName": "多彩云·电影",
+    "channelCode": "GZGD-DCYDY"
+}, {
+    "channelName": "佳片赏析",
+    "channelCode": "GZGD-JPSX"
+}, {
+    "channelName": "中博视界综艺",
+    "channelCode": "DLCATV-ZBDG"
+}, {
+    "channelName": "求索纪录",
+    "channelCode": "HSCM-QSJL"
+}, {
+    "channelName": "求索生活",
+    "channelCode": "HSCM-QSSH"
+}, {
+    "channelName": "求索动物",
+    "channelCode": "HSCM-QSDW"
+}, {
+    "channelName": "求索科学",
+    "channelCode": "HSCM-QSKX"
+}, {
+    "channelName": "亚洲影院",
+    "channelCode": "HSCM-HSYZYY"
+}, {
+    "channelName": "高清精选",
+    "channelCode": "HSCM-HSGQJX"
+}, {
+    "channelName": "精品剧场",
+    "channelCode": "HSCM-HSJPJC"
+}, {
+    "channelName": "少儿动漫",
+    "channelCode": "HSCM-HSSEDM"
+}, {
+    "channelName": "动感英超",
+    "channelCode": "HSCM-HSDGYC"
+}, {
+    "channelName": "漫游世界",
+    "channelCode": "HSCM-HSMYSJ"
+}, {
+    "channelName": "炫动3D",
+    "channelCode": "HSCM-HS3D"
+}, {
+    "channelName": "精彩影视",
+    "channelCode": "HSCM-HSJCYS"
+}, {
+    "channelName": "探索纪实",
+    "channelCode": "HSCM-TSJS"
+}, {
+    "channelName": "风尚音乐",
+    "channelCode": "HSCM-FSYY"
+}, {
+    "channelName": "欧美影院",
+    "channelCode": "HSCM-OMYY"
+}, {
+    "channelName": "中央远教四套",
+    "channelCode": "CCTVYJ-ZYYJTV-4"
+}, {
+    "channelName": "星元·欧美剧场",
+    "channelCode": "XYCM-XYOMJC"
+}, {
+    "channelName": "星元·欧美院线",
+    "channelCode": "XYCM-XYOMYX"
+}, {
+    "channelName": "星元·亚洲剧场",
+    "channelCode": "XYCM-XYYZJC"
+}, {
+    "channelName": "星元·亚洲院线",
+    "channelCode": "XYCM-XYYZYX"
+}, {
+    "channelName": "星元·新知",
+    "channelCode": "XYCM-XYXZ"
+}, {
+    "channelName": "星元·首映",
+    "channelCode": "XYCM-XYSY"
+}, {
+    "channelName": "星元·成长",
+    "channelCode": "XYCM-XYCZ"
+}, {
+    "channelName": "星元·韩剧",
+    "channelCode": "XYCM-XYHJ"
+}, {
+    "channelName": "星元·国剧",
+    "channelCode": "XYCM-XYGJ"
+}, {
+    "channelName": "星元·旅行",
+    "channelCode": "XYCM-XYLX"
+}, {
+    "channelName": "星元·少儿",
+    "channelCode": "XYCM-XYSE"
+}, {
+    "channelName": "星元·川网导视",
+    "channelCode": "XYCM-XYCWDS"
+}, {
+    "channelName": "星元·视讯",
+    "channelCode": "XYCM-XYSX"
+}, {
+    "channelName": "篮球频道",
+    "channelCode": "JSCM-BASKETBALL"
+}]

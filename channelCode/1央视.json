@@ -1,0 +1,79 @@
+[{
+    "channelName": "CCTV-1综合",
+    "channelCode": "CCTV-CCTV1"
+}, {
+    "channelName": "CCTV-2财经",
+    "channelCode": "CCTV-CCTV2"
+}, {
+    "channelName": "CCTV-3综艺",
+    "channelCode": "CCTV-CCTV3"
+}, {
+    "channelName": "CCTV-4国际",
+    "channelCode": "CCTV-CCTV4"
+}, {
+    "channelName": "CCTV-5体育",
+    "channelCode": "CCTV-CCTV5"
+}, {
+    "channelName": "CCTV-6电影",
+    "channelCode": "CCTV-CCTV6"
+}, {
+    "channelName": "CCTV-7军事",
+    "channelCode": "CCTV-CCTV7"
+}, {
+    "channelName": "CCTV-8电视剧",
+    "channelCode": "CCTV-CCTV8"
+}, {
+    "channelName": "CCTV-9纪录",
+    "channelCode": "CCTV-CCTV9"
+}, {
+    "channelName": "CCTV-10科教",
+    "channelCode": "CCTV-CCTV10"
+}, {
+    "channelName": "CCTV-11戏曲",
+    "channelCode": "CCTV-CCTV11"
+}, {
+    "channelName": "CCTV-12法制",
+    "channelCode": "CCTV-CCTV12"
+}, {
+    "channelName": "CCTV-13新闻",
+    "channelCode": "CCTV-CCTV13"
+}, {
+    "channelName": "CCTV-14少儿",
+    "channelCode": "CCTV-CCTV15"
+}, {
+    "channelName": "CCTV-15音乐",
+    "channelCode": "CCTV-CCTV16"
+}, {
+    "channelName": "CCTV5加",
+    "channelCode": "CCTV-CCTV5-PLUS"
+}, {
+    "channelName": "CCTV-E西语",
+    "channelCode": "CCTV-CCTV17"
+}, {
+    "channelName": "CCTV-纪录(英)",
+    "channelCode": "CCTV-CCTV18"
+}, {
+    "channelName": "CCTV-纪录(英)",
+    "channelCode": "CCTV-CCTV18-SG"
+}, {
+    "channelName": "CCTV NEWS",
+    "channelCode": "CCTV-CCTV19"
+}, {
+    "channelName": "CCTV NEWS",
+    "channelCode": "CCTV-CCTV19-HK"
+}, {
+    "channelName": "CCTV-4欧洲",
+    "channelCode": "CCTV-CCTVEUROPE"
+}, {
+    "channelName": "CCTV-4美洲",
+    "channelCode": "CCTV-CCTVAMERICAS"
+}, {
+    "channelName": "CCTV-F法语",
+    "channelCode": "CCTV-CCTVF"
+}, {
+    "channelName": "CCTV-A阿语",
+    "channelCode": "CCTV-CCTVA"
+}, {
+    "channelName": "CCTV-R俄语",
+    "channelCode": "CCTV-CCTVR"
+}]

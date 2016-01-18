@@ -1,0 +1,163 @@
+[{
+    "channelName": "湖北卫视",
+    "channelCode": "HUBEI-HUBEI1"
+}, {
+    "channelName": "湖北卫视",
+    "channelCode": "HUBEI-HUBEI1-HK"
+}, {
+    "channelName": "湖北综合频道",
+    "channelCode": "HUBEI-HUBEI2"
+}, {
+    "channelName": "湖北影视频道",
+    "channelCode": "HUBEI-HUBEI3"
+}, {
+    "channelName": "湖北教育频道",
+    "channelCode": "HUBEI-HUBEI4"
+}, {
+    "channelName": "湖北生活频道",
+    "channelCode": "HUBEI-HUBEI5"
+}, {
+    "channelName": "美嘉购物",
+    "channelCode": "HUBEI-HUBEI6"
+}, {
+    "channelName": "湖北公共·新闻",
+    "channelCode": "HUBEI-HUBEI7"
+}, {
+    "channelName": "湖北经济频道",
+    "channelCode": "HUBEI-HUBEI8"
+}, {
+    "channelName": "湖北垄上频道",
+    "channelCode": "HUBEI-HBLS"
+}, {
+    "channelName": "武汉新闻综合频道",
+    "channelCode": "WHTV-WHTV1"
+}, {
+    "channelName": "武汉电视剧频道",
+    "channelCode": "WHTV-WHTV2"
+}, {
+    "channelName": "武汉科技生活频道",
+    "channelCode": "WHTV-WHTV3"
+}, {
+    "channelName": "武汉经济频道",
+    "channelCode": "WHTV-WHTV4"
+}, {
+    "channelName": "武汉文体频道",
+    "channelCode": "WHTV-WHTV5"
+}, {
+    "channelName": "武汉外语频道",
+    "channelCode": "WHTV-WHTV6"
+}, {
+    "channelName": "武汉少儿频道",
+    "channelCode": "WHTV-WHTV7"
+}, {
+    "channelName": "武汉广通购物频道",
+    "channelCode": "WHTV-WHTV8"
+}, {
+    "channelName": "武汉教育电视台",
+    "channelCode": "WHTV-WETV"
+}, {
+    "channelName": "武汉睛彩武汉频道",
+    "channelCode": "WHTV-WHTV9"
+}, {
+    "channelName": "荆州新闻台",
+    "channelCode": "JZTV-JZTV1"
+}, {
+    "channelName": "荆州垄上台",
+    "channelCode": "JZTV-JZTV2"
+}, {
+    "channelName": "荆州社区频道",
+    "channelCode": "JZTV-JZTV3"
+}, {
+    "channelName": "黄冈新闻台",
+    "channelCode": "HBHGTV-HBHGTV1"
+}, {
+    "channelName": "黄冈公共台",
+    "channelCode": "HBHGTV-HBHGTV2"
+}, {
+    "channelName": "襄阳新闻综合频道",
+    "channelCode": "HBXFTV-HBXFTV1"
+}, {
+    "channelName": "襄阳生活频道",
+    "channelCode": "HBXFTV-HBXYTV2"
+}, {
+    "channelName": "襄阳文教频道",
+    "channelCode": "HBXFTV-HBXYTV3"
+}, {
+    "channelName": "襄阳影视娱乐频道",
+    "channelCode": "HBXFTV-HBXYTV4"
+}, {
+    "channelName": "孝感公共频道",
+    "channelCode": "XIAOGAN-XIAOGAN1"
+}, {
+    "channelName": "孝感影视频道",
+    "channelCode": "XIAOGAN-XIAOGAN2"
+}, {
+    "channelName": "孝感新闻频道",
+    "channelCode": "XIAOGAN-XIAOGAN3"
+}, {
+    "channelName": "孝感孝南频道",
+    "channelCode": "XIAOGAN-XIAOGAN4"
+}, {
+    "channelName": "黄石新闻频道",
+    "channelCode": "HBHSTV-HBHSTV1"
+}, {
+    "channelName": "黄石公共垄上频道",
+    "channelCode": "HBHSTV-HBHSTV2"
+}, {
+    "channelName": "黄石都市社区频道",
+    "channelCode": "HBHSTV-HBHSTV3"
+}, {
+    "channelName": "睛彩黄石",
+    "channelCode": "HBHSTV-HBHSTV4"
+}, {
+    "channelName": "黄石移动频道",
+    "channelCode": "HBHSTV-HSYD"
+}, {
+    "channelName": "荆门综合频道",
+    "channelCode": "HBJMTV-HBJMTV1"
+}, {
+    "channelName": "荆门农谷频道",
+    "channelCode": "HBJMTV-HBJMTV2"
+}, {
+    "channelName": "荆门公共频道",
+    "channelCode": "HBJMTV-HBJMTV4"
+}, {
+    "channelName": "十堰新闻频道",
+    "channelCode": "HBSYTV-HBSYTV1"
+}, {
+    "channelName": "十堰公共频道",
+    "channelCode": "HBSYTV-HBSYTV2"
+}, {
+    "channelName": "十堰经济频道",
+    "channelCode": "HBSYTV-HBSYTV3"
+}, {
+    "channelName": "十堰武当频道",
+    "channelCode": "HBSYTV-HBSYTV4"
+}, {
+    "channelName": "十堰导视频道",
+    "channelCode": "HBSYTV-HBSYTV5"
+}, {
+    "channelName": "十堰教育频道",
+    "channelCode": "HBSYTV-HBSYTV6"
+}, {
+    "channelName": "十堰影视频道",
+    "channelCode": "HBSYTV-HBSYTV7"
+}, {
+    "channelName": "宜昌综合频道",
+    "channelCode": "YICHANGTV-YICHANGTV1"
+}, {
+    "channelName": "宜昌公共频道",
+    "channelCode": "YICHANGTV-YICHANGTV2"
+}, {
+    "channelName": "宜昌旅游商务频道",
+    "channelCode": "YICHANGTV-YICHANGTV3"
+}, {
+    "channelName": "葛洲坝台",
+    "channelCode": "YICHANGTV-GZBTV"
+}, {
+    "channelName": "随州一套",
+    "channelCode": "SUIZHOUTV-SUIZHOUTV1"
+}, {
+    "channelName": "随州二套",
+    "channelCode": "SUIZHOUTV-SUIZHOUTV2"
+}]

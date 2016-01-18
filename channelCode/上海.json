@@ -1,0 +1,181 @@
+[{
+    "channelName": "动漫秀场",
+    "channelCode": "SITV-SITV1"
+}, {
+    "channelName": "游戏风云",
+    "channelCode": "SITV-SITV2"
+}, {
+    "channelName": "法治天地",
+    "channelCode": "SITV-SITV3"
+}, {
+    "channelName": "劲爆体育",
+    "channelCode": "SITV-SITV4"
+}, {
+    "channelName": "魅力音乐",
+    "channelCode": "SITV-SITV5"
+}, {
+    "channelName": "金色频道",
+    "channelCode": "SITV-SITV6"
+}, {
+    "channelName": "欢笑剧场",
+    "channelCode": "SITV-SITV7"
+}, {
+    "channelName": "七彩戏剧",
+    "channelCode": "SITV-SITV8"
+}, {
+    "channelName": "极速汽车",
+    "channelCode": "SITV-SITV9"
+}, {
+    "channelName": "生活时尚",
+    "channelCode": "SITV-SITV10"
+}, {
+    "channelName": "全纪实",
+    "channelCode": "SITV-SITV11"
+}, {
+    "channelName": "都市剧场",
+    "channelCode": "SITV-SITV12"
+}, {
+    "channelName": "卫生健康",
+    "channelCode": "SITV-SITV13"
+}, {
+    "channelName": "东方财经·浦东",
+    "channelCode": "SITV-SITV14"
+}, {
+    "channelName": "SITV经典剧场",
+    "channelCode": "SITV-SITV15"
+}, {
+    "channelName": "海外影院",
+    "channelCode": "SITV-SITV16"
+}, {
+    "channelName": "首映剧场",
+    "channelCode": "SITV-SITV18"
+}, {
+    "channelName": "学习考试",
+    "channelCode": "SITV-SITV20"
+}, {
+    "channelName": "动作影院",
+    "channelCode": "SITV-SITV21"
+}, {
+    "channelName": "英语教室",
+    "channelCode": "SITV-SITV22"
+}, {
+    "channelName": "玩具益智",
+    "channelCode": "SITV-SITV26"
+}, {
+    "channelName": "幸福彩",
+    "channelCode": "SITV-SITV29"
+}, {
+    "channelName": "新视觉",
+    "channelCode": "SITV-SITV30"
+}, {
+    "channelName": "劲爆体育HD",
+    "channelCode": "SITV-SITV-SPORTS"
+}, {
+    "channelName": "全纪实HD",
+    "channelCode": "SITV-SITV-DOCUMENTARY"
+}, {
+    "channelName": "欢笑剧场HD",
+    "channelCode": "SITV-SITV-MOVIES"
+}, {
+    "channelName": "魅力音乐HD",
+    "channelCode": "SITV-SITV-YULE"
+}, {
+    "channelName": "情感影院",
+    "channelCode": "SITV-QINGGANYINGYUAN"
+}, {
+    "channelName": "外汇理财",
+    "channelCode": "SITV-IPTVEFEL"
+}, {
+    "channelName": "资讯气象",
+    "channelCode": "SITV-SITV-ZXQX"
+}, {
+    "channelName": "动漫秀场HD",
+    "channelCode": "SITV-SITV-CHILDREN"
+}, {
+    "channelName": "幸福彩HD",
+    "channelCode": "SITV-SITV-TRAVEL"
+}, {
+    "channelName": "生活时尚HD",
+    "channelCode": "SITV-SITV-FASHION"
+}, {
+    "channelName": "都市剧场HD",
+    "channelCode": "SITV-SITV-MOVIE"
+}, {
+    "channelName": "游戏风云HD",
+    "channelCode": "SITV-SITV-GAME"
+}, {
+    "channelName": "DOX英伦",
+    "channelCode": "SITV-DOXYL"
+}, {
+    "channelName": "DOX怡家",
+    "channelCode": "SITV-DOXYJ"
+}, {
+    "channelName": "DOX院线",
+    "channelCode": "SITV-DOX-CINEMA"
+}, {
+    "channelName": "DOX韩流",
+    "channelCode": "SITV-DOX-K-DRAMA"
+}, {
+    "channelName": "DOX热播剧场",
+    "channelCode": "SITV-DOX-C-DRAMA"
+}, {
+    "channelName": "DOX新知",
+    "channelCode": "SITV-DOXXZ"
+}, {
+    "channelName": "DOX新艺",
+    "channelCode": "SITV-DOXXY"
+}, {
+    "channelName": "互动导视",
+    "channelCode": "SITV-HUDONG"
+}, {
+    "channelName": "DOX映画",
+    "channelCode": "SITV-DOXYH"
+}, {
+    "channelName": "DOX剧场",
+    "channelCode": "SITV-DOXJC"
+}, {
+    "channelName": "东方购物二套",
+    "channelCode": "SITV-DONGFANGGW2"
+}, {
+    "channelName": "点播影院",
+    "channelCode": "SITV-DIANBOYINGYUAN"
+}, {
+    "channelName": "东方卫视",
+    "channelCode": "SHHAI-DONGFANG1"
+}, {
+    "channelName": "上海炫动卡通",
+    "channelCode": "SHHAI-TOONMAX1"
+}, {
+    "channelName": "上视新闻频道",
+    "channelCode": "SHHAI-SHHAI1"
+}, {
+    "channelName": "第一财经",
+    "channelCode": "SHHAI-SHHAI2"
+}, {
+    "channelName": "上海星尚频道",
+    "channelCode": "SHHAI-SHHAI3"
+}, {
+    "channelName": "上视电视剧频道",
+    "channelCode": "SHHAI-SHHAI4"
+}, {
+    "channelName": "五星体育频道",
+    "channelCode": "SHHAI-SHHAI5"
+}, {
+    "channelName": "上视纪实频道",
+    "channelCode": "SHHAI-SHHAI6"
+}, {
+    "channelName": "上视娱乐频道",
+    "channelCode": "SHHAI-SHHAI7"
+}, {
+    "channelName": "艺术人文频道",
+    "channelCode": "SHHAI-SHHAI8"
+}, {
+    "channelName": "上视外语频道",
+    "channelCode": "SHHAI-SHHAI9"
+}, {
+    "channelName": "东方购物频道",
+    "channelCode": "SHHAI-SHHAI10"
+}, {
+    "channelName": "哈哈少儿频道",
+    "channelCode": "SHHAI-SHHAI11"
+}]

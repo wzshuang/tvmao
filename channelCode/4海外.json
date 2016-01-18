@@ -1,0 +1,1420 @@
+[{
+    "channelName": "FOX Sports",
+    "channelCode": "ESPN-ESPN-HK"
+}, {
+    "channelName": "FOX Sports",
+    "channelCode": "ESPN-ESPN-TW"
+}, {
+    "channelName": "FOX Sports",
+    "channelCode": "ESPN-ESPN-SG"
+}, {
+    "channelName": "FOX Sports",
+    "channelCode": "ESPN-ESPN-CN"
+}, {
+    "channelName": "FOX体育二台",
+    "channelCode": "ESPN-STAR-SPORTS-CN"
+}, {
+    "channelName": "FOX体育二台",
+    "channelCode": "ESPN-STAR-SPORTS-HK"
+}, {
+    "channelName": "FOX体育二台",
+    "channelCode": "ESPN-STAR-SPORTS-TW"
+}, {
+    "channelName": "FOX体育二台",
+    "channelCode": "ESPN-STAR-SPORTS-SG"
+}, {
+    "channelName": "Fox Sports 3",
+    "channelCode": "ESPN-ESPN-HD"
+}, {
+    "channelName": "Fox Sports 3",
+    "channelCode": "ESPN-ESPN-HD-TW"
+}, {
+    "channelName": "Discovery",
+    "channelCode": "DISCOVERY-DISCOVERY-TW"
+}, {
+    "channelName": "Discovery",
+    "channelCode": "DISCOVERY-DISCOVERY"
+}, {
+    "channelName": "Discovery",
+    "channelCode": "DISCOVERY-DISCOVERY-SG"
+}, {
+    "channelName": "DISCOVERY动力频道",
+    "channelCode": "DISCOVERY-DISCOVERY-TURBO"
+}, {
+    "channelName": "DISCOVERY科学频道",
+    "channelCode": "DISCOVERY-DISCOVERY-SICENCE"
+}, {
+    "channelName": "DISCOVERY科学频道",
+    "channelCode": "DISCOVERY-DISCOVERY-SICENCE-SG"
+}, {
+    "channelName": "TLC旅游生活",
+    "channelCode": "DISCOVERY-DISCOVERY-TLC-HK"
+}, {
+    "channelName": "TLC旅游生活",
+    "channelCode": "DISCOVERY-DISCOVERY-TLC-TW"
+}, {
+    "channelName": "TLC旅游生活",
+    "channelCode": "DISCOVERY-DISCOVERY-TLC-SG"
+}, {
+    "channelName": "动物星球频道",
+    "channelCode": "DISCOVERY-DISCOVERY-ANIMAL-PLANET-HK"
+}, {
+    "channelName": "动物星球频道",
+    "channelCode": "DISCOVERY-DISCOVERY-ANIMAL-PLANET-TW"
+}, {
+    "channelName": "动物星球频道",
+    "channelCode": "DISCOVERY-DISCOVERY-ANIMAL-PLANET-SG"
+}, {
+    "channelName": "EVE",
+    "channelCode": "DISCOVERY-DISCOVERY-HOME-AND-HEALTH"
+}, {
+    "channelName": "EVE",
+    "channelCode": "DISCOVERY-DISCOVERY-HOME-AND-HEALTH-SG"
+}, {
+    "channelName": "DISCOVERY HD",
+    "channelCode": "DISCOVERY-DISCOVERY-HD-HK"
+}, {
+    "channelName": "DISCOVERY HD",
+    "channelCode": "DISCOVERY-DISCOVERY-HD-SG"
+}, {
+    "channelName": "Discovery Kids",
+    "channelCode": "DISCOVERY-DISCOVERY-KIDS-HK"
+}, {
+    "channelName": "Discovery Kids",
+    "channelCode": "DISCOVERY-DISCOVERY-KIDS"
+}, {
+    "channelName": "디스커버리",
+    "channelCode": "DISCOVERY-DISCOVERY-KOREA"
+}, {
+    "channelName": "HBO",
+    "channelCode": "HBO-HBO-HK"
+}, {
+    "channelName": "HBO",
+    "channelCode": "HBO-HBO-TW"
+}, {
+    "channelName": "HBO",
+    "channelCode": "HBO-HBO-SG"
+}, {
+    "channelName": "HBO",
+    "channelCode": "HBO-HBO-CN"
+}, {
+    "channelName": "CINEMAX",
+    "channelCode": "HBO-CINEMAX-HK"
+}, {
+    "channelName": "CINEMAX",
+    "channelCode": "HBO-CINEMAX-TW"
+}, {
+    "channelName": "CINEMAX",
+    "channelCode": "HBO-CINEMAX-SG"
+}, {
+    "channelName": "CINEMAX",
+    "channelCode": "HBO-CINEMAX-CN"
+}, {
+    "channelName": "HBO HD",
+    "channelCode": "HBO-HBO-HD"
+}, {
+    "channelName": "HBO HD",
+    "channelCode": "HBO-HBO-HD-TW"
+}, {
+    "channelName": "HBO温馨家庭",
+    "channelCode": "HBO-HBO-FAMILY"
+}, {
+    "channelName": "HBO温馨家庭",
+    "channelCode": "HBO-HBO-FAMILY-SG"
+}, {
+    "channelName": "HBO温馨家庭",
+    "channelCode": "HBO-HBO-FAMILY-TW"
+}, {
+    "channelName": "HBO强档巨献",
+    "channelCode": "HBO-HBO-HITS"
+}, {
+    "channelName": "HBO强档巨献",
+    "channelCode": "HBO-HBO-HITS-SG"
+}, {
+    "channelName": "HBO强档巨献",
+    "channelCode": "HBO-HBO-HITS-TW"
+}, {
+    "channelName": "HBO原创巨献",
+    "channelCode": "HBO-HBO-SIGNATURE"
+}, {
+    "channelName": "HBO原创巨献",
+    "channelCode": "HBO-HBO-SIGNATURE-SG"
+}, {
+    "channelName": "HBO原创巨献",
+    "channelCode": "HBO-HBO-SIGNATURE-TW"
+}, {
+    "channelName": "HBO Signature plus 1",
+    "channelCode": "HBO-HBO-SIGNATURE-PLUS1"
+}, {
+    "channelName": "CNN",
+    "channelCode": "CNN-CNN1"
+}, {
+    "channelName": "CNN HLN News",
+    "channelCode": "CNN-CNN-HLN"
+}, {
+    "channelName": "BBC World News",
+    "channelCode": "BBC-BBC-WORLD-NEWS-ASIA"
+}, {
+    "channelName": "BBC World News",
+    "channelCode": "BBC-BBC-WORLD-NEWS-ASIA-TW"
+}, {
+    "channelName": "BBC娱乐台",
+    "channelCode": "BBC-BBC-ENTERTAINMENT-ASIA"
+}, {
+    "channelName": "BBC娱乐台",
+    "channelCode": "BBC-BBC-ENTERTAINMENT-ASIA-SG"
+}, {
+    "channelName": "BBC生活台",
+    "channelCode": "BBC-BBC-LIFESTYLE-ASIA"
+}, {
+    "channelName": "BBC生活台",
+    "channelCode": "BBC-BBC-LIFESTYLE-ASIA-SG"
+}, {
+    "channelName": "BBC Earth",
+    "channelCode": "BBC-BBC-KNOWLEDGE-ASIA"
+}, {
+    "channelName": "BBC Earth",
+    "channelCode": "BBC-BBC-KNOWLEDGE-ASIA-SG"
+}, {
+    "channelName": "BBC儿童台",
+    "channelCode": "BBC-BBC-CBEEBIES-ASIA"
+}, {
+    "channelName": "BBC HD",
+    "channelCode": "BBC-BBC-HD"
+}, {
+    "channelName": "CN卡通频道",
+    "channelCode": "CARTON-CARTOON-HK"
+}, {
+    "channelName": "CN卡通频道",
+    "channelCode": "CARTON-CARTOON-TW"
+}, {
+    "channelName": "CN卡通频道",
+    "channelCode": "CARTON-CARTOON-SG"
+}, {
+    "channelName": "Boomerang",
+    "channelCode": "CARTON-BOOMERANG"
+}, {
+    "channelName": "迪斯尼",
+    "channelCode": "DISNEY-DISNEY-TW"
+}, {
+    "channelName": "迪斯尼",
+    "channelCode": "DISNEY-DISNEY-HK"
+}, {
+    "channelName": "迪斯尼",
+    "channelCode": "DISNEY-DISNEY-SG"
+}, {
+    "channelName": "Disney Junior",
+    "channelCode": "DISNEY-DISNEY-JUNIOR-HK"
+}, {
+    "channelName": "Disney Junior",
+    "channelCode": "DISNEY-DISNEY-JUNIOR-SG"
+}, {
+    "channelName": "Disney Junior",
+    "channelCode": "DISNEY-DISNEY-JUNIOR-TW"
+}, {
+    "channelName": "Disney XD",
+    "channelCode": "DISNEY-DISNEY-XD-SG"
+}, {
+    "channelName": "好莱坞电影",
+    "channelCode": "HAOLAIWU-HAOLAIWU1"
+}, {
+    "channelName": "好莱坞电影(en)",
+    "channelCode": "HAOLAIWU-HAOLAIWU2"
+}, {
+    "channelName": "MTV",
+    "channelCode": "MTV-MTV-TW"
+}, {
+    "channelName": "MTV",
+    "channelCode": "MTV-MTV-CN"
+}, {
+    "channelName": "MTV",
+    "channelCode": "MTV-MTV-SG"
+}, {
+    "channelName": "MTV",
+    "channelCode": "MTV-MTV-HK"
+}, {
+    "channelName": "MTV Asia",
+    "channelCode": "MTV-MTV-ASIA"
+}, {
+    "channelName": "MTV live HD",
+    "channelCode": "MTV-MTV-LIVE-HD"
+}, {
+    "channelName": "MTV live HD",
+    "channelCode": "MTV-MTV-LIVE-HD-TW"
+}, {
+    "channelName": "Nick",
+    "channelCode": "MTV-NICKELODEON-SG"
+}, {
+    "channelName": "Nick",
+    "channelCode": "MTV-NICKELODEON"
+}, {
+    "channelName": "CNBC亚太财经",
+    "channelCode": "CNBC-CNBC-ASIA"
+}, {
+    "channelName": "FASHION ONE",
+    "channelCode": "FASHIONONE-FASHION-ONE"
+}, {
+    "channelName": "FASHION ONE",
+    "channelCode": "FASHIONONE-FASHION-ONE-HK"
+}, {
+    "channelName": "国家地理频道",
+    "channelCode": "NGS-NGC-TW"
+}, {
+    "channelName": "国家地理频道",
+    "channelCode": "NGS-NGC-HK"
+}, {
+    "channelName": "国家地理频道",
+    "channelCode": "NGS-NGC-SG"
+}, {
+    "channelName": "国家地理频道",
+    "channelCode": "NGS-NGC-CN"
+}, {
+    "channelName": "国家地理野生频道",
+    "channelCode": "NGS-NGW"
+}, {
+    "channelName": "国家地理野生频道",
+    "channelCode": "NGS-NGW-SG"
+}, {
+    "channelName": "国家地理野生频道",
+    "channelCode": "NGS-NGW-MO"
+}, {
+    "channelName": "国家地理悠人频道",
+    "channelCode": "NGS-NGA"
+}, {
+    "channelName": "国家地理悠人频道",
+    "channelCode": "NGS-NGA-SG"
+}, {
+    "channelName": "NGC HD",
+    "channelCode": "NGS-NGC-HD"
+}, {
+    "channelName": "NGC HD",
+    "channelCode": "NGS-NGC-HD-SG"
+}, {
+    "channelName": "国家地理音乐频道",
+    "channelCode": "NGS-NAT-GEO-MUSIC"
+}, {
+    "channelName": "Fashion TV",
+    "channelCode": "FTV-FASHION-TV"
+}, {
+    "channelName": "Fashion TV",
+    "channelCode": "FTV-FASHION-TV-SG"
+}, {
+    "channelName": "Fashion TV",
+    "channelCode": "FTV-FASHION-TV-TW"
+}, {
+    "channelName": "晨星电视台",
+    "channelCode": "DAYSTARTV-DAYSTARTV"
+}, {
+    "channelName": "彭博财经台",
+    "channelCode": "BLOOMBERG-BLOOMBERG-TV"
+}, {
+    "channelName": "彭博财经台",
+    "channelCode": "BLOOMBERG-BLOOMBERG-TV-TW"
+}, {
+    "channelName": "FOX台湾频道",
+    "channelCode": "FOXCHANNEL-FOX-FEC"
+}, {
+    "channelName": "FOX台湾频道",
+    "channelCode": "FOXCHANNEL-FOX-FEC-TW"
+}, {
+    "channelName": "Asianet",
+    "channelCode": "FOXCHANNEL-ASIANET"
+}, {
+    "channelName": "Baby TV",
+    "channelCode": "FOXCHANNEL-BABY-TV"
+}, {
+    "channelName": "Baby TV",
+    "channelCode": "FOXCHANNEL-BABY-TV-TW"
+}, {
+    "channelName": "Fox Family Movies",
+    "channelCode": "FOXCHANNEL-FOX-FAMILY-MOVIES"
+}, {
+    "channelName": "Fox Family Movies",
+    "channelCode": "FOXCHANNEL-FOX-FAMILY-MOVIES-SG"
+}, {
+    "channelName": "FX HD",
+    "channelCode": "FOXCHANNEL-FX"
+}, {
+    "channelName": "FX HD",
+    "channelCode": "FOXCHANNEL-FX-SG"
+}, {
+    "channelName": "FOXCRIME",
+    "channelCode": "FOXCHANNEL-FOX-CRIME"
+}, {
+    "channelName": "FOXCRIME",
+    "channelCode": "FOXCHANNEL-FOX-CRIME-SG"
+}, {
+    "channelName": "FOX HD",
+    "channelCode": "FOXCHANNEL-FOX"
+}, {
+    "channelName": "FOX HD",
+    "channelCode": "FOXCHANNEL-FOX-SG"
+}, {
+    "channelName": "FOX HD",
+    "channelCode": "FOXCHANNEL-FOX-TW"
+}, {
+    "channelName": "Fox News Channel",
+    "channelCode": "FOXCHANNEL-FOX-NEWS"
+}, {
+    "channelName": "FOX Movies Premium",
+    "channelCode": "FOXCHANNEL-FOX-MOVIES-PREMIUM"
+}, {
+    "channelName": "FOX Movies Premium",
+    "channelCode": "FOXCHANNEL-FOX-MOVIES-PREMIUM-SG"
+}, {
+    "channelName": "TCM",
+    "channelCode": "TCMTV-TCM"
+}, {
+    "channelName": "ASN2",
+    "channelCode": "ANS-ASN2"
+}, {
+    "channelName": "ASN",
+    "channelCode": "ANS-ASN-SG"
+}, {
+    "channelName": "ASN",
+    "channelCode": "ANS-ASN"
+}, {
+    "channelName": "罪案偵緝頻道",
+    "channelCode": "AETN-CITV"
+}, {
+    "channelName": "罪案偵緝頻道",
+    "channelCode": "AETN-CITV-SG"
+}, {
+    "channelName": "H2",
+    "channelCode": "AETN-H2-CHANNEL-SG"
+}, {
+    "channelName": "History Channel",
+    "channelCode": "AETN-HISTORY"
+}, {
+    "channelName": "History Channel",
+    "channelCode": "AETN-HISTORY-SG"
+}, {
+    "channelName": "Fyi",
+    "channelCode": "AETN-BIO"
+}, {
+    "channelName": "Fyi",
+    "channelCode": "AETN-BIO-SG"
+}, {
+    "channelName": "半岛电视台英语频道",
+    "channelCode": "ALJAZEERA-ALJAZEERA-ENGLISH"
+}, {
+    "channelName": "半岛电视台英语频道",
+    "channelCode": "ALJAZEERA-ALJAZEERA-ENGLISH-SG"
+}, {
+    "channelName": "Al Jazeera Documentary",
+    "channelCode": "ALJAZEERA-AL-JAZEERA-DOCUMENTARY"
+}, {
+    "channelName": "DW-TV Asia",
+    "channelCode": "DW-DW-TV-ASIA"
+}, {
+    "channelName": "DW-TV Asia+",
+    "channelCode": "DW-DW-TV-ASIA-PLUS"
+}, {
+    "channelName": "法国TV5Monde",
+    "channelCode": "TV5-TV5MONDE-ASIE"
+}, {
+    "channelName": "Australia Plus",
+    "channelCode": "AUSTRALIANETWORK-AUSTRALIANETWORK"
+}, {
+    "channelName": "Australia Plus",
+    "channelCode": "AUSTRALIANETWORK-AUSTRALIANETWORK-SG"
+}, {
+    "channelName": "法国24台",
+    "channelCode": "FRANCE24-FRANCE24"
+}, {
+    "channelName": "法国24台(法语频道)",
+    "channelCode": "FRANCE24-FRANCE24-FRENCH"
+}, {
+    "channelName": "TVE Int.",
+    "channelCode": "TVE-TVE-INT"
+}, {
+    "channelName": "RTPi",
+    "channelCode": "RPT-RTP-I"
+}, {
+    "channelName": "E!频道",
+    "channelCode": "UNI-E-ENTERTAINMENT"
+}, {
+    "channelName": "E!频道",
+    "channelCode": "UNI-E-ENTERTAINMENT-TW"
+}, {
+    "channelName": "DIVA Universal",
+    "channelCode": "UNI-DIVA-UNIVERSAL"
+}, {
+    "channelName": "DIVA Universal",
+    "channelCode": "UNI-DIVA-UNIVERSAL-SG"
+}, {
+    "channelName": "Syfy频道",
+    "channelCode": "UNI-SYFY-UNIVERSAL"
+}, {
+    "channelName": "KIDSCO",
+    "channelCode": "UNI-KIDSCO"
+}, {
+    "channelName": "Universal",
+    "channelCode": "UNI-UNIVERSAL-CHANNEL"
+}, {
+    "channelName": "Universal",
+    "channelCode": "UNI-UNIVERSAL-CHANNEL-SG"
+}, {
+    "channelName": "Baby First TV",
+    "channelCode": "BABYFIRST-BABY-FIRST-TV"
+}, {
+    "channelName": "Baby First TV",
+    "channelCode": "BABYFIRST-BABY-FIRST-TV-SG"
+}, {
+    "channelName": "Sky News",
+    "channelCode": "BSKYB-SKY-NEWS"
+}, {
+    "channelName": "Sky News",
+    "channelCode": "BSKYB-SKY-NEWS-SG"
+}, {
+    "channelName": "Euronews",
+    "channelCode": "SOCEMIE-EURONEWS"
+}, {
+    "channelName": "Sundance Movies HD",
+    "channelCode": "SUNDANCE-SUNDANCE"
+}, {
+    "channelName": "Sundance Movies HD",
+    "channelCode": "SUNDANCE-SUNDANCE-SG"
+}, {
+    "channelName": "格拉纳达频道",
+    "channelCode": "ITV-GRANADA-TW"
+}, {
+    "channelName": "华纳电视台",
+    "channelCode": "WBTV-WARNER"
+}, {
+    "channelName": "曼联电视频道",
+    "channelCode": "MUTV-MUTV"
+}, {
+    "channelName": "Eurosport",
+    "channelCode": "EUROSPORT-EUROSPORT"
+}, {
+    "channelName": "Eurosport",
+    "channelCode": "EUROSPORT-EUROSPORT-TW"
+}, {
+    "channelName": "Eurosportnews",
+    "channelCode": "EUROSPORT-EUROSPORTNEWS"
+}, {
+    "channelName": "NBA电视台",
+    "channelCode": "NBA-NBA-TV"
+}, {
+    "channelName": "NBA电视台",
+    "channelCode": "NBA-NBA-TV-SG"
+}, {
+    "channelName": "Setanta Sports",
+    "channelCode": "SETANTASPORTS-SETANTA-SPORTS"
+}, {
+    "channelName": "RAI 1",
+    "channelCode": "RAI_ITALY-RAI1"
+}, {
+    "channelName": "RAI News",
+    "channelCode": "RAI_ITALY-RAI-NEWS"
+}, {
+    "channelName": "Rai Sport 1",
+    "channelCode": "RAI_ITALY-RAI-SPORT1"
+}, {
+    "channelName": "Rai Sport 2",
+    "channelCode": "RAI_ITALY-RAI-SPORT2"
+}, {
+    "channelName": "RAI 3",
+    "channelCode": "RAI_ITALY-RAI3"
+}, {
+    "channelName": "RAI Storia",
+    "channelCode": "RAI_ITALY-RAI-STORIA"
+}, {
+    "channelName": "Rai Gulp",
+    "channelCode": "RAI_ITALY-RAI-GULP"
+}, {
+    "channelName": "CCTV-4国际",
+    "channelCode": "STARHUB-CCTV4"
+}, {
+    "channelName": "CCTV NEWS",
+    "channelCode": "STARHUB-CCTV19-HK"
+}, {
+    "channelName": "FOX Sports",
+    "channelCode": "STARHUB-ESPN-SG"
+}, {
+    "channelName": "FOX体育二台",
+    "channelCode": "STARHUB-STAR-SPORTS-SG"
+}, {
+    "channelName": "Discovery",
+    "channelCode": "STARHUB-DISCOVERY-SG"
+}, {
+    "channelName": "DISCOVERY科学频道",
+    "channelCode": "STARHUB-DISCOVERY-SICENCE-SG"
+}, {
+    "channelName": "TLC旅游生活",
+    "channelCode": "STARHUB-DISCOVERY-TLC-SG"
+}, {
+    "channelName": "动物星球频道",
+    "channelCode": "STARHUB-DISCOVERY-ANIMAL-PLANET-SG"
+}, {
+    "channelName": "HBO",
+    "channelCode": "STARHUB-HBO-SG"
+}, {
+    "channelName": "CINEMAX",
+    "channelCode": "STARHUB-CINEMAX-SG"
+}, {
+    "channelName": "AXN",
+    "channelCode": "STARHUB-AXN-SG"
+}, {
+    "channelName": "CNN",
+    "channelCode": "STARHUB-CNN1"
+}, {
+    "channelName": "BBC World News",
+    "channelCode": "STARHUB-BBC-WORLD-NEWS-ASIA"
+}, {
+    "channelName": "MTV",
+    "channelCode": "STARHUB-MTV-SG"
+}, {
+    "channelName": "CN卡通频道",
+    "channelCode": "STARHUB-CARTOON-SG"
+}, {
+    "channelName": "迪斯尼",
+    "channelCode": "STARHUB-DISNEY-SG"
+}, {
+    "channelName": "TVB经典台",
+    "channelCode": "STARHUB-TVB4-SG"
+}, {
+    "channelName": "TVB8",
+    "channelCode": "STARHUB-TVB8"
+}, {
+    "channelName": "TVB星河频道",
+    "channelCode": "STARHUB-TVB9"
+}, {
+    "channelName": "无线卫星亚洲台",
+    "channelCode": "STARHUB-TVB16"
+}, {
+    "channelName": "神州新闻台",
+    "channelCode": "STARHUB-TVB17"
+}, {
+    "channelName": "星空卫视",
+    "channelCode": "STARHUB-XINGKONG1-SG"
+}, {
+    "channelName": "卫视音乐",
+    "channelCode": "STARHUB-CHANNEL-V-CN"
+}, {
+    "channelName": "国家地理频道",
+    "channelCode": "STARHUB-NGC-SG"
+}, {
+    "channelName": "国家地理野生频道",
+    "channelCode": "STARHUB-NGW-SG"
+}, {
+    "channelName": "国家地理悠人频道",
+    "channelCode": "STARHUB-NGA-SG"
+}, {
+    "channelName": "凤凰卫视",
+    "channelCode": "STARHUB-PHOENIX1"
+}, {
+    "channelName": "凤凰卫视资讯台",
+    "channelCode": "STARHUB-PHOENIX-INFONEWS"
+}, {
+    "channelName": "天映电影",
+    "channelCode": "STARHUB-CELETV1-SG"
+}, {
+    "channelName": "第一财经",
+    "channelCode": "STARHUB-SHHAI2"
+}, {
+    "channelName": "TVBS新闻台",
+    "channelCode": "STARHUB-TVBS-NEWS"
+}, {
+    "channelName": "MTV Asia",
+    "channelCode": "STARHUB-MTV-ASIA"
+}, {
+    "channelName": "BBC娱乐台",
+    "channelCode": "STARHUB-BBC-ENTERTAINMENT-ASIA-SG"
+}, {
+    "channelName": "BBC生活台",
+    "channelCode": "STARHUB-BBC-LIFESTYLE-ASIA-SG"
+}, {
+    "channelName": "BBC Earth",
+    "channelCode": "STARHUB-BBC-KNOWLEDGE-ASIA-SG"
+}, {
+    "channelName": "CNBC亚太财经",
+    "channelCode": "STARHUB-CNBC-ASIA"
+}, {
+    "channelName": "FASHION ONE",
+    "channelCode": "STARHUB-FASHION-ONE"
+}, {
+    "channelName": "卫视中文台",
+    "channelCode": "STARHUB-STAR-CHINESE-CHANNEL-SG"
+}, {
+    "channelName": "卫视合家欢",
+    "channelCode": "STARHUB-STAR-WORLD-SG"
+}, {
+    "channelName": "卫视电影台",
+    "channelCode": "STARHUB-STAR-CHINESE-MOVIES-SG"
+}, {
+    "channelName": "NHK",
+    "channelCode": "STARHUB-NHK-WORLD-PREMIUM"
+}, {
+    "channelName": "ANIMAX",
+    "channelCode": "STARHUB-ANIMAX-SG"
+}, {
+    "channelName": "EVE",
+    "channelCode": "STARHUB-DISCOVERY-HOME-AND-HEALTH-SG"
+}, {
+    "channelName": "DISCOVERY HD",
+    "channelCode": "STARHUB-DISCOVERY-HD-SG"
+}, {
+    "channelName": "中天亚洲台",
+    "channelCode": "STARHUB-CTITV-ASIA"
+}, {
+    "channelName": "阿里郎电视台",
+    "channelCode": "STARHUB-ARIRANG-SG"
+}, {
+    "channelName": "Fashion TV",
+    "channelCode": "STARHUB-FASHION-TV-SG"
+}, {
+    "channelName": "KBS",
+    "channelCode": "STARHUB-KBS-WORLD"
+}, {
+    "channelName": "Boomerang",
+    "channelCode": "STARHUB-BOOMERANG"
+}, {
+    "channelName": "BBC儿童台",
+    "channelCode": "STARHUB-BBC-CBEEBIES-ASIA"
+}, {
+    "channelName": "HBO温馨家庭",
+    "channelCode": "STARHUB-HBO-FAMILY-SG"
+}, {
+    "channelName": "HBO强档巨献",
+    "channelCode": "STARHUB-HBO-HITS-SG"
+}, {
+    "channelName": "HBO原创巨献",
+    "channelCode": "STARHUB-HBO-SIGNATURE-SG"
+}, {
+    "channelName": "FOX HD",
+    "channelCode": "STARHUB-FOX-SG"
+}, {
+    "channelName": "Fox News Channel",
+    "channelCode": "STARHUB-FOX-NEWS"
+}, {
+    "channelName": "Disney Junior",
+    "channelCode": "STARHUB-DISNEY-JUNIOR-SG"
+}, {
+    "channelName": "FOX Movies Premium",
+    "channelCode": "STARHUB-FOX-MOVIES-PREMIUM-SG"
+}, {
+    "channelName": "卫视卡式台",
+    "channelCode": "STARHUB-STAR-CHINESE-MOVIES-LEGEND"
+}, {
+    "channelName": "Nick",
+    "channelCode": "STARHUB-NICKELODEON-SG"
+}, {
+    "channelName": "TCM",
+    "channelCode": "STARHUB-TCM"
+}, {
+    "channelName": "Zee TV",
+    "channelCode": "STARHUB-ZEETV"
+}, {
+    "channelName": "Zee News",
+    "channelCode": "STARHUB-ZEE-NEWS-SG"
+}, {
+    "channelName": "Zee Cinema",
+    "channelCode": "STARHUB-ZEE-CINEMA"
+}, {
+    "channelName": "彭博财经台",
+    "channelCode": "STARHUB-BLOOMBERG-TV"
+}, {
+    "channelName": "今日俄罗斯",
+    "channelCode": "STARHUB-RUSSIA-TODAY"
+}, {
+    "channelName": "History Channel",
+    "channelCode": "STARHUB-HISTORY-SG"
+}, {
+    "channelName": "Fyi",
+    "channelCode": "STARHUB-BIO-SG"
+}, {
+    "channelName": "CNN HLN News",
+    "channelCode": "STARHUB-CNN-HLN"
+}, {
+    "channelName": "CHANNEL [V]国际频道",
+    "channelCode": "STARHUB-CHANNEL-V-INTERNATIONAL"
+}, {
+    "channelName": "法国TV5Monde",
+    "channelCode": "STARHUB-TV5MONDE-ASIE"
+}, {
+    "channelName": "Australia Plus",
+    "channelCode": "STARHUB-AUSTRALIANETWORK-SG"
+}, {
+    "channelName": "ASN",
+    "channelCode": "STARHUB-ASN-SG"
+}, {
+    "channelName": "NHK World TV",
+    "channelCode": "STARHUB-NHK-WORLD-TV"
+}, {
+    "channelName": "DW-TV Asia",
+    "channelCode": "STARHUB-DW-TV-ASIA"
+}, {
+    "channelName": "TEN Cricket",
+    "channelCode": "STARHUB-TEN-CRICKET-SG"
+}, {
+    "channelName": "now海润台",
+    "channelCode": "STARHUB-NOW-HAIRUN"
+}, {
+    "channelName": "DIVA Universal",
+    "channelCode": "STARHUB-DIVA-UNIVERSAL-SG"
+}, {
+    "channelName": "天映经典频道",
+    "channelCode": "STARHUB-CMC-CLASSIC"
+}, {
+    "channelName": "Thrill",
+    "channelCode": "STARHUB-THRILL-SG"
+}, {
+    "channelName": "Baby TV",
+    "channelCode": "STARHUB-BABY-TV"
+}, {
+    "channelName": "Baby First TV",
+    "channelCode": "STARHUB-BABY-FIRST-TV-SG"
+}, {
+    "channelName": "NGC HD",
+    "channelCode": "STARHUB-NGC-HD-SG"
+}, {
+    "channelName": "Sky News",
+    "channelCode": "STARHUB-SKY-NEWS-SG"
+}, {
+    "channelName": "亚洲旅游台",
+    "channelCode": "STARHUB-HITRAVEL1-SG"
+}, {
+    "channelName": "Fox Family Movies",
+    "channelCode": "STARHUB-FOX-FAMILY-MOVIES-SG"
+}, {
+    "channelName": "FX HD",
+    "channelCode": "STARHUB-FX-SG"
+}, {
+    "channelName": "FOXCRIME",
+    "channelCode": "STARHUB-FOX-CRIME-SG"
+}, {
+    "channelName": "Universal",
+    "channelCode": "STARHUB-UNIVERSAL-CHANNEL-SG"
+}, {
+    "channelName": "国家地理音乐频道",
+    "channelCode": "STARHUB-NAT-GEO-MUSIC"
+}, {
+    "channelName": "索尼娱乐台",
+    "channelCode": "STARHUB-SET-SG"
+}, {
+    "channelName": "KIX",
+    "channelCode": "STARHUB-KIX-SG"
+}, {
+    "channelName": "Star Gold",
+    "channelCode": "STARHUB-STAR-GOLD"
+}, {
+    "channelName": "罪案偵緝頻道",
+    "channelCode": "STARHUB-CITV-SG"
+}, {
+    "channelName": "亚洲美食台",
+    "channelCode": "STARHUB-ASIA-FOOD-CHANNEL"
+}, {
+    "channelName": "E!频道",
+    "channelCode": "STARHUB-E-ENTERTAINMENT"
+}, {
+    "channelName": "KMTV",
+    "channelCode": "STARHUB-KMTV"
+}, {
+    "channelName": "Fox Sports 3",
+    "channelCode": "STARHUB-ESPN-HD"
+}, {
+    "channelName": "STAR Cricket",
+    "channelCode": "STARHUB-STAR-CRICKET"
+}, {
+    "channelName": "Eurosport",
+    "channelCode": "STARHUB-EUROSPORT"
+}, {
+    "channelName": "Eurosportnews",
+    "channelCode": "STARHUB-EUROSPORTNEWS"
+}, {
+    "channelName": "NBA电视台",
+    "channelCode": "STARHUB-NBA-TV-SG"
+}, {
+    "channelName": "Setanta Sports",
+    "channelCode": "STARHUB-SETANTA-SPORTS"
+}, {
+    "channelName": "Colors",
+    "channelCode": "STARHUB-COLORS-TV-HK"
+}, {
+    "channelName": "Star Plus",
+    "channelCode": "STARHUB-STAR-PLUS"
+}, {
+    "channelName": "Life OK",
+    "channelCode": "STARHUB-LIFE-OK"
+}, {
+    "channelName": "Vijay",
+    "channelCode": "STARHUB-STAR-VIJAY"
+}, {
+    "channelName": "Nick JR",
+    "channelCode": "STARHUB-NICK-JR"
+}, {
+    "channelName": "E City",
+    "channelCode": "STARHUB-E-CITY"
+}, {
+    "channelName": "SuperSports Arena",
+    "channelCode": "STARHUB-SS-ARENA"
+}, {
+    "channelName": "MNC International",
+    "channelCode": "STARHUB-MNC-INTERNATIONAL"
+}, {
+    "channelName": "Sensasi",
+    "channelCode": "STARHUB-SENSASI"
+}, {
+    "channelName": "Sun TV",
+    "channelCode": "STARHUB-SUNTV"
+}, {
+    "channelName": "Vannathirai",
+    "channelCode": "STARHUB-VANNATHIRAL"
+}, {
+    "channelName": "Asianet",
+    "channelCode": "STARHUB-ASIANET"
+}, {
+    "channelName": "TFC",
+    "channelCode": "STARHUB-THE-FILIPINO-CHANNEL"
+}, {
+    "channelName": "TruTV",
+    "channelCode": "STARHUB-TRUTV"
+}, {
+    "channelName": "Warner TV",
+    "channelCode": "STARHUB-WARNER-TV"
+}, {
+    "channelName": "Horse Racing Ch88",
+    "channelCode": "STARHUB-HORSE-RACING-CH88"
+}, {
+    "channelName": "Horse Racing Ch89",
+    "channelCode": "STARHUB-HORSE-RACING-CH89"
+}, {
+    "channelName": "Travle Channel HD",
+    "channelCode": "STARHUB-TRAVEL-CHANNEL"
+}, {
+    "channelName": "ONE",
+    "channelCode": "STARHUB-ONE"
+}, {
+    "channelName": "TVBJ",
+    "channelCode": "STARHUB-TVBJ"
+}, {
+    "channelName": "VV Drama",
+    "channelCode": "STARHUB-VV-DRAMA"
+}, {
+    "channelName": "Food Network Asia",
+    "channelCode": "STARHUB-FOOD-NETWORK-ASIA"
+}, {
+    "channelName": "MTV live HD",
+    "channelCode": "STARHUB-MTV-LIVE-HD"
+}, {
+    "channelName": "SAB TV",
+    "channelCode": "STARHUB-SAB-TV"
+}, {
+    "channelName": "Astro Warna",
+    "channelCode": "STARHUB-ASTRO-WARNA"
+}, {
+    "channelName": "Sun Music",
+    "channelCode": "STARHUB-SUN-MUSIC"
+}, {
+    "channelName": "Fox Sports News",
+    "channelCode": "STARHUB-ESPN-NEWS"
+}, {
+    "channelName": "Sony MAX",
+    "channelCode": "STARHUB-SONY-MAX"
+}, {
+    "channelName": "Channel M高清频道",
+    "channelCode": "STARHUB-MNET-SG"
+}, {
+    "channelName": "Disney XD",
+    "channelCode": "STARHUB-DISNEY-XD-SG"
+}, {
+    "channelName": "FOX台湾频道",
+    "channelCode": "STARHUB-FOX-FEC"
+}, {
+    "channelName": "iConcerts",
+    "channelCode": "STARHUB-ICONCERTS"
+}, {
+    "channelName": "STAR Cricket Extra",
+    "channelCode": "STARHUB-STAR-CRICKET-PLUS"
+}, {
+    "channelName": "FOX Action Movies",
+    "channelCode": "STARHUB-FOX-ACTION-MOVIES"
+}, {
+    "channelName": "Discovery Kids",
+    "channelCode": "STARHUB-DISCOVERY-KIDS"
+}, {
+    "channelName": "cinemaworld",
+    "channelCode": "STARHUB-CINEMAWORLD"
+}, {
+    "channelName": "ANC",
+    "channelCode": "STARHUB-ANC"
+}, {
+    "channelName": "Cinema One",
+    "channelCode": "STARHUB-CINEMA-ONE-GLOBAL"
+}, {
+    "channelName": "Comedy Central Asia",
+    "channelCode": "STARHUB-COMEDY-CENTRAL-ASIA"
+}, {
+    "channelName": "TOONAMI",
+    "channelCode": "STARHUB-TOONAMI-SG"
+}, {
+    "channelName": "Now爆谷台",
+    "channelCode": "STARHUB-BAOGU-SG"
+}, {
+    "channelName": "Channel [V] India",
+    "channelCode": "STARHUB-CHANNEL-V-INDIA"
+}, {
+    "channelName": "东方卫视海外版",
+    "channelCode": "STARHUB-DRAGONTV"
+}, {
+    "channelName": "MNC Infotainment",
+    "channelCode": "STARHUB-MNC-INFOTAINMENT-SG"
+}, {
+    "channelName": "Lifetime",
+    "channelCode": "STARHUB-LIFETIME-TV-SG"
+}, {
+    "channelName": "H2",
+    "channelCode": "STARHUB-H2-CHANNEL-SG"
+}, {
+    "channelName": "RTL CBS Entertainment",
+    "channelCode": "STARHUB-RTL-CBS-ENTERTAINMENT"
+}, {
+    "channelName": "NDTV GOOD TIMES",
+    "channelCode": "STARHUB-NDTV-GOOD-TIMES"
+}, {
+    "channelName": "ANIPLUS HD",
+    "channelCode": "STARHUB-ANIPLUS-SG"
+}, {
+    "channelName": "DMAX",
+    "channelCode": "STARHUB-DMAX-SG"
+}, {
+    "channelName": "RTL CBS EXTREME",
+    "channelCode": "STARHUB-RTL-CBS-EXTREME"
+}, {
+    "channelName": "索尼台",
+    "channelCode": "STARHUB-SNCATV-SG"
+}, {
+    "channelName": "HITS",
+    "channelCode": "STARHUB-HITSATV-SG"
+}, {
+    "channelName": "HGTV",
+    "channelCode": "STARHUB-HGSAHTV"
+}, {
+    "channelName": "CCTV-4国际",
+    "channelCode": "SINGTEL-CCTV4"
+}, {
+    "channelName": "CCTV-纪录(英)",
+    "channelCode": "SINGTEL-CCTV18-SG"
+}, {
+    "channelName": "CCTV NEWS",
+    "channelCode": "SINGTEL-CCTV19-HK"
+}, {
+    "channelName": "FOX Sports",
+    "channelCode": "SINGTEL-ESPN-SG"
+}, {
+    "channelName": "FOX体育二台",
+    "channelCode": "SINGTEL-STAR-SPORTS-SG"
+}, {
+    "channelName": "Discovery",
+    "channelCode": "SINGTEL-DISCOVERY-SG"
+}, {
+    "channelName": "DISCOVERY科学频道",
+    "channelCode": "SINGTEL-DISCOVERY-SICENCE-SG"
+}, {
+    "channelName": "TLC旅游生活",
+    "channelCode": "SINGTEL-DISCOVERY-TLC-SG"
+}, {
+    "channelName": "动物星球频道",
+    "channelCode": "SINGTEL-DISCOVERY-ANIMAL-PLANET-SG"
+}, {
+    "channelName": "CNN",
+    "channelCode": "SINGTEL-CNN1"
+}, {
+    "channelName": "MTV",
+    "channelCode": "SINGTEL-MTV-IN"
+}, {
+    "channelName": "CN卡通频道",
+    "channelCode": "SINGTEL-CARTOON-SG"
+}, {
+    "channelName": "迪斯尼",
+    "channelCode": "SINGTEL-DISNEY-SG"
+}, {
+    "channelName": "星空卫视",
+    "channelCode": "SINGTEL-XINGKONG1-SG"
+}, {
+    "channelName": "卫视音乐",
+    "channelCode": "SINGTEL-CHANNEL-V-CN"
+}, {
+    "channelName": "国家地理频道",
+    "channelCode": "SINGTEL-NGC-SG"
+}, {
+    "channelName": "国家地理野生频道",
+    "channelCode": "SINGTEL-NGW-SG"
+}, {
+    "channelName": "国家地理悠人频道",
+    "channelCode": "SINGTEL-NGA-SG"
+}, {
+    "channelName": "凤凰卫视",
+    "channelCode": "SINGTEL-PHOENIX1"
+}, {
+    "channelName": "凤凰卫视资讯台",
+    "channelCode": "SINGTEL-PHOENIX-INFONEWS"
+}, {
+    "channelName": "天映电影",
+    "channelCode": "SINGTEL-CELETV1-SG"
+}, {
+    "channelName": "江苏卫视",
+    "channelCode": "SINGTEL-JSTV1"
+}, {
+    "channelName": "MTV Asia",
+    "channelCode": "SINGTEL-MTV-ASIA"
+}, {
+    "channelName": "CNBC亚太财经",
+    "channelCode": "SINGTEL-CNBC-ASIA"
+}, {
+    "channelName": "卫视中文台",
+    "channelCode": "SINGTEL-STAR-CHINESE-CHANNEL-SG"
+}, {
+    "channelName": "卫视合家欢",
+    "channelCode": "SINGTEL-STAR-WORLD-SG"
+}, {
+    "channelName": "卫视电影台",
+    "channelCode": "SINGTEL-STAR-CHINESE-MOVIES-SG"
+}, {
+    "channelName": "NHK",
+    "channelCode": "SINGTEL-NHK-WORLD-PREMIUM"
+}, {
+    "channelName": "EVE",
+    "channelCode": "SINGTEL-DISCOVERY-HOME-AND-HEALTH-SG"
+}, {
+    "channelName": "DISCOVERY HD",
+    "channelCode": "SINGTEL-DISCOVERY-HD-SG"
+}, {
+    "channelName": "中天亚洲台",
+    "channelCode": "SINGTEL-CTITV-ASIA"
+}, {
+    "channelName": "Fashion TV",
+    "channelCode": "SINGTEL-FASHION-TV-SG"
+}, {
+    "channelName": "KBS",
+    "channelCode": "SINGTEL-KBS-WORLD"
+}, {
+    "channelName": "Boomerang",
+    "channelCode": "SINGTEL-BOOMERANG"
+}, {
+    "channelName": "东森亚洲卫视",
+    "channelCode": "SINGTEL-ETTV-ASIA"
+}, {
+    "channelName": "FOX HD",
+    "channelCode": "SINGTEL-FOX-SG"
+}, {
+    "channelName": "Fox News Channel",
+    "channelCode": "SINGTEL-FOX-NEWS"
+}, {
+    "channelName": "Disney Junior",
+    "channelCode": "SINGTEL-DISNEY-JUNIOR-SG"
+}, {
+    "channelName": "FOX Movies Premium",
+    "channelCode": "SINGTEL-FOX-MOVIES-PREMIUM-SG"
+}, {
+    "channelName": "卫视卡式台",
+    "channelCode": "SINGTEL-STAR-CHINESE-MOVIES-LEGEND"
+}, {
+    "channelName": "Nick",
+    "channelCode": "SINGTEL-NICKELODEON-SG"
+}, {
+    "channelName": "TCM",
+    "channelCode": "SINGTEL-TCM"
+}, {
+    "channelName": "Zee TV",
+    "channelCode": "SINGTEL-ZEETV"
+}, {
+    "channelName": "彭博财经台",
+    "channelCode": "SINGTEL-BLOOMBERG-TV"
+}, {
+    "channelName": "今日俄罗斯",
+    "channelCode": "SINGTEL-RUSSIA-TODAY"
+}, {
+    "channelName": "CNN HLN News",
+    "channelCode": "SINGTEL-CNN-HLN"
+}, {
+    "channelName": "CHANNEL [V]国际频道",
+    "channelCode": "SINGTEL-CHANNEL-V-INTERNATIONAL"
+}, {
+    "channelName": "Australia Plus",
+    "channelCode": "SINGTEL-AUSTRALIANETWORK-SG"
+}, {
+    "channelName": "法国24台",
+    "channelCode": "SINGTEL-FRANCE24"
+}, {
+    "channelName": "ASN",
+    "channelCode": "SINGTEL-ASN-SG"
+}, {
+    "channelName": "东森亚洲新闻台",
+    "channelCode": "SINGTEL-ETTV-ASIA-NEWS"
+}, {
+    "channelName": "亚洲新闻台",
+    "channelCode": "SINGTEL-CNA-SG"
+}, {
+    "channelName": "NHK World TV",
+    "channelCode": "SINGTEL-NHK-WORLD-TV"
+}, {
+    "channelName": "DW-TV Asia",
+    "channelCode": "SINGTEL-DW-TV-ASIA"
+}, {
+    "channelName": "TEN Cricket",
+    "channelCode": "SINGTEL-TEN-CRICKET-SG"
+}, {
+    "channelName": "DIVA Universal",
+    "channelCode": "SINGTEL-DIVA-UNIVERSAL-SG"
+}, {
+    "channelName": "天映经典频道",
+    "channelCode": "SINGTEL-CMC-CLASSIC"
+}, {
+    "channelName": "Thrill",
+    "channelCode": "SINGTEL-THRILL-SG"
+}, {
+    "channelName": "Baby TV",
+    "channelCode": "SINGTEL-BABY-TV"
+}, {
+    "channelName": "NGC HD",
+    "channelCode": "SINGTEL-NGC-HD-SG"
+}, {
+    "channelName": "Sky News",
+    "channelCode": "SINGTEL-SKY-NEWS-SG"
+}, {
+    "channelName": "Fox Family Movies",
+    "channelCode": "SINGTEL-FOX-FAMILY-MOVIES-SG"
+}, {
+    "channelName": "Sundance Movies HD",
+    "channelCode": "SINGTEL-SUNDANCE-SG"
+}, {
+    "channelName": "FX HD",
+    "channelCode": "SINGTEL-FX-SG"
+}, {
+    "channelName": "FOXCRIME",
+    "channelCode": "SINGTEL-FOX-CRIME-SG"
+}, {
+    "channelName": "国家地理音乐频道",
+    "channelCode": "SINGTEL-NAT-GEO-MUSIC"
+}, {
+    "channelName": "索尼娱乐台",
+    "channelCode": "SINGTEL-SET-SG"
+}, {
+    "channelName": "Star Gold",
+    "channelCode": "SINGTEL-STAR-GOLD"
+}, {
+    "channelName": "E!频道",
+    "channelCode": "SINGTEL-E-ENTERTAINMENT"
+}, {
+    "channelName": "Fox Sports 3",
+    "channelCode": "SINGTEL-ESPN-HD"
+}, {
+    "channelName": "STAR Cricket",
+    "channelCode": "SINGTEL-STAR-CRICKET"
+}, {
+    "channelName": "Eurosport",
+    "channelCode": "SINGTEL-EUROSPORT"
+}, {
+    "channelName": "Setanta Sports",
+    "channelCode": "SINGTEL-SETANTA-SPORTS"
+}, {
+    "channelName": "GMA Pinoy TV",
+    "channelCode": "SINGTEL-GMA-PINOY-TV"
+}, {
+    "channelName": "GMA Life TV",
+    "channelCode": "SINGTEL-GMA-LIFE-TV"
+}, {
+    "channelName": "Colors",
+    "channelCode": "SINGTEL-COLORS-TV-HK"
+}, {
+    "channelName": "Star Plus",
+    "channelCode": "SINGTEL-STAR-PLUS"
+}, {
+    "channelName": "Life OK",
+    "channelCode": "SINGTEL-LIFE-OK"
+}, {
+    "channelName": "Vijay",
+    "channelCode": "SINGTEL-STAR-VIJAY"
+}, {
+    "channelName": "法国24台(法语频道)",
+    "channelCode": "SINGTEL-FRANCE24-FRENCH"
+}, {
+    "channelName": "Channel 8",
+    "channelCode": "SINGTEL-CHANNEL-8"
+}, {
+    "channelName": "Suria",
+    "channelCode": "SINGTEL-SURIA"
+}, {
+    "channelName": "Vasantham",
+    "channelCode": "SINGTEL-VASANTHAM"
+}, {
+    "channelName": "Nick JR",
+    "channelCode": "SINGTEL-NICK-JR"
+}, {
+    "channelName": "Channel U",
+    "channelCode": "SINGTEL-CHANNEL-U"
+}, {
+    "channelName": "Okto",
+    "channelCode": "SINGTEL-OKTO"
+}, {
+    "channelName": "Sun TV",
+    "channelCode": "SINGTEL-SUNTV"
+}, {
+    "channelName": "TFC",
+    "channelCode": "SINGTEL-THE-FILIPINO-CHANNEL"
+}, {
+    "channelName": "Astro Ria",
+    "channelCode": "SINGTEL-ASTRO-RIA-SG"
+}, {
+    "channelName": "TruTV",
+    "channelCode": "SINGTEL-TRUTV"
+}, {
+    "channelName": "Warner TV",
+    "channelCode": "SINGTEL-WARNER-TV"
+}, {
+    "channelName": "Travle Channel HD",
+    "channelCode": "SINGTEL-TRAVEL-CHANNEL"
+}, {
+    "channelName": "佳乐台",
+    "channelCode": "SINGTEL-JIALE"
+}, {
+    "channelName": "ONE",
+    "channelCode": "SINGTEL-ONE"
+}, {
+    "channelName": "Li",
+    "channelCode": "SINGTEL-LI"
+}, {
+    "channelName": "mio Stadium",
+    "channelCode": "SINGTEL-MIO-STADIUM"
+}, {
+    "channelName": "KIX HD",
+    "channelCode": "SINGTEL-KIX-HD-SG"
+}, {
+    "channelName": "Kalaignar TV",
+    "channelCode": "SINGTEL-KALAIGNAR-TV"
+}, {
+    "channelName": "SAB TV",
+    "channelCode": "SINGTEL-SAB-TV"
+}, {
+    "channelName": "Astro Prima",
+    "channelCode": "SINGTEL-ASTRO-PRIMA-SG"
+}, {
+    "channelName": "Astro Vellithirai",
+    "channelCode": "SINGTEL-ASTRO-VELLITHIRAI"
+}, {
+    "channelName": "Adithya",
+    "channelCode": "SINGTEL-ADITHYA"
+}, {
+    "channelName": "Fox Sports News",
+    "channelCode": "SINGTEL-ESPN-NEWS"
+}, {
+    "channelName": "Sony MAX",
+    "channelCode": "SINGTEL-SONY-MAX"
+}, {
+    "channelName": "Times Now",
+    "channelCode": "SINGTEL-TIMES-NOW"
+}, {
+    "channelName": "Channel M高清频道",
+    "channelCode": "SINGTEL-MNET-SG"
+}, {
+    "channelName": "Disney XD",
+    "channelCode": "SINGTEL-DISNEY-XD-SG"
+}, {
+    "channelName": "Trace Sports",
+    "channelCode": "SINGTEL-TRACE-SPORTS"
+}, {
+    "channelName": "FOX台湾频道",
+    "channelCode": "SINGTEL-FOX-FEC"
+}, {
+    "channelName": "STAR Cricket Extra",
+    "channelCode": "SINGTEL-STAR-CRICKET-PLUS"
+}, {
+    "channelName": "FOX Action Movies",
+    "channelCode": "SINGTEL-FOX-ACTION-MOVIES"
+}, {
+    "channelName": "Discovery Kids",
+    "channelCode": "SINGTEL-DISCOVERY-KIDS"
+}, {
+    "channelName": "Comedy Central Asia",
+    "channelCode": "SINGTEL-COMEDY-CENTRAL-ASIA"
+}, {
+    "channelName": "TOONAMI",
+    "channelCode": "SINGTEL-TOONAMI-SG"
+}, {
+    "channelName": "ONE (Malay)",
+    "channelCode": "SINGTEL-ONE-MALAY"
+}, {
+    "channelName": "Channel [V] India",
+    "channelCode": "SINGTEL-CHANNEL-V-INDIA"
+}, {
+    "channelName": "MNC Drama",
+    "channelCode": "SINGTEL-MNC-DRAMA-SG"
+}, {
+    "channelName": "Lifestyle Network",
+    "channelCode": "SINGTEL-Lifestyle Network-SG"
+}, {
+    "channelName": "maa TV",
+    "channelCode": "SINGTEL-MAATV"
+}, {
+    "channelName": "maa movies",
+    "channelCode": "SINGTEL-MAA-MOVIES"
+}, {
+    "channelName": "MEZZO LIVE HD",
+    "channelCode": "SINGTEL-MEZZO-LIVE-HD"
+}, {
+    "channelName": "ETV",
+    "channelCode": "SINGTEL-ETV-INDIA-SG"
+}, {
+    "channelName": "GMA News TV Intl",
+    "channelCode": "SINGTEL-GMA-NEWS-TV-INTERNATIONAL"
+}, {
+    "channelName": "FIGHT SPORTS",
+    "channelCode": "SINGTEL-FIGHT-SPORTS"
+}, {
+    "channelName": "RTL CBS Entertainment",
+    "channelCode": "SINGTEL-RTL-CBS-ENTERTAINMENT"
+}, {
+    "channelName": "ANIPLUS HD",
+    "channelCode": "SINGTEL-ANIPLUS-SG"
+}, {
+    "channelName": "WakuWaku Japan",
+    "channelCode": "SINGTEL-WAKUWAKU-JAPAN"
+}, {
+    "channelName": "DMAX",
+    "channelCode": "SINGTEL-DMAX-SG"
+}, {
+    "channelName": "RTL CBS EXTREME",
+    "channelCode": "SINGTEL-RTL-CBS-EXTREME"
+}, {
+    "channelName": "索尼台",
+    "channelCode": "SINGTEL-SNCATV-SG"
+}, {
+    "channelName": "HITS",
+    "channelCode": "SINGTEL-HITSATV-SG"
+}, {
+    "channelName": "Channel 5",
+    "channelCode": "SINGTEL-CHANNEL5-3"
+}, {
+    "channelName": "AMC (Asia)",
+    "channelCode": "SINGTEL-AMC-MOVIE-SG"
+}, {
+    "channelName": "亚洲新闻台",
+    "channelCode": "SGFTA-CNA-SG"
+}, {
+    "channelName": "Channel 8",
+    "channelCode": "SGFTA-CHANNEL-8"
+}, {
+    "channelName": "Suria",
+    "channelCode": "SGFTA-SURIA"
+}, {
+    "channelName": "Vasantham",
+    "channelCode": "SGFTA-VASANTHAM"
+}, {
+    "channelName": "Channel U",
+    "channelCode": "SGFTA-CHANNEL-U"
+}, {
+    "channelName": "Okto",
+    "channelCode": "SGFTA-OKTO"
+}, {
+    "channelName": "Channel 5",
+    "channelCode": "SGFTA-CHANNEL5-3"
+}, {
+    "channelName": "FASHION ONE",
+    "channelCode": "FREESAT-FASHION-ONE"
+}, {
+    "channelName": "BBC 1",
+    "channelCode": "FREESAT-BBC1-UK"
+}]
